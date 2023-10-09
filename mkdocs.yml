@@ -1,5 +1,5 @@
 # Replace the text below to customize your site
-site_name: Anna Fedele 1.2 - MDEF & Fab Lab Barcelona
+site_name: Anna Fedele - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
 site_author: Anna Fedele
 copyright: Copyleft 2023 "Anna Fedele" - GNU Free Documentation License
@@ -44,7 +44,7 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: red
+    primary: green
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
