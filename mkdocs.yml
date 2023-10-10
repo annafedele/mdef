@@ -51,8 +51,8 @@ theme:
     accent: yellow
   font:
     # See available fonts at https://fonts.google.com/
-    text: Overpass
-    code: Overpass Mono
+    text: Martian
+    code: Martian Mono
   icon:
     logo: material/memory
   favicon: images/favicon.svg

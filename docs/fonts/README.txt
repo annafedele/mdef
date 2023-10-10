@@ -1,22 +1,50 @@
-Overpass Mono Variable Font
-===========================
+Martian Mono Variable Font
+==========================
 
-This download contains Overpass Mono as both a variable font and static fonts.
+This download contains Martian Mono as both a variable font and static fonts.
 
-Overpass Mono is a variable font with this axis:
+Martian Mono is a variable font with these axes:
+  wdth
   wght
 
 This means all the styles are contained in a single file:
-  OverpassMono-VariableFont_wght.ttf
+  MartianMono-VariableFont_wdth,wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Overpass Mono:
-  static/OverpassMono-Light.ttf
-  static/OverpassMono-Regular.ttf
-  static/OverpassMono-Medium.ttf
-  static/OverpassMono-SemiBold.ttf
-  static/OverpassMono-Bold.ttf
+in those cases you can use the static font files for Martian Mono:
+  static/MartianMono_Condensed-Thin.ttf
+  static/MartianMono_Condensed-ExtraLight.ttf
+  static/MartianMono_Condensed-Light.ttf
+  static/MartianMono_Condensed-Regular.ttf
+  static/MartianMono_Condensed-Medium.ttf
+  static/MartianMono_Condensed-SemiBold.ttf
+  static/MartianMono_Condensed-Bold.ttf
+  static/MartianMono_Condensed-ExtraBold.ttf
+  static/MartianMono_SemiCondensed-Thin.ttf
+  static/MartianMono_SemiCondensed-ExtraLight.ttf
+  static/MartianMono_SemiCondensed-Light.ttf
+  static/MartianMono_SemiCondensed-Regular.ttf
+  static/MartianMono_SemiCondensed-Medium.ttf
+  static/MartianMono_SemiCondensed-SemiBold.ttf
+  static/MartianMono_SemiCondensed-Bold.ttf
+  static/MartianMono_SemiCondensed-ExtraBold.ttf
+  static/MartianMono-Thin.ttf
+  static/MartianMono-ExtraLight.ttf
+  static/MartianMono-Light.ttf
+  static/MartianMono-Regular.ttf
+  static/MartianMono-Medium.ttf
+  static/MartianMono-SemiBold.ttf
+  static/MartianMono-Bold.ttf
+  static/MartianMono-ExtraBold.ttf
+  static/MartianMono_SemiExpanded-Thin.ttf
+  static/MartianMono_SemiExpanded-ExtraLight.ttf
+  static/MartianMono_SemiExpanded-Light.ttf
+  static/MartianMono_SemiExpanded-Regular.ttf
+  static/MartianMono_SemiExpanded-Medium.ttf
+  static/MartianMono_SemiExpanded-SemiBold.ttf
+  static/MartianMono_SemiExpanded-Bold.ttf
+  static/MartianMono_SemiExpanded-ExtraBold.ttf
 
 Get started
 -----------
