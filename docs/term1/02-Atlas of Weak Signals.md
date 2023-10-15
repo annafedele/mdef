@@ -40,6 +40,15 @@ I’ve also thought of a new weak signal to add to the deck, and I’ve named it
 
 ![](../images/AOWS_1MIA.png)
 
-## Multiscalar personal design space
 
 ![](<../images/Tavola disegno 3-100.jpg>)
+
+![](<../images/Tavola disegno 4-100.jpg>)
+
+My own space is also non-defined as a establish way, it expands its meaning concentrically, like the water in a lake when you drop a stone in it.
+
+The key word for my space is *empathy*: being able to feel other person feeling to such an extent that those feeling become yours.
+
+The space is about re-establishing balances between the triads human-technology-space because now is an never ending battle for taking over the other two, and maybe it’s necessary to look back to understand how to manage the future.
+
+Another important topic that really intrigued me is the *regenerative* design, in this case, as something that can solve its own errors, rebirth every time.
