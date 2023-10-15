@@ -23,7 +23,7 @@ In order to build our space, we’ve firstly played this sort of card game: it c
 
 We did an example in class:
 
-![](../images/IMG_1852.heic)
+![](../images/IMG_1852.jpg)
 
 
 
@@ -35,6 +35,6 @@ I was intrigued in “Reconfigure your body” and “Dismantling filter bubbles
 
 ## New cards for the deck
 
-I’ve also thought of a new weak signal to add to the deck, and I’ve named it “**New political arrangement”: according to me, society will develop in the future - in a negative or positive way- with its own facets and declinatios that, for me, are constantly evolving. For this reason, also politics and political parties, establish to collect society’s ideas and willingness, will constantly change their arrangements, so it should be take in consideration as a weak signal.
+I’ve also thought of a new weak signal to add to the deck, and I’ve named it “**New political arrangement**”: according to me, society will develop in the future - in a negative or positive way- with its own facets and declinatios that, for me, are constantly evolving. For this reason, also politics and political parties, establish to collect society’s ideas and willingness, will constantly change their arrangements, so it should be take in consideration as a weak signal.
 
 ![](../images/MT01/scorpio_blow.jpg)
