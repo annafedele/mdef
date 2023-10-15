@@ -23,6 +23,10 @@ In order to build our space, we’ve firstly played this sort of card game: it c
 
 We did an example in class:
 
+![](../images/IMG_1852.heic)
+
+
+
 ## My own AOWS
 
 Looking at all the cards in the deck,i decided not to follow a precise methodology, instead I’ve preferred to let me guide on what weak signals interest me the most.
