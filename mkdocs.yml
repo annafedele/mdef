@@ -46,7 +46,6 @@ theme:
   name: material
   palette:
     scheme: mypalette
-
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: pink
     accent: yellow
