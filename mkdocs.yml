@@ -47,7 +47,7 @@ theme:
   palette:
     scheme: mypalette
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: pink
+    primary:  #DB0F74;
     accent: yellow
   font:
     # See available fonts at https://fonts.google.com/
