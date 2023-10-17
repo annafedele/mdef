@@ -10,8 +10,9 @@
     --md-typeset-a-color: rgb(12, 240, 190);
 
 }
-
-
+body {
+background-color: #DB0F74;
+}
 .hide-scroll-bar {
     -ms-overflow-style: none;
     scrollbar-width: none;
