@@ -51,8 +51,8 @@ theme:
     accent: yellow
   font:
     # See available fonts at https://fonts.google.com/
-    text: Overpass
-    code: Overpass Mono
+    text: docs/fonts/static/MartianMono_SemiCondensed-Medium.ttf
+    code: docs/fonts/static/MartianMono_SemiCondensed-Medium.ttf
   icon:
     logo: material/memory
   favicon: images/favicon.svg
