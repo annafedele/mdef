@@ -47,8 +47,8 @@ theme:
   palette:
     scheme: mypalette
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: rgb(255, 0, 0);
-    accent: rgb(255, 0, 0);
+    primary: red;
+    accent: red;
   font:
     # See available fonts at https://fonts.google.com/
     text: docs/fonts/static/MartianMono_SemiCondensed-Medium.ttf
