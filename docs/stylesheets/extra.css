@@ -8,7 +8,7 @@
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
     --md-typeset-a-color:rgb(255, 0, 0);
-
+}
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
