@@ -9,10 +9,7 @@
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
     --md-typeset-a-color:rgb(255, 0, 0);
 
-}
-body {
-background-color: #F0A5D3;
-}
+
 .hide-scroll-bar {
     -ms-overflow-style: none;
     scrollbar-width: none;
