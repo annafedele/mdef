@@ -1,13 +1,13 @@
 :root>* {
 
-    --md-footer-bg-color: yellow;
-    --md-footer-fg-color: rgb(32, 32, 32);
-    --md-footer-bg-color--dark: white;
-    --md-footer-fg-color--lighter:  rgb(32, 32, 32);
-    --md-footer-fg-color--light:  rgb(32, 32, 32);
+    --md-footer-bg-color: rgb(255, 0, 0);
+    --md-footer-fg-color: rgb(255, 0, 0);
+    --md-footer-bg-color--dark: rgb(255, 0, 0);
+    --md-footer-fg-color--lighter:  rgb(255, 0, 0);
+    --md-footer-fg-color--light:  rgb(255, 0, 0);
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
-    --md-typeset-a-color:yellow;
+    --md-typeset-a-color:rgb(255, 0, 0);
 
 }
 body {
