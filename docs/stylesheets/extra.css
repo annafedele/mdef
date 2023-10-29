@@ -33,11 +33,11 @@ body {
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(32, 32, 32);
+  color: rgb(255, 0, 0);
 }
 
 .md-typeset h2 {
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .mdc-typography--body2 {
