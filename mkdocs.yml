@@ -53,8 +53,8 @@ theme:
     # See available fonts at https://fonts.google.com/
     text: 
     code: Roboto Mono
-  icon:
-    logo: images/MT01/LOGOWB.png
+
+   logo: images/MT01/LOGOWB.png
   favicon: images/MT01/LOGOWB.png
   features:
     - instant
