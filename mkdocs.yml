@@ -51,11 +51,11 @@ theme:
     accent: red
   font:
     # See available fonts at https://fonts.google.com/
-    text: docs/fonts/static/MartianMono_SemiCondensed-Medium.ttf
-    code: docs/fonts/static/MartianMono_SemiCondensed-Medium.ttf
+    text: 
+    code: Roboto Mono
   icon:
     logo: material/memory
-  favicon: images/favicon.svg
+  favicon: docs/images/MT01/Risorsa_2LOGOWB.png
   features:
     - instant
     - navigation.expand
