@@ -54,8 +54,8 @@ theme:
     text: 
     code: Roboto Mono
   icon:
-    logo: docs/images/MT01/LOGOWB.png
-  favicon:
+    logo: images/MT01/LOGOWB.png
+  favicon: images/MT01/LOGOWB.png
   features:
     - instant
     - navigation.expand
