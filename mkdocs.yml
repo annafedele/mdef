@@ -54,7 +54,7 @@ theme:
     text: 
     code: Roboto Mono
   icon:
-    logo: material/memory
+    logo: docs/images/MT01/Risorsa 2LOGOWB.png
   favicon: docs/images/MT01/Risorsa 2LOGOWB.png
   features:
     - instant
