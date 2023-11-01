@@ -1,6 +1,20 @@
 
 *17.10-27.10*
 
+(https://sketchfab.com/3d-models/3d-printer-e502641d13b24bd5b1fdc4618c199533)
+
+### Forensic Report: FundacioCIM 3D Printer
+
+| Serial number: 01 150929 1189 |
+| Brand: FUNDACIOCIM |
+| Header: Title |
+| Paragraph: Text | 
+| Model: BCN3D+ |
+| Year: 2015 |
+| Weight: 11,6 kg |
+| Colour: BLACK/BLUE |
+| Made in: SPAIN |
+
 ### **Forensic Questions**
 
 **What does it do?**‍
@@ -99,3 +113,27 @@ Yes, temperature sensors.
 - The fact that we can make the extruder work with just 3 components
 - How easy and repareable it is
 - How much the 3D technology has improved since 2015
+
+
+
+# **(Almost Useful) Machines - LifeX**
+
+In Week 2 of the 'Machine Paradox' phase, we took our achievements from Week 1 to the next level. While the initial week was dedicated to disassembling and testing individual components, this week presented us with a unique challenge: to innovate and craft a new product using parts extracted from the printer. An intriguing twist to this assignment was the directive to design the machine to be as whimsical and non-functional as possible. This encouraged us to let our creativity run wild and embrace a playful approach.
+
+
+Even with a treasure trove of components at our disposal from the 3D printer—including two motors, an extruder, and more—we embraced an audacious and captivating concept: the LifeX, a so-called 'life expectancy predictor'.
+
+‍
+> At its core, LifeX uses the X-axis motor and belt system. With a simple push of a button, a pen draws a line on a paper below, supposedly predicting the age at which the user will pass away. It's a tongue-in-cheek nod to the dubious claims of some fortune tellers. In truth, an Arduino board is programmed to halt at a random number, influenced by the moment the user activates it.
+>
+
+The motor maneuvers the pen across what we playfully dub your 'life bookmark', a creation thoughtfully crafted by one of our talented team members. This ticket, more than just a whimsical prediction, serves as a keepsake from this pseudo-paranormal encounter. Hold onto it and cherish the memory of this unique experience!
+
+
+
+We were privileged to be part of a diverse team, boasting a rich tapestry of skills from varied backgrounds. This multidisciplinary blend, from engineering acumen to artistic flair, was instrumental in propelling our project to completion. It was this collective genius that birthed such a unique and delightful machine.
+
+One of the most captivating stages of our journey was the decision-making process regarding which parts to repurpose from the printer and what additional elements we would introduce. We strategically utilized only essential components, complementing them with bespoke pieces crafted through 3D printing, CNC, and laser techniques—thanks to the advanced digital fabrication facilities available at our school.
+
+
+[video here!](https://vimeo.com/user181771671)
