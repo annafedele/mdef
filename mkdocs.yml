@@ -52,8 +52,7 @@ theme:
     accent: red
   font:
     # See available fonts at https://fonts.google.com/
-    text: 
-    code: Roboto Mono
+      code: DM Mono
 
   logo: images/MT01/LOGOWB.png
   favicon: images/MT01/LOGOWB.png

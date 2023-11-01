@@ -37,10 +37,10 @@ body {
 }
 
 .md-typeset h2 {
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .mdc-typography--body2 {
-    font-weight: 300;
+    font-weight: 400;
     font-size: 14px;
 }
