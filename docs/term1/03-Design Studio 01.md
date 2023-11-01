@@ -1,5 +1,5 @@
 ## Design Studio 01
-# 03.10
+*03.10*
 
 During my past experience as a product designer I’ve learnt that the action of prototyping an idea is the best way to spread it and make it one step closer to become real. Prototype makes you realize things that in your mind have a theoretically a direction and a sense, but sometimes they take another way when you try to basically make them; and i’m not talking only about the physical part of a product like dimensions and materials, but also concepts and ideas: i think that prototyping can let you understand even how your idea is communicated, or which status is it. 
 

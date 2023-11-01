@@ -1,6 +1,5 @@
-## THE MACHINE PARADOX
 
-17.10-27.10
+*17.10-27.10*
 
 ### **Forensic Questions**
 
@@ -28,7 +27,7 @@ The 3D printer still functions, but it's an older, unstable model with low accur
 
 ![Alt text](../images/TMPFOTO1.png)
 
-## **Powering things up**
+### **Powering things up**
 
 ‍
 After the disassembly process, we meticulously examined each individual component. Utilizing a precision lab power supply and a high-resolution multimeter, we conducted comprehensive tests to determine the optimal voltage required for each component's functionality.

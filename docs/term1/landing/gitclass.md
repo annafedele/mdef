@@ -1,4 +1,3 @@
-## LANDING
 
 
 ![Alt text](../../images/landing3.png)
