@@ -1,20 +1,18 @@
-
+# THE MACHINE PARADOX
 *17.10-27.10*
 
-(https://sketchfab.com/3d-models/3d-printer-e502641d13b24bd5b1fdc4618c199533)
+[3D MODEL](https://sketchfab.com/3d-models/3d-printer-e502641d13b24bd5b1fdc4618c199533)
 
 ### Forensic Report: FundacioCIM 3D Printer
 
-| Serial number: 01 150929 1189 |
-| Brand: FUNDACIOCIM |
-| Header: Title |
-| Paragraph: Text | 
-| Model: BCN3D+ |
-| Year: 2015 |
-| Weight: 11,6 kg |
-| Colour: BLACK/BLUE |
-| Made in: SPAIN |
-
+> Serial number: 01 150929 1189 
+Brand: FUNDACIOCIM 
+Year: 2015
+Model: BCN3D+
+Weight: 11,6 kg 
+Colour: BLACK/BLUE 
+Made in: SPAIN 
+>
 ### **Forensic Questions**
 
 **What does it do?**‍
@@ -116,9 +114,13 @@ Yes, temperature sensors.
 
 
 
+
+
 # **(Almost Useful) Machines - LifeX**
 
 In Week 2 of the 'Machine Paradox' phase, we took our achievements from Week 1 to the next level. While the initial week was dedicated to disassembling and testing individual components, this week presented us with a unique challenge: to innovate and craft a new product using parts extracted from the printer. An intriguing twist to this assignment was the directive to design the machine to be as whimsical and non-functional as possible. This encouraged us to let our creativity run wild and embrace a playful approach.
+
+![Alt text](../images/TMPFOTO2.png)
 
 
 Even with a treasure trove of components at our disposal from the 3D printer—including two motors, an extruder, and more—we embraced an audacious and captivating concept: the LifeX, a so-called 'life expectancy predictor'.
