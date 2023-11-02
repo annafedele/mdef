@@ -52,7 +52,8 @@ theme:
     accent: red
   font:
     # See available fonts at https://fonts.google.com/
-      code: docs/fonts/DM_Mono
+     text: DM_Mono
+      code: DM_Mono
 
   logo: images/MT01/LOGOWB.png
   favicon: images/MT01/LOGOWB.png
