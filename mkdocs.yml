@@ -53,7 +53,7 @@ theme:
   font:
     # See available fonts at https://fonts.google.com/
      text: DM Mono
-      code: DM Mono
+     code: DM Mono
 
   logo: images/MT01/LOGOWB.png
   favicon: images/MT01/LOGOWB.png
