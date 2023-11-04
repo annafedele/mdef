@@ -3,7 +3,7 @@
 
 [3D MODEL](https://sketchfab.com/3d-models/3d-printer-e502641d13b24bd5b1fdc4618c199533)
 
-### Forensic Report: FundacioCIM 3D Printer
+## Forensic Report: FundacioCIM 3D Printer
 
 > Serial number: 01 150929 1189 
 Brand: FUNDACIOCIM 
@@ -39,25 +39,21 @@ The 3D printer still functions, but it's an older, unstable model with low accur
 
 ![Alt text](../images/TMPFOTO1.png)
 
-### **Powering things up**
+## **Powering things up**
 
 ‍
 After the disassembly process, we meticulously examined each individual component. Utilizing a precision lab power supply and a high-resolution multimeter, we conducted comprehensive tests to determine the optimal voltage required for each component's functionality.
 
-‍- **WHAT WE POWER UP**
-    
-    DC Lab Power Supply - How we brought individual 3D Printer components back to life
-    
-    We monitored the temperature of the hot plate while gradually increasing the voltage
-    
-    We check the temperature sensor looking at the values
-    
-    We dissasemble the part of the extruder
+‍ **WHAT WE POWER UP** 
+- DC Lab Power Supply - How we brought individual 3D Printer components back to life
+- We monitored the temperature of the hot plate while gradually increasing the voltage
+- We check the temperature sensor looking at the values
+- We dissasemble the part of the extruder
 
 
 ![Alt text](../images/TMPFOTO3.png)
 
-### **Results**
+## **Results**
 
 **How many motors did we find inside?**
 
@@ -75,7 +71,7 @@ Yes, an Arduino board and a RAMPS.
 
 Yes, temperature sensors.
 
-### **Conclusions**
+## **Conclusions**
 
 **What did you learn?**
 
@@ -98,7 +94,7 @@ Yes, temperature sensors.
 
 
 
-# **(Almost Useful) Machines - LifeX**
+## **(Almost Useful) Machines - LifeX**
 
 In Week 2 of the 'Machine Paradox' phase, we took our achievements from Week 1 to the next level. While the initial week was dedicated to disassembling and testing individual components, this week presented us with a unique challenge: to innovate and craft a new product using parts extracted from the printer. An intriguing twist to this assignment was the directive to design the machine to be as whimsical and non-functional as possible. This encouraged us to let our creativity run wild and embrace a playful approach.
 
