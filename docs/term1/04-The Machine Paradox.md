@@ -44,34 +44,18 @@ The 3D printer still functions, but it's an older, unstable model with low accur
 ‍
 After the disassembly process, we meticulously examined each individual component. Utilizing a precision lab power supply and a high-resolution multimeter, we conducted comprehensive tests to determine the optimal voltage required for each component's functionality.
 
-‍
+‍- **WHAT WE POWER UP**
+    
+    DC Lab Power Supply - How we brought individual 3D Printer components back to life
+    
+    We monitored the temperature of the hot plate while gradually increasing the voltage
+    
+    We check the temperature sensor looking at the values
+    
+    We dissasemble the part of the extruder
 
 
-DC Lab Power Supply - How we brought individual 3D Printer components back to life
-
-
-
-The supply powering the printer hot plate
-
-
-
-We monitored the temperature of the hot plate while gradually increasing the voltage
-
-‍
-
-Connecting the power-supply to the extruder
-
-
-
-The printer monitor displaying again after a very long rest
-
-
-
-Powering the printer nozzle
-
-
-
-Extruder melting filament
+![Alt text](../images/TMPFOTO3.png)
 
 ### **Results**
 
@@ -84,8 +68,6 @@ Five motors - they are used to move the extruder in the three axis to permit dra
 **Does it contain a computer or microcontroller?**
 
 Yes, an Arduino board and a RAMPS.
-
-‍
 
 
 
@@ -131,7 +113,8 @@ Even with a treasure trove of components at our disposal from the 3D printer—i
 
 The motor maneuvers the pen across what we playfully dub your 'life bookmark', a creation thoughtfully crafted by one of our talented team members. This ticket, more than just a whimsical prediction, serves as a keepsake from this pseudo-paranormal encounter. Hold onto it and cherish the memory of this unique experience!
 
-
+![Alt text](../images/GIFTMP.gif)
+![Alt text](../images/TMPFOTO4.png)
 
 We were privileged to be part of a diverse team, boasting a rich tapestry of skills from varied backgrounds. This multidisciplinary blend, from engineering acumen to artistic flair, was instrumental in propelling our project to completion. It was this collective genius that birthed such a unique and delightful machine.
 
