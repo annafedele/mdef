@@ -32,7 +32,7 @@ We did an example in class:
 Looking at all the cards in the deck,i decided not to follow a precise methodology, instead I’ve preferred to let me guide on what weak signals interest me the most.
 
 I was intrigued in “Reconfigure your body” and “Dismantling filter bubbles” because i feel them close to my personal experience and I’ve related them to a state of versatility of the body that it has always to change in order to sustain our fast lifestyle and erase the isolation created by algorithm (filter bubbles) that they convey our everyday life online and also how this could de in an close future.
-![](../images/Tavola-disegno-2.jpg)
+![Alt text](<../images/Risorsa 1LOGOWB.png>)
 
 ## New cards for the deck
 
@@ -41,9 +41,9 @@ I’ve also thought of a new weak signal to add to the deck, and I’ve named it
 ![](../images/AOWS_1MIA.png)
 
 
-![](<../images/Tavola disegno 3-100.jpg>)
+![Alt text](<../images/Risorsa 2LOGOWB.png>)
 
-![](<../images/Tavola disegno 4-100.jpg>)
+![Alt text](<../images/Risorsa 3LOGOWB.png>)
 
 My own space is also non-defined as a establish way, it expands its meaning concentrically, like the water in a lake when you drop a stone in it.
 
