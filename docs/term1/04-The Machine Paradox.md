@@ -44,12 +44,13 @@ The 3D printer still functions, but it's an older, unstable model with low accur
 ‍
 After the disassembly process, we meticulously examined each individual component. Utilizing a precision lab power supply and a high-resolution multimeter, we conducted comprehensive tests to determine the optimal voltage required for each component's functionality.
 
-‍ **WHAT WE POWER UP**
+‍ ??? **WHAT WE POWER UP**
 
 - DC Lab Power Supply - How we brought individual 3D Printer components back to life
 - We monitored the temperature of the hot plate while gradually increasing the voltage
 - We check the temperature sensor looking at the values
 - We dissasemble the part of the extruder
+
 
 
 ![Alt text](../images/TMPFOTO3.png)
