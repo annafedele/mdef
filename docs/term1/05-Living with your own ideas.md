@@ -35,8 +35,7 @@ COMPANION, INDIPENDECE THE NEED TO BE SELF-RELIANT
 
 - it matters because it is time for me to be more self-confident
 
-![Alt text](../images/LWYOIFOTO2.png)
+![Alt text](../images/LWYOIFOTO3.png)
 
 ![Alt text](../images/LWYOIFOTO1.png)
 
-![Alt text](../images/LWYOIFOTO3.png)
