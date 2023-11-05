@@ -24,3 +24,16 @@ We also did an activity related into changing roles of PP of our classmates old 
 I thought that it could be interesting move the emphasis of the project not on the object itself, but on the materials and the process what this object could be make. So I’ve designed a toolkit where the part of the lint roller are modular and in different materials, focusing on the PP’s role 4.
 
 ![Alt text](../images/IMG_2071prova2.gif)
+
+## DESIGN INTERVENTION
+*31.01-5.11*
+
+<iframe 
+	width="560" 
+	height="315" 
+	src="https://www.youtube.com/embed/clqQcb9bE1c?si=BqSqym0PfFbUSNHK" 
+	title="YouTube video player" 
+	frameborder="0" 
+	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+	allowfullscreen>
+</iframe>
