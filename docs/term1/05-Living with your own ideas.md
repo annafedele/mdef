@@ -40,4 +40,3 @@ COMPANION, INDIPENDECE THE NEED TO BE SELF-RELIANT
 ![Alt text](../images/LWYOIFOTO1.png)
 
 ![Alt text](../images/LWYOIFOTO3.png)
-
