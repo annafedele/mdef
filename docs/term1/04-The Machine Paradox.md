@@ -125,4 +125,4 @@ Finally, I really enjoyed this seminar because it gave me the opportunity to act
 
 We worked excellently as a team! Each of us had our individual skills in specific areas, but we collaborated with one another on every task, learning from each other and also from failure: during the process we met a lot of obstacles, about the code, the 3d printed parts, the working mechanism... but i've really like that we work toghther for solving them ,or reshaping the project with some constraints that we met.
 
-[video here!](https://vimeo.com/user181771671)
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/878611346?h=13229e04f0" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
