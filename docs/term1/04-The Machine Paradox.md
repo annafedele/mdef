@@ -118,6 +118,7 @@ We were privileged to be part of a diverse team, boasting a rich tapestry of ski
 
 One of the most captivating stages of our journey was the decision-making process regarding which parts to repurpose from the printer and what additional elements we would introduce. We strategically utilized only essential components, complementing them with bespoke pieces crafted through 3D printing, CNC, and laser techniques—thanks to the advanced digital fabrication facilities available at our school.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vosQQlPurCI?si=KcCvjDRR-3RHOQhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## personal reflection
 
