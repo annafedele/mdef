@@ -55,8 +55,8 @@ theme:
      text: DM Mono
      code: DM Mono
 
-  logo: images/MT01/LOGOWB.png
-  favicon: images/MT01/LOGOWB.png
+  logo: images/MT01/Risorsa4LOGOWB.png
+  favicon: images/MT01/Risorsa4LOGOWB.png
   features:
     - instant
     - navigation.expand
