@@ -1,3 +1,5 @@
 
 
-*Here there's my documentation about my jourey at MDEF, i hope you enjoy it!* 
+ ![Alt text](<images/Composizione 2.gif>)
+
+ xoxo Anna
