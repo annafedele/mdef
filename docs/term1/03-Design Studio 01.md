@@ -20,11 +20,10 @@ Reflecting on these four types of prototyping related to design interventions, i
 
 ## GROUP EXERCISE
 
-![Alt text](../images/IMG_2071prova2.gif) { align=left }
 We also did an activity related into changing roles of PP of our classmates old projects. I choose Jorge’s project that was about designing a lint roller. We collocated his project in the PP’s role 1, as the prototype was made to experiment a specific idea.
 I thought that it could be interesting move the emphasis of the project not on the object itself, but on the materials and the process what this object could be make. So I’ve designed a toolkit where the part of the lint roller are modular and in different materials, focusing on the PP’s role 4.
-
-
+ 
+![Alt text](../images/IMG_2071_2.gif)
 
 ## DESIGN INTERVENTION
 *31.01-5.11*
