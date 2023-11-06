@@ -27,6 +27,15 @@ I thought that it could be interesting move the emphasis of the project not on t
 
 ## DESIGN INTERVENTION
 *31.01-5.11*
+## Process
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNS9A5Cg=/?moveToViewport=-1723,-927,3487,1784&embedId=443776030871" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+![Alt text](../images/DSFOTO1.png)
+
+![Alt text](../images/DSFOTO2.png)
+
+
 
 <iframe 
 	width="560" 
