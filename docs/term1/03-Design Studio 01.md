@@ -26,14 +26,37 @@ I thought that it could be interesting move the emphasis of the project not on t
 
 ## DESIGN INTERVENTION
 *31.01-5.11*
+
+Unfourtunatly i wasn’t able to participate to the exercise about the collective design workspace with the whole class, but i found out that there were other people that were missing on monday, so we created a group composed by Nicolò, Anthuanet, Sophie, Marius and I
+
+We initiated our journey during this initial Design Intervention by exchanging our personal Design Spaces. Despite our diverse backgrounds and varying aspirations, we unearthed a shared set of common values.
+
 ## Process
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNS9A5Cg=/?moveToViewport=-1723,-927,3487,1784&embedId=443776030871" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+So, we collocated the place of our intrvention in metro stations:
+People from diverse backgrounds utilize public transportation, placing them in direct contact with the myriad conditions and experiences it entails.
+
+The underground environment is intriguing not only in terms of shared space among individuals but also in its interaction with bacteria, noise, stress, recreation, education, and more.
+
+Our goal is to raise awareness about the air quality conditions in public transportation, with a specific emphasis on Barcelona's Metro System. As governments and citizens increasingly call for expanded public transit networks, it becomes essential to assess and unveil the environmental consequences of these systems
+
+
+
+## Ideation and prototyping
+
+To address this challenge, we've armed ourselves with a PM2.5 sensor. Evaluating PM2.5 levels is critical for assessing air quality because these particles serve as vital indicators of health risks stemming from air pollution. PM2.5 refers to particulate matter with a diameter of 2.5 micrometers or smaller. These minuscule particles are capable of penetrating deep into the lungs and can even enter the bloodstream, leading to significant health issues.
+
+We've connected this sensor to a speaker that provides real-time feedback on air quality at various stations within Barcelona's Metro. During a typical commute from La Pau Station to Bogatell on the L4 Metro, (that's my journey to reach IAAC) we used the sensor's readings to audibly illustrate the invisible airborne threats we unknowingly inhale.
 
 ![Alt text](../images/DSFOTO1.png)
 
 ![Alt text](../images/DSFOTO2.png)
 
+After the intervention we discovered that, in average the values of PM2.5 were lower in 6 stations, but raise in Besos and Bogatell, due to the scarse air ventilation in the metro station or the affluence of people
+
+According to me, the most interesting thing about this intervention ,a part from the enviromental sensing, was the fact that we were able to create a little project with a specific purpose, related also to sensors, in a few time. it will be interesting to develop the intervention adding some other values to evaluate or to costumize the box that we use for the sensing: changing the materials, the shape and the composition of the electronic parts inside.
 
 
 <iframe 
