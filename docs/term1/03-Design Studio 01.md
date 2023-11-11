@@ -69,3 +69,46 @@ According to me, the most interesting thing about this intervention ,a part from
 	allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 	allowfullscreen>
 </iframe>
+
+
+
+*6.11*
+
+*Here some notes and definitions of the topics that we explored with Laura*
+
+POWER RELATIONS→ (Espinoza)
+
+negative/oppressive→ *potestas* (surveillance)
+
+positive/empowering→ *potentia* 
+
+Both happened at the same time (we’re exercizing in power)
+
+**WHAT THE BODY CAN DO** (corresponds to the nature and its capacity to be **affected**) affected (and being affected) as relations, networks
+
+**Wor(l)ding**(wording and worlding)→ focus on human/ non-human agencies (entaglement), turning attetionas to certian experience, our active engagment (commitment) 
+
+1PP+SE= a particular world emerges from the individual related with a number oh phenomena
+
+embodied process(different ways of being the world)
+
+WORD THE WORLD BETTER
+
+narrative and storytelling from another prospective, sound (personal narrative, collective storytelling)
+
+(BOOKS: sonic agency,vibrant matter)
+
+MATTER MATTERS IN PROCESSES OF BECOMING→ material storytelling denotes th central role of materiality
+
+SF→ string figures, games with string figures giving and receving patterns (prototyping)
+
+
+## choosing a figure
+
+(a figure that has a narrative with me but at the same time collects the others)
+
+*The figure/not-figure* that i choose is an animation that I’ve modeled as a visual identity for an exhibition in a contemporary art gallery.
+
+![Alt text](<../images/MT01/PROVA ANIMAZ - Copia.gif>)
+
+According to me, this animation is my first trial as creating a visual identity for an art gallery that can resume the topics of the exhibition and at the same time attract people. ==The figure itself joins my **inspirations** -my design background- with my **aspirations**, as exploring and being part of the contemporary art world==. Otherwise, it collects the others as a way of comunication and explanation of the exhibition; to create a bond between them in order to get closer the watcher with the artists projects.
