@@ -1,5 +1,7 @@
 *07.11-17.11*
 
+# FIRST WEEK: Bio Zero
+
 ## GMO PROPOSAL: a natural defense against pathogenic microorganisms in sludges
 
 GMO PROPOSAL: a natural defense against pathogenic microorganisms in sludges
@@ -32,3 +34,6 @@ REFERENCES
 *Caporaletti, A., & Caporaletti, A. (2023, May 18). Alluvione in Emilia-Romagna, reportage dall’apocalisse: pioggia, fango e dolore sotto un cielo di pietra. Quotidiano Nazionale. https://www.quotidiano.net/cronaca/alluvione-emilia-romagna-reportage-05a64574*
 *SITNFlash. (2015, August 11). How to make a GMO - Science in the news. Science in the News. https://sitn.hms.harvard.edu/flash/2015/how-to-make-a-gmo*
 
+
+
+# SECOND WEEK: Agri Zero
