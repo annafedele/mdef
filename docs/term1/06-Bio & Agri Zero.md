@@ -14,7 +14,6 @@ graph LR
   F --> G[physiology(different scale)];
   G --> H[CULTURAL EVOLUTION *(language,interaction, spreading knowledge)*];
   H --> I[ synthetic biology, **THE ACTION**];
-
 ```
 
 Here there are some notes of the lectures
@@ -130,7 +129,9 @@ The combination of the genes of these fungi, which are adept at decomposing hydr
 
 REFERENCES
 *Vágvölgyi, C., Vörös, M., Bóka, B., Pucarević, M., Jovanović, L., Panković, D., & Manczinger, L. (2014). Degradation of phenol derivatives by a phanerochaete chrysosporium strain. Review on Agriculture and Rural Development, 3(1), 161-164.*
+
 *Caporaletti, A., & Caporaletti, A. (2023, May 18). Alluvione in Emilia-Romagna, reportage dall’apocalisse: pioggia, fango e dolore sotto un cielo di pietra. Quotidiano Nazionale. https://www.quotidiano.net/cronaca/alluvione-emilia-romagna-reportage-05a64574*
+
 *SITNFlash. (2015, August 11). How to make a GMO - Science in the news. Science in the News. https://sitn.hms.harvard.edu/flash/2015/how-to-make-a-gmo*
 
 
