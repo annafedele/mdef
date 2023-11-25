@@ -5,18 +5,18 @@
 # FIRST WEEK: Bio Zero
 
 ``` mermaid
-stateDiagram-v2
+graph LR
+  A[quantum mechanics] --> B[chemistry];
+  B --> C[biochemistry];
+  C --> D[molecular biology];
+  D --> E[micro biology];
+  E --> F[cellular biology];
+  F --> G[physiology(different scale)];
+  G --> H[CULTURAL EVOLUTION *(language,interaction, spreading knowledge)*];
+  H --> I[ synthetic biology, **THE ACTION**];
 
-    state join_state <<join>>
-    [Qunatum Mechanics] --> join_state
-    join_state --> Chemistry
-    join_state --> Biochemistry
-    join_state --> Molecular Biology
-    join_state --> Micro Biology
-    join_state --> Physiology (different scale)
-    join_state --> CULTURAL EVOLUTION (language,interaction, spreading knowledge)
-    join_state --> syntetic biology, THE ACTION
 ```
+
 Here there are some notes of the lectures
  
 PLANETARY WELLBEING→ 
@@ -50,6 +50,11 @@ by kijngdoms
 
 
 ## Growing bacteria 
+The second day we prepared some recipes for growing bacteria cultures.
+
+??? Breeding grounds
+
+ Breeding grounds are solid or liquid solutions containing nutrients on which eukaryotic and prokaryotic cells can grow. Bacterial media, those on which bacterial and other prokaryotic colonies can grow, are simpler than eukaryotic media.
 
 
 ## GMO PROPOSAL: a natural defense against pathogenic microorganisms in sludges
@@ -59,8 +64,8 @@ My proposal for a genetic modified organism is strictly related at series of eve
 The flooding and geological occurrences were caused by continuous rainfall resulting from an occluded weather front that originated from the Atlantic. This weather front was fueled by a Mediterranean cyclone. These weather conditions led to extensive flooding, overflowing rivers, and landslides across the region from May 2nd to May 17th, 2023.
 
 <div class="image-container">
-  <img src="alluvione_emilia_romagna_33_fg.png" alt="Immagine 1" id="first-image" class="hover-image" />
-  <img src="alluvione_emilia_romagna_33_fg.jpg" alt="Immagine 2" id="second-image" class="hover-image" />
+  <img src="![Alt text](../images/alluvione_emilia_romagna_33_fg.png)" alt="Immagine 1" id="first-image" class="hover-image" />
+  <img src="![Alt text](../images/alluvione_emilia_romagna_33_fg.jpeg)" alt="Immagine 2" id="second-image" class="hover-image" />
 </div>
 
 <style>
@@ -82,7 +87,6 @@ The flooding and geological occurrences were caused by continuous rainfall resul
     opacity: 1;
   }
 </style>
-
 <script>
   const imageContainer = document.querySelector('.image-container');
 
