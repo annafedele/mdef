@@ -495,19 +495,17 @@
                 <h1 id="bio-agri-zero">Bio &amp; Agri Zero<a class="headerlink" href="#bio-agri-zero" title="Permanent link">&para;</a></h1>
 <p><em>07.11-17.11</em></p>
 <h1 id="first-week-bio-zero">FIRST WEEK: Bio Zero<a class="headerlink" href="#first-week-bio-zero" title="Permanent link">&para;</a></h1>
-<p><div class="highlight"><pre><span></span><code>stateDiagram-v2
-
-    state join_state &lt;&lt;join&gt;&gt;
-    [Qunatum Mechanics] --&gt; join_state
-    join_state --&gt; Chemistry
-    join_state --&gt; Biochemistry
-    join_state --&gt; Molecular Biology
-    join_state --&gt; Micro Biology
-    join_state --&gt; Physiology (different scale)
-    join_state --&gt; CULTURAL EVOLUTION (language,interaction, spreading knowledge)
-    join_state --&gt; syntetic biology, THE ACTION
+<div class="highlight"><pre><span></span><code>graph LR
+  A[quantum mechanics] --&gt; B[chemistry];
+  B --&gt; C[biochemistry];
+  C --&gt; D[molecular biology];
+  D --&gt; E[micro biology];
+  E --&gt; F[cellular biology];
+  F --&gt; G[physiology(different scale)];
+  G --&gt; H[CULTURAL EVOLUTION *(language,interaction, spreading knowledge)*];
+  H --&gt; I[ synthetic biology, **THE ACTION**];
 </code></pre></div>
-Here there are some notes of the lectures</p>
+<p>Here there are some notes of the lectures</p>
 <p>PLANETARY WELLBEING→ 
 - super populations+macro cities
 - anthropocene (contamination and element exhaustion)
@@ -530,12 +528,17 @@ Evolution→  convertion evolution (redundancy)</p>
 - Eukaryotes</p>
 <p><strong>MICROBIOME→</strong> microbiome is <strong>the collection of all microbes, such as bacteria, fungi, viruses, and their genes, that naturally live on our bodies and inside us</strong> (it changes according with our lifestyle )</p>
 <h2 id="growing-bacteria">Growing bacteria<a class="headerlink" href="#growing-bacteria" title="Permanent link">&para;</a></h2>
+<p>The second day we prepared some recipes for growing bacteria cultures.</p>
+<details class="breeding grounds">
+<summary>Breeding</summary>
+</details>
+<p>Breeding grounds are solid or liquid solutions containing nutrients on which eukaryotic and prokaryotic cells can grow. Bacterial media, those on which bacterial and other prokaryotic colonies can grow, are simpler than eukaryotic media.</p>
 <h2 id="gmo-proposal-a-natural-defense-against-pathogenic-microorganisms-in-sludges">GMO PROPOSAL: a natural defense against pathogenic microorganisms in sludges<a class="headerlink" href="#gmo-proposal-a-natural-defense-against-pathogenic-microorganisms-in-sludges" title="Permanent link">&para;</a></h2>
 <p>My proposal for a genetic modified organism is strictly related at series of events that led to a tragedy in my region Emilia-Romagna (IT), in May 2023: 40,000 people had to evacuate their homes due to sudden flooding of canals that filled entire cities with water and mud, taking 16 victims with them.</p>
 <p>The flooding and geological occurrences were caused by continuous rainfall resulting from an occluded weather front that originated from the Atlantic. This weather front was fueled by a Mediterranean cyclone. These weather conditions led to extensive flooding, overflowing rivers, and landslides across the region from May 2<sup>nd</sup> to May 17<sup>th</sup>, 2023.</p>
 <div class="image-container">
-  <img src="alluvione_emilia_romagna_33_fg.png" alt="Immagine 1" id="first-image" class="hover-image" />
-  <img src="alluvione_emilia_romagna_33_fg.jpg" alt="Immagine 2" id="second-image" class="hover-image" />
+  <img src="![Alt text](../images/alluvione_emilia_romagna_33_fg.png)" alt="Immagine 1" id="first-image" class="hover-image" />
+  <img src="![Alt text](../images/alluvione_emilia_romagna_33_fg.jpeg)" alt="Immagine 2" id="second-image" class="hover-image" />
 </div>
 
 <style>
@@ -557,7 +560,6 @@ Evolution→  convertion evolution (redundancy)</p>
     opacity: 1;
   }
 </style>
-
 <script>
   const imageContainer = document.querySelector('.image-container');
 
