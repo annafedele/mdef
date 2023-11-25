@@ -1,3 +1,5 @@
+# Bio & Agri Zero
+
 *07.11-17.11*
 
 # FIRST WEEK: Bio Zero
@@ -56,18 +58,16 @@ My proposal for a genetic modified organism is strictly related at series of eve
 
 The flooding and geological occurrences were caused by continuous rainfall resulting from an occluded weather front that originated from the Atlantic. This weather front was fueled by a Mediterranean cyclone. These weather conditions led to extensive flooding, overflowing rivers, and landslides across the region from May 2nd to May 17th, 2023.
 
-Il mio effetto di cambio immagine:
-
 <div class="image-container">
-  <img src="alluvione_emilia_romagna_33_fg.png" alt="Immagine 1" class="hover-image" />
-  <img src="alluvione_emilia_romagna_33_fg.jpg" alt="Immagine 2" class="hover-image" />
+  <img src="alluvione_emilia_romagna_33_fg.png" alt="Immagine 1" id="first-image" class="hover-image" />
+  <img src="alluvione_emilia_romagna_33_fg.jpg" alt="Immagine 2" id="second-image" class="hover-image" />
 </div>
 
 <style>
   .image-container {
     position: relative;
-    width: 300px; /* Imposta la larghezza desiderata */
-    height: 200px; /* Imposta l'altezza desiderata */
+    width: 750px; /* Imposta la larghezza desiderata */
+    height: 531px; /* Imposta l'altezza desiderata */
   }
 
   .hover-image {
@@ -78,10 +78,26 @@ Il mio effetto di cambio immagine:
     transition: opacity 0.3s ease-in-out;
   }
 
-  .image-container:hover .hover-image {
+  .image-container:hover #second-image {
     opacity: 1;
   }
 </style>
+
+<script>
+  const imageContainer = document.querySelector('.image-container');
+
+  // Cambia immagine al passaggio del cursore
+  imageContainer.addEventListener('mouseover', function() {
+    document.getElementById('first-image').style.opacity = '0';
+    document.getElementById('second-image').style.opacity = '1';
+  });
+
+  // Riporta l'immagine originale quando il cursore non è più sopra l'area dell'immagine
+  imageContainer.addEventListener('mouseout', function() {
+    document.getElementById('first-image').style.opacity = '1';
+    document.getElementById('second-image').style.opacity = '0';
+  });
+</script>
 
 
 ![Alt text](../images/alluvione_emilia_romagna_33_fg.png)
