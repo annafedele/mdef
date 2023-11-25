@@ -56,6 +56,34 @@ My proposal for a genetic modified organism is strictly related at series of eve
 
 The flooding and geological occurrences were caused by continuous rainfall resulting from an occluded weather front that originated from the Atlantic. This weather front was fueled by a Mediterranean cyclone. These weather conditions led to extensive flooding, overflowing rivers, and landslides across the region from May 2nd to May 17th, 2023.
 
+Il mio effetto di cambio immagine:
+
+<div class="image-container">
+  <img src="alluvione_emilia_romagna_33_fg.png" alt="Immagine 1" class="hover-image" />
+  <img src="alluvione_emilia_romagna_33_fg.jpg" alt="Immagine 2" class="hover-image" />
+</div>
+
+<style>
+  .image-container {
+    position: relative;
+    width: 300px; /* Imposta la larghezza desiderata */
+    height: 200px; /* Imposta l'altezza desiderata */
+  }
+
+  .hover-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .image-container:hover .hover-image {
+    opacity: 1;
+  }
+</style>
+
+
 ![Alt text](../images/alluvione_emilia_romagna_33_fg.png)
 
 Following the flood, numerous institutions stated that the event was accentuated by the inadequate management by the Emilia-Romagna Region of its territory, in particular its failure to intervene on the problems of hydrogeological instability and legislation on soil consumption.
