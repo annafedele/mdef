@@ -68,7 +68,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#first-week-bio-zero" class="md-skip">
+        <a href="#bio-agri-zero" class="md-skip">
           Skip to content
         </a>
       
@@ -382,46 +382,22 @@
       
     
     
-      <label class="md-nav__link md-nav__link--active" for="__toc">
-        Bio & Agri Zero
-        <span class="md-nav__icon md-icon"></span>
-      </label>
-    
     <a href="./" title="Bio & Agri Zero" class="md-nav__link md-nav__link--active">
       Bio & Agri Zero
     </a>
     
-      
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#growing-bacteria" class="md-nav__link">
-    Growing bacteria
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#gmo-proposal-a-natural-defense-against-pathogenic-microorganisms-in-sludges" class="md-nav__link">
-    GMO PROPOSAL: a natural defense against pathogenic microorganisms in sludges
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../07-Design With Others.md" title="Design With Others" class="md-nav__link">
+      Design With Others
+    </a>
   </li>
 
         
@@ -502,28 +478,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#growing-bacteria" class="md-nav__link">
-    Growing bacteria
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#gmo-proposal-a-natural-defense-against-pathogenic-microorganisms-in-sludges" class="md-nav__link">
-    GMO PROPOSAL: a natural defense against pathogenic microorganisms in sludges
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -538,7 +492,8 @@
                   
                 
                 
-                <p><em>07.11-17.11</em></p>
+                <h1 id="bio-agri-zero">Bio &amp; Agri Zero<a class="headerlink" href="#bio-agri-zero" title="Permanent link">&para;</a></h1>
+<p><em>07.11-17.11</em></p>
 <h1 id="first-week-bio-zero">FIRST WEEK: Bio Zero<a class="headerlink" href="#first-week-bio-zero" title="Permanent link">&para;</a></h1>
 <p><div class="highlight"><pre><span></span><code>stateDiagram-v2
 
@@ -578,17 +533,16 @@ Evolution→  convertion evolution (redundancy)</p>
 <h2 id="gmo-proposal-a-natural-defense-against-pathogenic-microorganisms-in-sludges">GMO PROPOSAL: a natural defense against pathogenic microorganisms in sludges<a class="headerlink" href="#gmo-proposal-a-natural-defense-against-pathogenic-microorganisms-in-sludges" title="Permanent link">&para;</a></h2>
 <p>My proposal for a genetic modified organism is strictly related at series of events that led to a tragedy in my region Emilia-Romagna (IT), in May 2023: 40,000 people had to evacuate their homes due to sudden flooding of canals that filled entire cities with water and mud, taking 16 victims with them.</p>
 <p>The flooding and geological occurrences were caused by continuous rainfall resulting from an occluded weather front that originated from the Atlantic. This weather front was fueled by a Mediterranean cyclone. These weather conditions led to extensive flooding, overflowing rivers, and landslides across the region from May 2<sup>nd</sup> to May 17<sup>th</sup>, 2023.</p>
-<p>Il mio effetto di cambio immagine:</p>
 <div class="image-container">
-  <img src="alluvione_emilia_romagna_33_fg.png" alt="Immagine 1" class="hover-image" />
-  <img src="alluvione_emilia_romagna_33_fg.jpg" alt="Immagine 2" class="hover-image" />
+  <img src="alluvione_emilia_romagna_33_fg.png" alt="Immagine 1" id="first-image" class="hover-image" />
+  <img src="alluvione_emilia_romagna_33_fg.jpg" alt="Immagine 2" id="second-image" class="hover-image" />
 </div>
 
 <style>
   .image-container {
     position: relative;
-    width: 300px; /* Imposta la larghezza desiderata */
-    height: 200px; /* Imposta l'altezza desiderata */
+    width: 750px; /* Imposta la larghezza desiderata */
+    height: 531px; /* Imposta l'altezza desiderata */
   }
 
   .hover-image {
@@ -599,10 +553,26 @@ Evolution→  convertion evolution (redundancy)</p>
     transition: opacity 0.3s ease-in-out;
   }
 
-  .image-container:hover .hover-image {
+  .image-container:hover #second-image {
     opacity: 1;
   }
 </style>
+
+<script>
+  const imageContainer = document.querySelector('.image-container');
+
+  // Cambia immagine al passaggio del cursore
+  imageContainer.addEventListener('mouseover', function() {
+    document.getElementById('first-image').style.opacity = '0';
+    document.getElementById('second-image').style.opacity = '1';
+  });
+
+  // Riporta l'immagine originale quando il cursore non è più sopra l'area dell'immagine
+  imageContainer.addEventListener('mouseout', function() {
+    document.getElementById('first-image').style.opacity = '1';
+    document.getElementById('second-image').style.opacity = '0';
+  });
+</script>
 
 <p><img alt="Alt text" src="../../images/alluvione_emilia_romagna_33_fg.png" /></p>
 <p>Following the flood, numerous institutions stated that the event was accentuated by the inadequate management by the Emilia-Romagna Region of its territory, in particular its failure to intervene on the problems of hydrogeological instability and legislation on soil consumption.
