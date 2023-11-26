@@ -4,8 +4,7 @@
 
 # FIRST WEEK: Bio Zero
 
-??? Here there are some notes of the lectures
- 
+
 
 
 ## Growing bacteria 
