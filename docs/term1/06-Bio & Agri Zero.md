@@ -4,18 +4,6 @@
 
 # FIRST WEEK: Bio Zero
 
-``` mermaid
-graph LR
-  A[quantum mechanics] --> B[chemistry];
-  B --> C[biochemistry];
-  C --> D[molecular biology];
-  D --> E[micro biology];
-  E --> F[cellular biology];
-  F --> G[physiology(different scale)];
-  G --> H[CULTURAL EVOLUTION *(language,interaction, spreading knowledge)*];
-  H --> I[ synthetic biology, **THE ACTION**];
-```
-
 Here there are some notes of the lectures
  
 PLANETARY WELLBEING→ 
@@ -51,9 +39,10 @@ by kijngdoms
 ## Growing bacteria 
 The second day we prepared some recipes for growing bacteria cultures.
 
-??? Breeding grounds
+??? Breeding_grounds
 
  Breeding grounds are solid or liquid solutions containing nutrients on which eukaryotic and prokaryotic cells can grow. Bacterial media, those on which bacterial and other prokaryotic colonies can grow, are simpler than eukaryotic media.
+
 
 
 ## GMO PROPOSAL: a natural defense against pathogenic microorganisms in sludges

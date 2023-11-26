@@ -51,7 +51,7 @@ theme:
     scheme: mypalette
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     primary: red
-    accent: orange
+    accent: deep purple
   font:
     # See available fonts at https://fonts.google.com/
      text: DM Mono
@@ -120,3 +120,13 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
+
+
+theme:
+  icon:
+    admonition:
+      <type>: material/bell-alert
+
+      theme:
+  features:
+    - navigation.top
