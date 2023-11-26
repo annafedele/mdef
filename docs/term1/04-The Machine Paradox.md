@@ -120,10 +120,11 @@ One of the most captivating stages of our journey was the decision-making proces
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vosQQlPurCI?si=KcCvjDRR-3RHOQhC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## personal reflection
+!!! danger ""
 
-Finally, I really enjoyed this seminar because it gave me the opportunity to actively participate in the process of assembling a functioning machine. It was a different experience for me because I had never experimented with this concept before. I also never fully understood the technical aspects ( more related to coding and programming) of a product or anything else. As a designer, I always saw that part as something that did not interfere with my work, mainly because it seemed too complex to comprehend. Well, it is indeed complex, but the reality is that working superficially to complete a task is no longer sufficient. It is essential to understand every aspect of our surroundings in our field.
+        ## personal reflection
+        Finally, I really enjoyed this seminar because it gave me the opportunity to actively participate in the process of assembling a functioning machine. It was a different experience for me because I had never experimented with this concept before. I also never fully understood the technical aspects ( more related to coding and programming) of a product or anything else. As a designer, I always saw that part as something that did not interfere with my work, mainly because it seemed too complex to comprehend. Well, it is indeed complex, but the reality is that working superficially to complete a task is no longer sufficient. It is essential to understand every aspect of our surroundings in our field.
 
-We worked excellently as a team! Each of us had our individual skills in specific areas, but we collaborated with one another on every task, learning from each other and also from failure: during the process we met a lot of obstacles, about the code, the 3d printed parts, the working mechanism... but i've really like that we work toghther for solving them ,or reshaping the project with some constraints that we met.
+        We worked excellently as a team! Each of us had our individual skills in specific areas, but we collaborated with one another on every task, learning from each other and also from failure: during the process we met a lot of obstacles, about the code, the 3d printed parts, the working mechanism... but i've really like that we work toghther for solving them ,or reshaping the project with some constraints that we met.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/878611346?h=13229e04f0" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
