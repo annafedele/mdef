@@ -49,15 +49,30 @@ body {
 }
 
 .image-half-size-left {
-  width: 40%;        /* Set the width of the image to 50% of its container */
+  width: 50%;        /* Set the width of the image to 50% of its container */
   float: left;       /* Float the image to the left */
   margin-right: 15px; /* Add some space between the image and the text */
   margin-bottom: 5px; /* Optionally add space below the image */
 }
 
 .image-half-size-right {
-  width: 40%;        /* Set the width of the image to 50% of its container */
+  width: 50%;        /* Set the width of the image to 50% of its container */
   float: right;      /* Float the image to the right */
   margin-left: 5px; /* Add some space between the image and the text */
   margin-bottom: 10px; /* Optionally add space below the image */
 }
+
+.image-30-size-left {
+  width: 30%;        /* Set the width of the image to 50% of its container */
+  float: left;       /* Float the image to the left */
+  margin-right: 15px; /* Add some space between the image and the text */
+  margin-bottom: 5px; /* Optionally add space below the image */
+}
+
+.image-30-size-right {
+  width: 30%;        /* Set the width of the image to 50% of its container */
+  float: right;      /* Float the image to the right */
+  margin-left: 5px; /* Add some space between the image and the text */
+  margin-bottom: 10px; /* Optionally add space below the image */
+}
+
