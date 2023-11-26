@@ -31,14 +31,14 @@ My proposal for a genetic modified organism is strictly related at series of eve
 The flooding and geological occurrences were caused by continuous rainfall resulting from an occluded weather front that originated from the Atlantic. This weather front was fueled by a Mediterranean cyclone. These weather conditions led to extensive flooding, overflowing rivers, and landslides across the region from May 2nd to May 17th, 2023.
 
 
-![Alt text](../images/alluvione_emilia_romagna_33_fg.png)
+![Alt text](../images/alluvione_emilia_romagna_33_fg.png){: .image-half-size-left }
 
 Following the flood, numerous institutions stated that the event was accentuated by the inadequate management by the Emilia-Romagna Region of its territory, in particular its failure to intervene on the problems of hydrogeological instability and legislation on soil consumption.
 This type of calamity not only brings extreme discomfort due to the loss of property and the difficulty of telecommunications within a town, but also to human health.
 
 The water, in its path from the river or canal, carries with it a considerable amount of debris from the surrounding land or sewage from the probably clogged sewage system.These, fed by the flow of water, appear as piles of mud that stagnate even after the water has been removed. In the case of the floods in Emilia-Romagna, entire cities were covered in mud, which struggled to be cleared away, despite the large number of volunteers who rushed to the scene.
 
-![Alt text](../images/maggio2023_castel-maggiore-localita-castello.png)
+![Alt text](../images/maggio2023_castel-maggiore-localita-castello.png){: .image-half-size-left }
 
 
 In view of this, my GMO proposal aims to prevent the spread of bacteria within the water-borne mud during a flood.Certain fungi such as the mycelia of the Pleurotus and Phanerochaete are known for their ability to decompose polycyclic aromatic hydrocarbons (PAHs) and other pollutants in the soil. They are already being used for bioremediation actions.
