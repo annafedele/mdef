@@ -59,8 +59,12 @@ REFERENCES
 
 *SITNFlash. (2015, August 11). How to make a GMO - Science in the news. Science in the News. https://sitn.hms.harvard.edu/flash/2015/how-to-make-a-gmo*
 
-## Reflection
-This week really interest me
+!!! danger ""
+
+    ## Reflection
+    According to me, having a general overview about something more related with biology and other species is really useful to understand and collaborate what does it means to live with other living organism and move from the anthropocentric vision that humans have been created for themself. I’ve really enjoyed all the week listening and learning about fields i’ve never investigate so this stimulate me for a little reflection out of the academic context. 
+
+    It’s very interesting getting more into biology related to design so using other organisms to “solve actual problems”, thinking about the benefits of spirulina, the usage of bacteria and viruses for vaccines,the practice of CRISP-Cas9, and so many other amazing things that really fascinate me but at the same time it seems quite selfish, using them for our own issues. The anthropocentric vision then has not shifted much?
 
 # SECOND WEEK: Agri Zero
 
