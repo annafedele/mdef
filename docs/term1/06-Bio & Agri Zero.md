@@ -11,9 +11,10 @@
 ## Growing bacteria 
 The second day we prepared some recipes for growing bacteria cultures.
 
-??? Breeding_grounds
+??? danger "Breeding Grounds"
 
- Breeding grounds are solid or liquid solutions containing nutrients on which eukaryotic and prokaryotic cells can grow. Bacterial media, those on which bacterial and other prokaryotic colonies can grow, are simpler than eukaryotic media.
+    Breeding grounds are solid or liquid solutions containing nutrients on which eukaryotic and prokaryotic cells can grow. Bacterial media, those on which bacterial and other prokaryotic colonies can grow, are simpler than eukaryotic media.
+
 
 In groups, each one prepared a recipe for growing bacteria: with my group in order to cook Lactobacillus, we prepare this recipe with lemon, milk and agar agar. The process of making the  recipe and thyen puring it into the petri dishes really intrigued me because it's really important about paying attemtion to mantain the environment sterilised.
 The next step was to "contaminate" the petri dishes with everything that can start a bacteria culture, for example hairs, spit, but also swapping some objects inside.
