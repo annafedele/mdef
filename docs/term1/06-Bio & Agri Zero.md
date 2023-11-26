@@ -4,36 +4,8 @@
 
 # FIRST WEEK: Bio Zero
 
-Here there are some notes of the lectures
+??? Here there are some notes of the lectures
  
-PLANETARY WELLBEING→ 
-- super populations+macro cities
-- anthropocene (contamination and element exhaustion)
-- global-local 
-- climate change(climate refuges, internet co2)
-
-
-**MICROBIOLOGY**
-is the study of microscopic organisms (microbes) (= any living organisms) also fungi, protists, monera
-viruses, not strictly classed as living organisms 
-
-CLASSIFICATION:(by what they eat)
-- Autotrophes (aerobic/anarobic respiration)
-- Heterotrophes (invaginate food particles)
-
-by information management (DNA in the nucleus or in the cytoplasm)
-- prokaryote
-- eukaryote
-
-Endosymbiotic theory
-Evolution→  convertion evolution (redundancy)
-
-by kijngdoms
-- Archaea
-- bacteria
-- Eukaryotes
-
-**MICROBIOME→** microbiome is **the collection of all microbes, such as bacteria, fungi, viruses, and their genes, that naturally live on our bodies and inside us** (it changes according with our lifestyle )
 
 
 ## Growing bacteria 
@@ -43,7 +15,10 @@ The second day we prepared some recipes for growing bacteria cultures.
 
  Breeding grounds are solid or liquid solutions containing nutrients on which eukaryotic and prokaryotic cells can grow. Bacterial media, those on which bacterial and other prokaryotic colonies can grow, are simpler than eukaryotic media.
 
+In groups, each one prepared a recipe for growing bacteria: with my group in order to cook Lactobacillus, we prepare this recipe with lemon, milk and agar agar. The process of making the  recipe and thyen puring it into the petri dishes really intrigued me because it's really important about paying attemtion to mantain the environment sterilised.
+The next step was to "contaminate" the petri dishes with everything that can start a bacteria culture, for example hairs, spit, but also swapping some objects inside.
 
+Unluckly, the most our our petri dishes didn't grow cultures during the night :(
 
 ## GMO PROPOSAL: a natural defense against pathogenic microorganisms in sludges
 
@@ -123,7 +98,8 @@ REFERENCES
 
 *SITNFlash. (2015, August 11). How to make a GMO - Science in the news. Science in the News. https://sitn.hms.harvard.edu/flash/2015/how-to-make-a-gmo*
 
-
+## Reflection
+This week really interest me
 
 # SECOND WEEK: Agri Zero
 
