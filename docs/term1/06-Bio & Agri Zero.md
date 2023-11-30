@@ -35,8 +35,8 @@ My proposal for a genetic modified organism is strictly related at series of eve
 The flooding and geological occurrences were caused by continuous rainfall resulting from an occluded weather front that originated from the Atlantic. This weather front was fueled by a Mediterranean cyclone. These weather conditions led to extensive flooding, overflowing rivers, and landslides across the region from May 2nd to May 17th, 2023.
 
 <div class="image-container">
-  <img src="../images/alluvione_emilia_romagna_33_fg.jpeg" alt="Immagine 1" id="first-image" class="hover-image" />
-  <img src="../images/alluvione_emilia_romagna_33_fg.png" alt="Immagine 2" id="second-image" class="hover-image" />
+  <img src="/docs/images/alluvione_emilia_romagna_33_fg.jpeg" alt="Immagine 1" id="first-image" class="hover-image" />
+  <img src="/docs/images/alluvione_emilia_romagna_33_fg.png" alt="Immagine 2" id="second-image" class="hover-image" />
 </div>
 
 <style>
