@@ -22,7 +22,7 @@ The next step was to "contaminate" the petri dishes with everything that can sta
 ![Alt text](../images/IMG_2808.png){: .image-half-size-left}
 ![Alt text](../images/IMG_2838.png){: .image-half-size-right}
 
-
+<br>
 
 
 
