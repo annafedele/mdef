@@ -82,6 +82,7 @@ REFERENCES
 ![Alt text](../images/IMG_2986.png){: .image-40-size-right}
 
 <br>
+![Alt text](<../images/gif_valldoura (1).gif>)
 <br>
 <br>
 ## Making essential oils
