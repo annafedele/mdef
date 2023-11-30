@@ -20,7 +20,7 @@ In groups, each one prepared a recipe for growing bacteria: with my group in ord
 The next step was to "contaminate" the petri dishes with everything that can start a bacteria culture, for example hairs, spit, but also swapping some objects inside.
 
 ![Alt text](../images/IMG_2808.png){: .image-30-size-left }
-![Alt text](../images/IMG_2838.png){: .image-30-size-right }
+![Alt text](../images/IMG_2838.png){: .image-30-size-left }
 
 Unluckly, the most our our petri dishes didn't grow cultures during the night :(
 
