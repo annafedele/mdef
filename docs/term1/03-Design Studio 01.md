@@ -112,3 +112,7 @@ SF→ string figures, games with string figures giving and receving patterns (pr
 ![Alt text](<../images/MT01/PROVA ANIMAZ - Copia.gif>)
 
 According to me, this animation is my first trial as creating a visual identity for an art gallery that can resume the topics of the exhibition and at the same time attract people. ==The figure itself joins my **inspirations** -my design background- with my **aspirations**, as exploring and being part of the contemporary art world==. Otherwise, it collects the others as a way of comunication and explanation of the exhibition; to create a bond between them in order to get closer the watcher with the artists projects.
+
+# What now? II Intervention
+
+*Body shape that is adapting to the surroundings*
