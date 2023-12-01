@@ -34,46 +34,7 @@ My proposal for a genetic modified organism is strictly related at series of eve
 
 The flooding and geological occurrences were caused by continuous rainfall resulting from an occluded weather front that originated from the Atlantic. This weather front was fueled by a Mediterranean cyclone. These weather conditions led to extensive flooding, overflowing rivers, and landslides across the region from May 2nd to May 17th, 2023.
 
-<div class="image-container">
-  <img src="/docs/images/alluvione_emilia_romagna_33_fg.jpeg" alt="Immagine 1" id="first-image" class="hover-image" />
-  <img src="/docs/images/alluvione_emilia_romagna_33_fg.png" alt="Immagine 2" id="second-image" class="hover-image" />
-</div>
 
-<style>
-  .image-container {
-    position: relative;
-    width: 300px; /* Imposta la larghezza desiderata */
-    height: 200px; /* Imposta l'altezza desiderata */
-  }
-
-  .hover-image {
-    position: absolute;
-    top: 0;
-    left: 0;
-    opacity: 0;
-    transition: opacity 0.3s ease-in-out;
-  }
-
-  .image-container:hover #second-image {
-    opacity: 1;
-  }
-</style>
-
-<script>
-  const imageContainer = document.querySelector('.image-container');
-
-  // Cambia immagine al passaggio del cursore
-  imageContainer.addEventListener('mouseover', function() {
-    document.getElementById('first-image').style.opacity = '0';
-    document.getElementById('second-image').style.opacity = '1';
-  });
-
-  // Riporta l'immagine originale quando il cursore non è più sopra l'area dell'immagine
-  imageContainer.addEventListener('mouseout', function() {
-    document.getElementById('first-image').style.opacity = '1';
-    document.getElementById('second-image').style.opacity = '0';
-  });
-</script>
 
 ![Alt text](../images/alluvione_emilia_romagna_33_fg.png)
 
@@ -125,6 +86,11 @@ REFERENCES
 ![Alt text](<../images/gif_valldoura (1).gif>)
 <br>
 <br>
+
+## Testing and evaluating the soil
+
+![Alt text](../images/IMG_3022.png){: .image-40-size-left}
+
 ## Making essential oils
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1yX_C6PKxl8?si=UAU-9f7q19j3_z2l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
