@@ -77,8 +77,9 @@ REFERENCES
 # SECOND WEEK: Agri Zero
 
 
-# Visiting Valldoura campus
+## Visiting Valldaura campus
 
+![Alt text](../images/path_valldaura.png)
 ![Alt text](../images/IMG_2972.png){: .image-40-size-left}
 ![Alt text](../images/IMG_2986.png){: .image-40-size-right}
 
@@ -89,8 +90,25 @@ REFERENCES
 
 ## Testing and evaluating the soil
 
-![Alt text](../images/IMG_3022.png){: .image-40-size-left}
+![Alt text](../images/soil_evalu.png){: .image-40-size-left}
+![Alt text](../images/IMG_3022.png){: .image-40-size-right}
+
 
 ## Making essential oils
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1yX_C6PKxl8?si=UAU-9f7q19j3_z2l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+!!! danger ""
+
+    ## Reflection
+
+    I've really liked the approach of this week for all the activities we did, that were very pratical and side specific. In particular i've enjoyed the trip to Valldaura Labs
+
+
+
+
+
+
+
+
+    
