@@ -23,10 +23,10 @@ As a first activity, they ask us to go around and take picture on what for us co
 During my research hour i've noticed that in that specif area, (close to a playground) that there were a lot of toys leave by the children. 
 i've reflected on the fact that children, unlike the others, don't "*trought*" away something on the ground and leave it on purpose: their intentions are pure (as a angel generation)  and they also use the soil as their fantasy playgrond.
 
-![Alt text](../images/foto1.png){: .image-half-size-left}
-![Alt text](../images/foto3.png){: .image-half-size-right}
-![Alt text](../images/foto4.png){: .image-half-size-left}
-![Alt text](../images/foto6.png){: .image-half-size-right}
+![Alt text](../images/foto1.png){: .image-40-size-left}
+![Alt text](../images/foto3.png){: .image-40-size-right}
+![Alt text](../images/foto4.png){: .image-40-size-left}
+![Alt text](../images/foto6.png){: .image-40-size-right}
 
 
 Back from the activity, i found my affinity group sharing the concept of **AGEISM**
