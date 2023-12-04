@@ -10,21 +10,27 @@ LOCAL SYMPTOMS, COMMUNITIES AND SITUATED RESEARCH
 → SYSTEMIC, MACRO-long TERM INTERVENING 
 **UNDERSTANDING, CONNECTING, INTERVENE** 
 
-![2B3F19A3-A68C-49E8-B349-6C50D9E07F0D.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/32c4fbde-fe73-41e8-98be-914606dbfae7/26b776a6-52ec-495a-be37-ba0ed539e673/2B3F19A3-A68C-49E8-B349-6C50D9E07F0D.jpeg)
 
-## 
+
+##  DAY 1, SOIL
+
 
 *ASSAMBLAGES→ Assemblages are composed of heterogeneous elements or objects that enter into relations with one another. These objects are not all of the same type. Thus you have physical objects, happenings, events, and so on, but you also have signs, utterances, and so on. While there are assemblages that are composed entirely of bodies, there are no assemblages composed entirely of signs and utterances.* 
 
-ASSEMBLAGES OF SOIL
+ASSEMBLAGES OF SOIL-> Mix of microorganisms (or issues of waste) connecting elements issues ,logistics, infrastructures , 
 
-Mix of microorganisms (or issues of waste) connecting elements issues ,logistics, infrastructures , 
+As a first activity, they ask us to go around and take picture on what for us could be a *friction,conflict or tension* in soil.
+During my research hour i've noticed that in that specif area, (close to a playground) that there were a lot of toys leave by the children. 
+i've reflected on the fact that children, unlike the others, don't "*trought*" away something on the ground and leave it on purpose: their intentions are pure (as a angel generation)  and they also use the soil as their fantasy playgrond.
 
-FOOD SYSTEM 
+![Alt text](../images/foto1.png){: .image-half-size-left}
+![Alt text](../images/foto3.png){: .image-half-size-right}
+![Alt text](../images/foto4.png){: .image-half-size-left}
+![Alt text](../images/foto6.png){: .image-half-size-right}
 
-**FRICTION, CONFLICT, TENSION IN SOIL**
 
-AGEISM
+Back from the activity, i found my affinity group sharing the concept of **AGEISM**
+
 
 ## AFTERNOON ACTIVITY
 
