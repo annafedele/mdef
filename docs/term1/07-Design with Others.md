@@ -1,5 +1,5 @@
 # Design With Others
-
+**
 WHAT’S A COMMUNITY? COLLECTIVE OF THINGS/BEINGS, complex formation of elements 
 
 Paradoxes of SOIL AND LAND (FOOD AND HOUSING)
@@ -53,22 +53,22 @@ MAKER MOVEMENT→ working with design sensitivity
 
 ![IMG_3158.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/32c4fbde-fe73-41e8-98be-914606dbfae7/ee52af2f-4eb2-4de3-a23a-1a35767b7022/IMG_3158.jpeg)
 
-# DAY 2, LAND
+## DAY 2, LAND
 
 LA BORDA→ social housing, sharing spaces collaborative space (they collaborate to build the space and the utilities)
 
 Freedom as exercising reciprocity (way of relating)
 
-# SOIL AND LAND (CONFLICT SPACE)
+## DAY 3 SOIL AND LAND (CONFLICT SPACE)
 
 CONFLICT: people getting outdated 
 
-productivity, doing more in less time
-
-who already working on reinsert people in society in cataloya
 
 
 
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNMzGq0o=/?moveToViewport=-41455,-8156,35679,37539&embedId=157409310942" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+<brr>
+
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNK1eVv4=/?moveToViewport=115,-1635,3305,1691&embedId=688868365891" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>

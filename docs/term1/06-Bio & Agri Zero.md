@@ -96,13 +96,16 @@ REFERENCES
 
 ## Making essential oils
 
+ we did one of two experiments using a traditional alambique to produce essential oil out of the laurel leafs some of our colleagues collected the day before at Valldaura.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1yX_C6PKxl8?si=UAU-9f7q19j3_z2l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 !!! danger ""
 
     ## Reflection
 
-    I've really liked the approach of this week for all the activities we did, that were very pratical and side specific. In particular i've enjoyed the trip to Valldaura Labs
+    I've really liked the approach of this week for all the activities we did, that were very pratical and side specific. In particular i've enjoyed the trip to Valldaura Labs: to me it seemed like another type of lifestyle, far away of on what i'm used to do in my everyday life but at the same time really intriguing. This, makes me realize that everyone in their life-path need a period completly immersed in nature and learning to live with it, but at the same time, i then realize that i don't know if i'll be able to manage it. I am too used to the comforts that a life in the city has given me since I was born: I would therefore like to take a step back, if only to understand what it is like.
+    While the main subject of the seminar didn't align entirely with my primary interests it has been a very intense week full of new topics that perhaps if taken alone are not really in line with my interests, but if correlated and mixed with other suggestions, one could create truly stimulating insights or research, i'm up for that!
 
 
 
