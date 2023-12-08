@@ -1,6 +1,6 @@
 # Design With Others
-**
-WHAT’S A COMMUNITY? COLLECTIVE OF THINGS/BEINGS, complex formation of elements 
+
+**WHAT’S A COMMUNITY? COLLECTIVE OF THINGS/BEINGS, complex formation of elements** 
 
 Paradoxes of SOIL AND LAND (FOOD AND HOUSING)
 SOIL as nature cultural system, more than human community, sub-human
@@ -58,6 +58,11 @@ MAKER MOVEMENT→ working with design sensitivity
 LA BORDA→ social housing, sharing spaces collaborative space (they collaborate to build the space and the utilities)
 
 Freedom as exercising reciprocity (way of relating)
+
+![Alt text](../images/IMG_3168.png){: .image-40-size-left}
+![Alt text](../images/IMG_3169.png){: .image-40-size-right}
+
+
 
 ## DAY 3 SOIL AND LAND (CONFLICT SPACE)
 
