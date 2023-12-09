@@ -116,21 +116,41 @@ According to me, this animation is my first trial as creating a visual identity 
 
 ## What now? II Intervention
 
-*Body shape that is adapting to the surroundings*
+After the first intervention i've questioned myself on what i can gain from the main topics that we touched with "Down the Pipe". I found myself far removed from the concepts we explored in the first intervention, but at the same time satisfied that I learned new things.
+I felt closer to the 'device' we planned to monitor air pollution as a wearable device and how important the role of the body was.
+so my thinking went the other way: ==how can the body adapt to its surroundings, what is its feedback? what reaction does it provoke?== 
+<brr>
+**The importance of data.**
+
 
 ## 2.1 Process
 
+
+ 
 ![Alt text](../images/IMG_3268.png){: .image-45-size-left}
 ![Alt text](../images/IMG_32681.png){: .image-45-size-right}
 
+<brr>
+<brr>
 
 ## 2.2 Ideation
+
+![Alt text](../images/sensor_test.gif){: .image-45-size-left}
+
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNKKe2dY=/?moveToViewport=-7754,-7440,35147,17985&embedId=571339405038" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 
 
 ## 2.3 Video 
+
+
+![Alt text](../images/sensor_test2.gif){: .image-45-size-left} 
+<brr>
+Concept of *hyperconnectivity*: shifting the focus no more on a person-to-person relationship but passing trought the person-to-machine and ending in the irrepressible and irreversible relationship that eliminates pure personal physicality in the **machine-to-machine** relationship, which seems the only medium from here, to the near future.
+
+### **CYBER UNION** :Sexual interactions in the future
+*The concept of pleasure and physical enjoyment are no longer directed by the person-to-person connection but by the machine-to-machine interaction lead by two proximity sensors that create a fictitious connection between the two people, but, at the same time the deed is charged with intimacy and pleasure. The relationship results an interaction between two digital models that actually touch and interact as if it were a condition of sexual intimacy that brings pleasure.*
 
 <div style="padding:56.6% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/890991682?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="II_design_intervention"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
