@@ -90,4 +90,16 @@ body {
   margin-bottom: 10px; /* Optionally add space below the image */
 }
 
+.image-45-size-left {
+  width: 45%;        /* Set the width of the image to 50% of its container */
+  float: left;       /* Float the image to the left */
+  margin-right: 15px; /* Add some space between the image and the text */
+  margin-bottom: 5px; /* Optionally add space below the image */
+}
 
+.image-45-size-right {
+  width: 45%;        /* Set the width of the image to 50% of its container */
+  float: right;      /* Float the image to the right */
+  margin-left: 5px; /* Add some space between the image and the text */
+  margin-bottom: 10px; /* Optionally add space below the image */
+}
