@@ -118,8 +118,8 @@ According to me, this animation is my first trial as creating a visual identity 
 
 *Body shape that is adapting to the surroundings*
 
-![Alt text](../images/IMG_3268.png){: .image-40-size-left}
-![Alt text](../images/IMG_32681.png){: .image-40-size-right}
+![Alt text](../images/IMG_3268.png){: .image-45-size-left}
+![Alt text](../images/IMG_32681.png){: .image-45-size-right}
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNKKe2dY=/?moveToViewport=-7754,-7440,35147,17985&embedId=571339405038" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
