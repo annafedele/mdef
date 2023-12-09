@@ -32,7 +32,7 @@ Unfourtunatly i wasn’t able to participate to the exercise about the collectiv
 
 We initiated our journey during this initial Design Intervention by exchanging our personal Design Spaces. Despite our diverse backgrounds and varying aspirations, we unearthed a shared set of common values.
 
-## Process
+## 1.1 Process
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNS9A5Cg=/?moveToViewport=-1723,-927,3487,1784&embedId=443776030871" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
@@ -45,7 +45,7 @@ Our goal is to raise awareness about the air quality conditions in public transp
 
 
 
-## Ideation and prototyping
+## 1.2 Ideation and prototyping
 
 To address this challenge, we've armed ourselves with a PM2.5 sensor. Evaluating PM2.5 levels is critical for assessing air quality because these particles serve as vital indicators of health risks stemming from air pollution. PM2.5 refers to particulate matter with a diameter of 2.5 micrometers or smaller. These minuscule particles are capable of penetrating deep into the lungs and can even enter the bloodstream, leading to significant health issues.
 
@@ -59,7 +59,7 @@ After the intervention we discovered that, in average the values of PM2.5 were l
 
 According to me, the most interesting thing about this intervention ,a part from the enviromental sensing, was the fact that we were able to create a little project with a specific purpose, related also to sensors, in a few time. it will be interesting to develop the intervention adding some other values to evaluate or to costumize the box that we use for the sensing: changing the materials, the shape and the composition of the electronic parts inside.
 
-## Video
+## 1.3 Video
 
 <iframe 
 	width="560" 
@@ -114,14 +114,23 @@ SF→ string figures, games with string figures giving and receving patterns (pr
 
 According to me, this animation is my first trial as creating a visual identity for an art gallery that can resume the topics of the exhibition and at the same time attract people. ==The figure itself joins my **inspirations** -my design background- with my **aspirations**, as exploring and being part of the contemporary art world==. Otherwise, it collects the others as a way of comunication and explanation of the exhibition; to create a bond between them in order to get closer the watcher with the artists projects.
 
-# What now? II Intervention
+## What now? II Intervention
 
 *Body shape that is adapting to the surroundings*
+
+## 2.1 Process
 
 ![Alt text](../images/IMG_3268.png){: .image-45-size-left}
 ![Alt text](../images/IMG_32681.png){: .image-45-size-right}
 
+
+## 2.2 Ideation
+
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNKKe2dY=/?moveToViewport=-7754,-7440,35147,17985&embedId=571339405038" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+
+
+## 2.3 Video 
 
 <div style="padding:56.6% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/890991682?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="II_design_intervention"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
