@@ -59,8 +59,8 @@ LA BORDA→ social housing, sharing spaces collaborative space (they collaborate
 
 Freedom as exercising reciprocity (way of relating)
 
-![Alt text](../images/IMG_3168.png){: .image-40-size-left}
-![Alt text](../images/IMG_3169.png){: .image-40-size-right}
+![Alt text](../images/IMG_3168.png){: .image-half-size-left}
+![Alt text](../images/IMG_3169.png){: .image-half-size-right}
 
 
 
