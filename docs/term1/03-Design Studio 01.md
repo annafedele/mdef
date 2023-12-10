@@ -137,6 +137,16 @@ We focused on a body that involves a ==forced adaptation== of the body to a real
 
 <brr>
 <brr>
+<brr>
+<brr>
+<brr>
+<brr>
+<brr>
+<brr>
+<brr>
+
+
+
 
 ## 2.2 Ideation
 
