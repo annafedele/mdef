@@ -144,12 +144,26 @@ In order to make our idea concrete, we used a proximity sensor which, when conne
 We worked with different shapes: at first it was a matter of modifying the texture of some simple geometric entities, then we moved on to the 3D scanning of a body, and ==finally the modification of an agglomeration of metaballs, covered with a human texture.==
 
 ![Alt text](../images/sensor_test.gif){: .image-45-size-left}
+![Alt text](../images/sensor_test2.gif){: .image-45-size-left}
+
+<brr>
+<brr>
+<brr>
+<brr>
+<brr>
+<brr>
+<brr>
+
+
+
+
+
+
+
+
 
 
 ## 2.3 Video 
-
-
-![Alt text](../images/sensor_test2.gif){: .image-45-size-left} 
 <brr>
 Concept of *hyperconnectivity*: shifting the focus no more on a person-to-person relationship but passing trought the person-to-machine and ==ending in the irrepressible and irreversible relationship that eliminates pure personal physicality in the **machine-to-machine** relationship, which seems the only medium from here, to the near future.==
 
