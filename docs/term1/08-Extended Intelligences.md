@@ -2,7 +2,7 @@
 *27.11-05.12*
 
 
-> *At its most basic, machine learning means automating tasks by providing examples (training data) instead of writing instructions (code). Fueled by the rise of new algorithms, new hardware, new toolkits for efficiently solvin*g complex problems, and huge datasets compiled from everything from sensor networks and surveillance cameras to social media, machine learning has come of age.”
+> *At its most basic, machine learning means automating tasks by providing examples (training data) instead of writing instructions (code). Fueled by the rise of new algorithms, new hardware, new toolkits for efficiently solvin*g complex problems, and huge datasets compiled from everything from sensor networks and surveillance cameras to social media, machine learning has come of age.”*
 >
 
 |   |                          |

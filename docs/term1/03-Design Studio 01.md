@@ -125,7 +125,12 @@ so my thinking went the other way: ==how can the body adapt to its surroundings,
 
 ## 2.1 Process
 
+The main idea at the beginning was to use sensors that would produce a series of data sensed on contact with the body, or that would indicate the body's behaviour based on events happening around it.
+But then, influenced by Lucy McRae's projects and the cinematography related to dystopian futures where the body completely changed adaptation, many possibilities opened up as to where our project would go. 
 
+We focused on a body that involves a ==forced adaptation== of the body to a reality where it no longer recognises itself, and therefore requires *'evolution'* in order to ==survive==.
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNKKe2dY=/?moveToViewport=-7754,-7440,35147,17985&embedId=571339405038" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
  
 ![Alt text](../images/IMG_3268.png){: .image-45-size-left}
 ![Alt text](../images/IMG_32681.png){: .image-45-size-right}
@@ -135,11 +140,10 @@ so my thinking went the other way: ==how can the body adapt to its surroundings,
 
 ## 2.2 Ideation
 
+In order to make our idea concrete, we used a proximity sensor which, when connected to modelling software, such as Blender, is able to collect data, and use it to interact in real time with changes taking place within the software.
+We worked with different shapes: at first it was a matter of modifying the texture of some simple geometric entities, then we moved on to the 3D scanning of a body, and ==finally the modification of an agglomeration of metaballs, covered with a human texture.==
+
 ![Alt text](../images/sensor_test.gif){: .image-45-size-left}
-
-
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNKKe2dY=/?moveToViewport=-7754,-7440,35147,17985&embedId=571339405038" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
 
 
 ## 2.3 Video 
@@ -147,7 +151,7 @@ so my thinking went the other way: ==how can the body adapt to its surroundings,
 
 ![Alt text](../images/sensor_test2.gif){: .image-45-size-left} 
 <brr>
-Concept of *hyperconnectivity*: shifting the focus no more on a person-to-person relationship but passing trought the person-to-machine and ending in the irrepressible and irreversible relationship that eliminates pure personal physicality in the **machine-to-machine** relationship, which seems the only medium from here, to the near future.
+Concept of *hyperconnectivity*: shifting the focus no more on a person-to-person relationship but passing trought the person-to-machine and ==ending in the irrepressible and irreversible relationship that eliminates pure personal physicality in the **machine-to-machine** relationship, which seems the only medium from here, to the near future.==
 
 ### **CYBER UNION** :Sexual interactions in the future
 *The concept of pleasure and physical enjoyment are no longer directed by the person-to-person connection but by the machine-to-machine interaction lead by two proximity sensors that create a fictitious connection between the two people, but, at the same time the deed is charged with intimacy and pleasure. The relationship results an interaction between two digital models that actually touch and interact as if it were a condition of sexual intimacy that brings pleasure.*
