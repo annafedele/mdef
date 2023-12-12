@@ -49,7 +49,7 @@ The effectiveness of bias removal tools heavily depends on the quality and diver
 
 
 
-??? danger ""
+!!! danger ""
 
     ## Reflection
     This week was an eye-opening experience that exposed me to the multifaceted world of artificial intelligence. One concept that truly fascinated me was the exploration of latent spaces. The idea of encapsulating complex data in a simplified yet meaningful manner resonated deeply with me. 
