@@ -34,7 +34,7 @@ We initiated our journey during this initial Design Intervention by exchanging o
 
 ## 1.1 Process
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNS9A5Cg=/?moveToViewport=-1723,-927,3487,1784&embedId=443776030871" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNVAZJj8=/?moveToViewport=1639,-202,3299,1666&embedId=750637840660" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 So, we collocated the place of our intrvention in metro stations:
 People from diverse backgrounds utilize public transportation, placing them in direct contact with the myriad conditions and experiences it entails.
