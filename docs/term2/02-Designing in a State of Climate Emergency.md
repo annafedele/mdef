@@ -60,10 +60,10 @@ We felt this was a more engaging way to get attention and talk about sensitive i
 <brr>
 <brr>
 
-![Alt text](../images/DSCE02.png)
 
 ![Alt text](../images/DSCE01.png){: .image-45-size-left}
 ![Alt text](../images/DSCE03.png){: .image-45-size-right}
+![Alt text](../images/DSCE02.png)
 
 !!! danger ""
 
