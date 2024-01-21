@@ -64,3 +64,9 @@ We felt this was a more engaging way to get attention and talk about sensitive i
 
 ![Alt text](../images/DSCE01.png){: .image-45-size-left}
 ![Alt text](../images/DSCE03.png){: .image-45-size-right}
+
+!!! danger ""
+
+    #### Reflection
+    The seminar was very interesting and full of information, in fact I think I still need some time to process them again because given the environmental situation we are in, each one needs attention.
+    I consider myself an average person who is concerned about climate issues but at the same time I don't consider myself to be an informed person in this regard, so this seminar was very useful for me to reflect on my surroundings and position myself in the world. It's not as obvious as it seems to be to find yourself and understand yourself, but above all to know where to go and thus to exchange your short-range vision. I think it is this kind of 'future-based' vision that is not only limited to a linear view but also a concentric and off-centre view that is the fundamental basis for a common consciousness and thus the real breakthrough for the climate emergency.
