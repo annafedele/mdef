@@ -20,18 +20,18 @@ The first presentation introduces the concept of Polycrisis and from there devel
 Into groups, we then discussed which points caught our attention the most:
 
 ABSTRACTIONS
-- We life in a society full of *abstractions*. 
-- The humanity is lost in abstractions some steps beyond or behind reality.
-- Being humans has been reduced as being ==users==.
-- A transition from human-centered design to solar-centered design
-- Responsibility as a designers of how we use the words because *the words can shape the worlds.*
+    - We life in a society full of *abstractions*. 
+    - The humanity is lost in abstractions some steps beyond or behind reality.
+    - Being humans has been reduced as being ==users==.
+    - A transition from human-centered design to solar-centered design
+    - Responsibility as a designers of how we use the words because *the words can shape the worlds.*
 
 SOLAR-CENTERED DESIGN
-Being more in **synch with natural rhythms**, especially with our star, who is the phenomenon that reigns most of the biological rhythms on Earth.
-- Energy availability
-- Circadian rhythm
-- Rethink our activity cycle
-Learning from the wisdom of indigenous and native cultures that follow/respect natural solar cycles
+    Being more in **synch with natural rhythms**, especially with our star, who is the phenomenon that reigns most of the biological rhythms on Earth.
+    - Energy availability
+    - Circadian rhythm
+    - Rethink our activity cycle
+    Learning from the wisdom of indigenous and native cultures that follow/respect natural solar cycles
 
 As a "solution" we thought about the meaning and application of the word ==**interdisciplinarity**==
 - Now the technologists are more aligned with scientists, biologists, ecologists
@@ -53,13 +53,14 @@ Yet time only flows in one direction, towards things we do not yet know, and it 
 >
 
 ## Field Trip
+![Alt text](../images/DSCE04.png){: .image-45-size-right}
 On the last day we made posters on some of the themes that had impressed us most during the week and, walking around Barceloneta My group and I focused on solar-centred design and the relationship humans have with the sun. We therefore made an interactive poster where there was a sun inside, and respectively each of its rays contained a sentence or a question on which we encouraged passers-by to reflect.![Alt text](../images/DSCE04.png){: .image-45-size-right}
 We felt this was a more engaging way to get attention and talk about sensitive issues such as the climate emergency, as people tend to be intimidated by threatening phrases about the climate emergency and perhaps shy away from participating in a conversation.
 
 <brr>
 <brr>
 
+![Alt text](../images/DSCE02.png)
 
-![Alt text](../images/DSCE01.png)
-![Alt text](../images/DSCE02.png){: .image-45-size-left}
+![Alt text](../images/DSCE01.png){: .image-45-size-left}
 ![Alt text](../images/DSCE03.png){: .image-45-size-right}
