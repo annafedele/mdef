@@ -54,7 +54,7 @@ Yet time only flows in one direction, towards things we do not yet know, and it 
 
 ## Field Trip
 ![Alt text](../images/DSCE04.png){: .image-45-size-right}
-On the last day we made posters on some of the themes that had impressed us most during the week and, walking around Barceloneta My group and I focused on solar-centred design and the relationship humans have with the sun. We therefore made an interactive poster where there was a sun inside, and respectively each of its rays contained a sentence or a question on which we encouraged passers-by to reflect.![Alt text](../images/DSCE04.png){: .image-45-size-right}
+On the last day we made posters on some of the themes that had impressed us most during the week and, walking around Barceloneta My group and I focused on solar-centred design and the relationship humans have with the sun. We therefore made an interactive poster where there was a sun inside, and respectively each of its rays contained a sentence or a question on which we encouraged passers-by to reflect.
 We felt this was a more engaging way to get attention and talk about sensitive issues such as the climate emergency, as people tend to be intimidated by threatening phrases about the climate emergency and perhaps shy away from participating in a conversation.
 
 <brr>
