@@ -1,4 +1,6 @@
 *9.01-12.01*
+<brr>
+
 This seminar was an insight into the issues surrounding the climate emergency and the role design can play in curbing them.
 For this to happen, it is important for each of us to understand where we stand in the world, whether we are privileged or not, what our backgrounds are in order to internalise the right approach.
 Summing up, we spent a week absorbing a lot of information on the main issues concerning the climate emergency and developed a reflection on them that led us to choose the focal points that intrigued us most to stimulate dialogue.
@@ -43,15 +45,21 @@ As a "solution" we thought about the meaning and application of the word ==**int
 
 The lecture kicked off with a captivating introduction, seamlessly weaving together philosophical insights, scientific knowledge, and indigenous wisdom. This set the stage for a thought-provoking exploration that bridged the gap between diverse disciplines and perspectives. As the discussion unfolded, a substantial focus centered on the intricate concept of Time.
 
-This lecture really interested me because I have always been fascinated by the concept of time, its different conceptions and how it is explored in different areas: for example, the concept of relativity related to the passage of time, or the disruption of the flow of time in European literature at the beginning of the 20th century, or even the cyclical conception of time from a more philosophical aspect.
-I often stop to think how the passing of minutes, hours days or years is a mere convention invented by man to quantify the passing of a life.  We spend time scheduling events on a fictitious time organisation that is now lost with the solar day because we are used to living at night, we have artificial lights and entertainments that sometimes make us lose time.
-Yet time only flows in one direction, towards things we do not yet know, and it does not stop.
-
 ![Alt text](../images/DSCE05.png){: .image-45-size-left}
 
+> This lecture really interested me because I have always been fascinated by the concept of time, its different conceptions and how it is explored in different areas: for example, the concept of relativity related to the passage of time, or the disruption of the flow of time in European literature at the beginning of the 20th century, or even the cyclical conception of time from a more philosophical aspect.
+I often stop to think how the passing of minutes, hours days or years is a mere convention invented by man to quantify the passing of a life.  We spend time scheduling events on a fictitious time organisation that is now lost with the solar day because we are used to living at night, we have artificial lights and entertainments that sometimes make us lose time.
+Yet time only flows in one direction, towards things we do not yet know, and it does not stop.
+>
+
 ## Field Trip
-on the last day
+On the last day we made posters on some of the themes that had impressed us most during the week and, walking around Barceloneta My group and I focused on solar-centred design and the relationship humans have with the sun. We therefore made an interactive poster where there was a sun inside, and respectively each of its rays contained a sentence or a question on which we encouraged passers-by to reflect.![Alt text](../images/DSCE04.png){: .image-45-size-right}
+We felt this was a more engaging way to get attention and talk about sensitive issues such as the climate emergency, as people tend to be intimidated by threatening phrases about the climate emergency and perhaps shy away from participating in a conversation.
+
+<brr>
+<brr>
 
 
-
-![Alt text](../images/DSCE01.png)![Alt text](../images/DSCE02.png)![Alt text](../images/DSCE03.png)![Alt text](../images/DSCE04.png)
+![Alt text](../images/DSCE01.png)
+![Alt text](../images/DSCE02.png){: .image-45-size-left}
+![Alt text](../images/DSCE03.png){: .image-45-size-right}
