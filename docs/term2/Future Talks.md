@@ -11,7 +11,6 @@ It was an interesting activity because it made me break down my project and self
 
 - **key takeaways**
 The section where I gained the most points is the Environmentally regenerative section precisely because the project I selected was based on this type of values and pushes to increasingly use the available technological knowledge to increase the life cycle of a material and thus the circular economy. so I am happy that my project reflects the environmental and design innovation values mentioned in the reflection tree.
-
 Secondly, the area most lacking is that of inclusivity: although the project could be attentive to the material cycle and the use of innovative techniques for non-industrial but customised production, it is a little far from expanding the target audience, which at the moment is still niche despite the fact that the project communication is available to all. In addition, the technology assumed for production is high-end, so that also restricts the accessibility for users.
 I would therefore also like to take these aspects into consideration in the future
 
