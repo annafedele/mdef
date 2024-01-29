@@ -66,3 +66,12 @@ The method is defined by experimenting with new techniques and materials in both
 
 **WHY?**
 What I would like to dedicate myself to are topics that are very close to my heart and where I feel very empathetic about them, it is a goal that stems from external stimuli that I have reworked within myself, but at the same time I want to present them externally, for others, in a new light and possibly also do something about it, changing things is definitely my goal, even if at the moment it seems very far away and ambitious
+
+
+## Tandem project, *with annna*
+
+I start my tandem project with Annna, starting researching about her project on the exagerating of ugliness exaltation and exaggeration of ugliness (relating to human and non-human beings) through the use of technology.
+
+We recorded this video together to explain some points that I thought were interesting about his project starting with the topics of inspiration, influences from his background and future involvement of communities or institutions.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/907527861?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="5question_annna"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

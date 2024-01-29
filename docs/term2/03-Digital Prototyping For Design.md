@@ -15,3 +15,5 @@ We therefore thought of making, starting from the experiments I had previously c
 
 I had already made a touch sensor using conductive tape and the biomaterial only as a coating.
 This time we wanted to test the sensor using conductive biomaterial instead of cables
+
+![Alt text](<../images/image (5).png>){: .image-45-size-left}
