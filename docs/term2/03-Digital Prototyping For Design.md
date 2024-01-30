@@ -31,6 +31,7 @@ Both of these two recipes are based on Agar Agar
 
 
 ??? danger "*Agar recipe*"
+
    - 300ml water
    - 10 g agar agar
    - 16g/32g glycerol (depends on the flexibility of the material we want to obtain)
@@ -38,8 +39,8 @@ Both of these two recipes are based on Agar Agar
 We decided to use salt in order to create a biomaterial that can conduct electricity, in fact:
 *sodium chloride in the liquid state or in aqueous solution is a good conductor of electricity. This is because it dissociates into sodium (Na+) and chloride (Cl-) ions when in this form. The charged ions allow electric current to flow through the solution.*
 
-![Alt text](../images/DP01.png){: .image-45-size-left}
-![Alt text](../images/DP04.png){: .image-45-size-right}
+![Alt text](../images/DP01.png){: .image-50-size-left}
+![Alt text](../images/DP04.png){: .image-50-size-right}
 
 <brr>
 <brr>
@@ -50,4 +51,12 @@ We did, however, face some difficulties as we were not aware of the amount of sa
 In fact, we did several tests with different amounts of salt and came to the conclusion that if more than 20 g of salt are mixed, the conductivity with 6V is obtained.
 
 ## Researching the shape
+
+Our idea was to laser-cut the non-conductive agar material to a shape that would fit the body, like a prolugation of it; so we took two different paths:
+1. design a shape that would remain in harmony with the body and be organic like a simulation of human skin
+2. to design a shape that would detach itself from the body and refer to something technological like a wearable that was alien to the body, a bit cyberpunk
+
+![Alt text](../images/inspo.png){: .image-50-size-left}
+![Alt text](../images/inspo2.jpg){: .image-50-size-right}
+
 
