@@ -30,15 +30,15 @@ Both of these two recipes are based on Agar Agar
 
 
 ??? danger "*Agar recipe*"
-    300ml water
-    10 g agar agar
-    16g/32g glycerol (depends on the flexibility of the material we want to obtain)
+   - 300ml water
+   - 10 g agar agar
+   - 16g/32g glycerol (depends on the flexibility of the material we want to obtain)
 
 We decided to use salt in order to create a biomaterial that can conduct electricity, in fact:
 *sodium chloride in the liquid state or in aqueous solution is a good conductor of electricity. This is because it dissociates into sodium (Na+) and chloride (Cl-) ions when in this form. The charged ions allow electric current to flow through the solution.*
 
-![Alt text](../images/DP01.png){: .image-45-size-left}
-![Alt text](../images/DP02.png){: .image-45-size-right}
+![Alt text](../images/DP01.png)
+![Alt text](../images/DP02.png)
 
 
 We did, however, face some difficulties as we were not aware of the amount of salt required to conduct electricity with a 3V battery (i.e. the smallest and therefore least bulky battery that we could fit in the sensor); furthermore, the drying time of a biomaterial (in this case agar) varies up to five days, if we do not create too thick a sample, so it extended the time for which we could test conductivity.
