@@ -18,13 +18,14 @@ This time we wanted to test the sensor using conductive biomaterial instead of c
 
 ![Alt text](<../images/image (5).png>){: .image-45-size-left}
 
-
+## First step
 We began by defining two biomaterials that respectively occupy the roles of the sensor's coating, i.e. the visible outer part that will be laser-cut, and the conductive biomaterial that will be placed inside the sensor.
 Both of these two recipes are based on Agar Agar
 
-![Alt text](../images/DP05.png){: .image-45-size-left}
-![Alt text](../images/DP06.png){: .image-45-size-right}
+![Alt text](../images/DP05.png)
+![Alt text](../images/DP06.png)
 
+<brr>
 <brr>
 <brr>
 
@@ -37,9 +38,16 @@ Both of these two recipes are based on Agar Agar
 We decided to use salt in order to create a biomaterial that can conduct electricity, in fact:
 *sodium chloride in the liquid state or in aqueous solution is a good conductor of electricity. This is because it dissociates into sodium (Na+) and chloride (Cl-) ions when in this form. The charged ions allow electric current to flow through the solution.*
 
-![Alt text](../images/DP01.png)
-![Alt text](../images/DP02.png)
+![Alt text](../images/DP01.png){: .image-45-size-left}
+![Alt text](../images/DP04.png){: .image-45-size-right}
+
+<brr>
+<brr>
+<brr>
 
 
 We did, however, face some difficulties as we were not aware of the amount of salt required to conduct electricity with a 3V battery (i.e. the smallest and therefore least bulky battery that we could fit in the sensor); furthermore, the drying time of a biomaterial (in this case agar) varies up to five days, if we do not create too thick a sample, so it extended the time for which we could test conductivity.
 In fact, we did several tests with different amounts of salt and came to the conclusion that if more than 20 g of salt are mixed, the conductivity with 6V is obtained.
+
+## Researching the shape
+
