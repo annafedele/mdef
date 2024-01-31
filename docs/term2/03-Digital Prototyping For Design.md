@@ -67,7 +67,7 @@ Our idea was to laser-cut the non-conductive agar material to a shape that would
 ![Alt text](../images/DP08.png){: .image-45-size-left}
 ![Alt text](../images/DP07.png){: .image-45-size-right}
 
-
+![Alt text](../images/DPGIF.gif){: .image-45-size-right}
 ## Final considerations
 
 We both agreed that given the timeframe, it is not easy to build a small sensor that can work without cables, especially since we realised that material thicknesses and overall dimensions are critical to making a clean object. 
