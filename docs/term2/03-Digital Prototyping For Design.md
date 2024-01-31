@@ -32,9 +32,9 @@ Both of these two recipes are based on Agar Agar
 
 ??? danger "*Agar recipe*"
 
-   - 300ml water
-   - 10 g agar agar
-   - 16g/32g glycerol (depends on the flexibility of the material we want to obtain)
+    - 300ml water
+    - 10 g agar agar
+    - 16g/32g glycerol (depends on the flexibility of the material we want to obtain)
 
 We decided to use salt in order to create a biomaterial that can conduct electricity, in fact:
 *sodium chloride in the liquid state or in aqueous solution is a good conductor of electricity. This is because it dissociates into sodium (Na+) and chloride (Cl-) ions when in this form. The charged ions allow electric current to flow through the solution.*
@@ -62,14 +62,13 @@ Our idea was to laser-cut the non-conductive agar material to a shape that would
 ![Alt text](../images/inspo.png){: .image-45-size-left}
 ![Alt text](../images/inspo2.jpg){: .image-45-size-right}
 
-![Alt text](../images/DPGIF.gif)
-
 ![Alt text](../images/DP08.png){: .image-45-size-left}
 ![Alt text](../images/DP07.png){: .image-45-size-right}
 
-![Alt text](../images/DPGIF.gif){: .image-45-size-right}
+
 ## Final considerations
 
 We both agreed that given the timeframe, it is not easy to build a small sensor that can work without cables, especially since we realised that material thicknesses and overall dimensions are critical to making a clean object. 
 In addition, the arrangement of the objects inside is crucial to realise a functioning circuit, which, however, must be isolated from another material to allow the intermittent on/off function of the LED. 
 We also made another mould of conductive material which we thought of engraving with laser cutting in order to be able to position the batteriers for not wasting volume, but we realised that in long contact with the material, they oxidise.
+![Alt text](../images/DPGIF.gif){: .image-45-size-right}
