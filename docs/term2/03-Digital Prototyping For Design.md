@@ -39,9 +39,12 @@ Both of these two recipes are based on Agar Agar
 We decided to use salt in order to create a biomaterial that can conduct electricity, in fact:
 *sodium chloride in the liquid state or in aqueous solution is a good conductor of electricity. This is because it dissociates into sodium (Na+) and chloride (Cl-) ions when in this form. The charged ions allow electric current to flow through the solution.*
 
-![Alt text](../images/DP01.png){: .image-45-size-left}
-![Alt text](../images/DP04.png){: .image-45-size-right}
-
+<div>
+<img src="../images/DP01.png">
+<img src="../images/DP04.png">
+<!--![Alt text](../images/DP01.png){: .image-45-size-left}
+![Alt text](../images/DP04.png){: .image-45-size-right}-->
+</div>
 <brr>
 <brr>
 <brr>
