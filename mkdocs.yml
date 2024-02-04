@@ -75,7 +75,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
-
+    - content.code.copy
 plugins:
   - search
   - git-revision-date-localized:

@@ -26,25 +26,28 @@ In addition, thoughts have arisen on the filters contained in AI from an ethical
 For my first intervention of the term, I decided to develop some of the thoughts I had gained during the Design Dialogues.
 I focused on the perception of our skin when we are touched:
 it is clear that to the detriment of the person and the context our reaction and the feedback the skin gives are different, but when we are in a context of abuse or violence the situation changes; it is all confused, mixed up, right but not right at the same time, "he didn't do it on purpose" or "maybe it's my fault". And so you think back, you go back to analyse every part of what happened and you ask yourself, *so how did it happen?*
-
+<br>
 I reflected on how fine the line really was between love and violence, from passionate touching to abuse.
 
-
+![Alt text](../images/DS021.png){: .image-45-size-right}
 The love drive and the death drive were also defined by Freud as *libido* and *destrudo*, a concept I have always been fascinated by: if libido conceals sexual, almost animalistic instincts, destrudo is more ==incitement to self-destruction, but which, driven by other organs, Freud says, can be poured outwards towards others.==
 Freud wrote this reasoning in response to a letter from Einstein who, with the Second World War still in progress, asked for a psychological explanation of the human being's tendency towards destruction and violence.
-
+<br>
 **Well, when does libido turn into destrudo?**
 
 ## 1.2 ideation
 
 To further my research, I decided to continue experimenting with biomaterials.
 For the [Digital Prototyping for Design](https://annafedele.github.io/mdef/term2/03-Digital%20Prototyping%20For%20Design/) seminar Flora and I had begun research into a wearable sensor that would release a pressure-modulated LED as feedback when touched.
-
+<br>
+![Alt text](../images/DS02.gif){: .image-45-size-left}
 I therefore focused on two fundamental points: the search for a biomaterial that conducts electricity (see Digital Prototyping page) and what kind of feedback I wanted to obtain. In fact, I wanted to recreate an artefact that was more speculative than and therefore showed how touch pressure has a visual and audible repercussion, so I inserted two LED lights and a speacker that would dramatically highlight the moment when the DIY touch sensor recognised a more pronounced pressure.
 
-![Alt text](../images/DS02.gif)
+
 
 ??? danger "code"
+
+    ``` py
     #include "pitches.h";
     #define touchPin T2
     const int threshold = 50000;
@@ -120,10 +123,11 @@ I therefore focused on two fundamental points: the search for a biomaterial that
     }
     delay(10);
     }
+    ```
 
 ## 1.3 Results
 
 ## References 
 
-[Arduino Capacitive Touch Sensing!](https://www.youtube.com/watch?v=pTSBXSCFBPs)
+[Arduino Capacitive Touch Sensing!](https://www.youtube.com/watch?v=pTSBXSCFBPs)<br>
 Freud, S. (1946). Why war. Free World, 11, 18.
