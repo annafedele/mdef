@@ -625,92 +625,102 @@ In addition, thoughts have arisen on the filters contained in AI from an ethical
 <h2 id="11-process">1.1 process<a class="headerlink" href="#11-process" title="Permanent link">&para;</a></h2>
 <p>For my first intervention of the term, I decided to develop some of the thoughts I had gained during the Design Dialogues.
 I focused on the perception of our skin when we are touched:
-it is clear that to the detriment of the person and the context our reaction and the feedback the skin gives are different, but when we are in a context of abuse or violence the situation changes; it is all confused, mixed up, right but not right at the same time, &ldquo;he didn&rsquo;t do it on purpose&rdquo; or &ldquo;maybe it&rsquo;s my fault&rdquo;. And so you think back, you go back to analyse every part of what happened and you ask yourself, <em>so how did it happen?</em></p>
-<p>I reflected on how fine the line really was between love and violence, from passionate touching to abuse.</p>
-<p>The love drive and the death drive were also defined by Freud as <em>libido</em> and <em>destrudo</em>, a concept I have always been fascinated by: if libido conceals sexual, almost animalistic instincts, destrudo is more <mark>incitement to self-destruction, but which, driven by other organs, Freud says, can be poured outwards towards others.</mark>
-Freud wrote this reasoning in response to a letter from Einstein who, with the Second World War still in progress, asked for a psychological explanation of the human being&rsquo;s tendency towards destruction and violence.</p>
-<p><strong>Well, when does libido turn into destrudo?</strong></p>
+it is clear that to the detriment of the person and the context our reaction and the feedback the skin gives are different, but when we are in a context of abuse or violence the situation changes; it is all confused, mixed up, right but not right at the same time, &ldquo;he didn&rsquo;t do it on purpose&rdquo; or &ldquo;maybe it&rsquo;s my fault&rdquo;. And so you think back, you go back to analyse every part of what happened and you ask yourself, <em>so how did it happen?</em>
+<br>
+I reflected on how fine the line really was between love and violence, from passionate touching to abuse.</p>
+<p><img alt="Alt text" class="image-45-size-right" src="../../images/DS021.png" />
+The love drive and the death drive were also defined by Freud as <em>libido</em> and <em>destrudo</em>, a concept I have always been fascinated by: if libido conceals sexual, almost animalistic instincts, destrudo is more <mark>incitement to self-destruction, but which, driven by other organs, Freud says, can be poured outwards towards others.</mark>
+Freud wrote this reasoning in response to a letter from Einstein who, with the Second World War still in progress, asked for a psychological explanation of the human being&rsquo;s tendency towards destruction and violence.
+<br>
+<strong>Well, when does libido turn into destrudo?</strong></p>
 <h2 id="12-ideation">1.2 ideation<a class="headerlink" href="#12-ideation" title="Permanent link">&para;</a></h2>
 <p>To further my research, I decided to continue experimenting with biomaterials.
-For the <a href="https://annafedele.github.io/mdef/term2/03-Digital%20Prototyping%20For%20Design/">Digital Prototyping for Design</a> seminar Flora and I had begun research into a wearable sensor that would release a pressure-modulated LED as feedback when touched.</p>
-<p>I therefore focused on two fundamental points: the search for a biomaterial that conducts electricity (see Digital Prototyping page) and what kind of feedback I wanted to obtain. In fact, I wanted to recreate an artefact that was more speculative than and therefore showed how touch pressure has a visual and audible repercussion, so I inserted two LED lights and a speacker that would dramatically highlight the moment when the DIY touch sensor recognised a more pronounced pressure.</p>
-<p><img alt="Alt text" src="../../images/DS02.gif" /></p>
+For the <a href="https://annafedele.github.io/mdef/term2/03-Digital%20Prototyping%20For%20Design/">Digital Prototyping for Design</a> seminar Flora and I had begun research into a wearable sensor that would release a pressure-modulated LED as feedback when touched.
+<br>
+<img alt="Alt text" class="image-45-size-left" src="../../images/DS02.gif" />
+I therefore focused on two fundamental points: the search for a biomaterial that conducts electricity (see Digital Prototyping page) and what kind of feedback I wanted to obtain. In fact, I wanted to recreate an artefact that was more speculative than and therefore showed how touch pressure has a visual and audible repercussion, so I inserted two LED lights and a speacker that would dramatically highlight the moment when the DIY touch sensor recognised a more pronounced pressure.</p>
 <details class="danger">
 <summary>code</summary>
-<h1 id="include-pitchesh">include &ldquo;pitches.h&rdquo;;<a class="headerlink" href="#include-pitchesh" title="Permanent link">&para;</a></h1>
-<h1 id="define-touchpin-t2">define touchPin T2<a class="headerlink" href="#define-touchpin-t2" title="Permanent link">&para;</a></h1>
-<p>const int threshold = 50000;
-const int threshold2 = 80000;
-const int threshold3 = 100000;
-const int threshold4 = 120000;
-const int threshold5 = 140000;
-const int ledPin = 13;
-const int ledPin2= 11;
-const int buzzer = 10;
-int touchValue;
-int pitch = 0;
-void setup()</p>
-<p>{
-Serial.begin(115200);
-delay(10); // give me time to bring up serial monitor
-Serial.println(&ldquo;ESP32 Touch Test&rdquo;);
-pinMode(ledPin, OUTPUT);
-pinMode(ledPin2, OUTPUT);
-pinMode(buzzer, OUTPUT);
-}</p>
-<p>void loop()
-{
-touchValue = touchRead (touchPin);
-Serial.println(touchRead(T2));  // get value using T1
-delay(10);
-if (touchValue &gt; threshold) {
-    // turn the LED on
-    digitalWrite(ledPin, HIGH);
-}
-// if it&rsquo;s lower than the threshold
-else {
-    // turn the LED off
-    digitalWrite(ledPin, LOW);
-}</p>
-<p>// if the value is greater than the threshold
-if (touchValue &gt; threshold5) {
-    // turn the LED on
-    digitalWrite(ledPin2, HIGH);
-}
-// if it&rsquo;s lower than the threshold
-else {
-    // turn the LED off
-    digitalWrite(ledPin2, LOW);
-}
-if (touchValue &gt; threshold) {
-    pitch = NOTE_C2; 
-} else if (touchValue &gt; threshold2) {
-    pitch = NOTE_AS7;
-} else if (touchValue &gt; threshold3) {
-    pitch = NOTE_A7;
-} else if (touchValue &gt; threshold4) {
-    pitch = NOTE_GS7;
-} else if (touchValue &gt; threshold5) {
-    pitch = NOTE_D8;
-} else {
-    pitch = 0;</p>
-<p>}
-if(pitch == 0) {
-    noTone(buzzer);
-} else {
-    tone(buzzer, pitch);
-}</p>
-<p>if (pitch == 0) {
-    noTone(buzzer);
-} else {
-    tone(buzzer, pitch);
-}
-delay(10);
-}</p>
+<div class="highlight"><pre><span></span><code><span class="c1">#include &quot;pitches.h&quot;;</span>
+<span class="c1">#define touchPin T2</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">threshold</span> <span class="o">=</span> <span class="mi">50000</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">threshold2</span> <span class="o">=</span> <span class="mi">80000</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">threshold3</span> <span class="o">=</span> <span class="mi">100000</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">threshold4</span> <span class="o">=</span> <span class="mi">120000</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">threshold5</span> <span class="o">=</span> <span class="mi">140000</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">ledPin</span> <span class="o">=</span> <span class="mi">13</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">ledPin2</span><span class="o">=</span> <span class="mi">11</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">buzzer</span> <span class="o">=</span> <span class="mi">10</span><span class="p">;</span>
+<span class="nb">int</span> <span class="n">touchValue</span><span class="p">;</span>
+<span class="nb">int</span> <span class="n">pitch</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+<span class="n">void</span> <span class="n">setup</span><span class="p">()</span>
+
+<span class="p">{</span>
+<span class="n">Serial</span><span class="o">.</span><span class="n">begin</span><span class="p">(</span><span class="mi">115200</span><span class="p">);</span>
+<span class="n">delay</span><span class="p">(</span><span class="mi">10</span><span class="p">);</span> <span class="o">//</span> <span class="n">give</span> <span class="n">me</span> <span class="n">time</span> <span class="n">to</span> <span class="n">bring</span> <span class="n">up</span> <span class="n">serial</span> <span class="n">monitor</span>
+<span class="n">Serial</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="s2">&quot;ESP32 Touch Test&quot;</span><span class="p">);</span>
+<span class="n">pinMode</span><span class="p">(</span><span class="n">ledPin</span><span class="p">,</span> <span class="n">OUTPUT</span><span class="p">);</span>
+<span class="n">pinMode</span><span class="p">(</span><span class="n">ledPin2</span><span class="p">,</span> <span class="n">OUTPUT</span><span class="p">);</span>
+<span class="n">pinMode</span><span class="p">(</span><span class="n">buzzer</span><span class="p">,</span> <span class="n">OUTPUT</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="n">void</span> <span class="n">loop</span><span class="p">()</span>
+<span class="p">{</span>
+<span class="n">touchValue</span> <span class="o">=</span> <span class="n">touchRead</span> <span class="p">(</span><span class="n">touchPin</span><span class="p">);</span>
+<span class="n">Serial</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="n">touchRead</span><span class="p">(</span><span class="n">T2</span><span class="p">));</span>  <span class="o">//</span> <span class="n">get</span> <span class="n">value</span> <span class="n">using</span> <span class="n">T1</span>
+<span class="n">delay</span><span class="p">(</span><span class="mi">10</span><span class="p">);</span>
+<span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold</span><span class="p">)</span> <span class="p">{</span>
+    <span class="o">//</span> <span class="n">turn</span> <span class="n">the</span> <span class="n">LED</span> <span class="n">on</span>
+    <span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin</span><span class="p">,</span> <span class="n">HIGH</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="o">//</span> <span class="k">if</span> <span class="n">it</span><span class="s1">&#39;s lower than the threshold</span>
+<span class="k">else</span> <span class="p">{</span>
+    <span class="o">//</span> <span class="n">turn</span> <span class="n">the</span> <span class="n">LED</span> <span class="n">off</span>
+    <span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin</span><span class="p">,</span> <span class="n">LOW</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="o">//</span> <span class="k">if</span> <span class="n">the</span> <span class="n">value</span> <span class="ow">is</span> <span class="n">greater</span> <span class="n">than</span> <span class="n">the</span> <span class="n">threshold</span>
+<span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold5</span><span class="p">)</span> <span class="p">{</span>
+    <span class="o">//</span> <span class="n">turn</span> <span class="n">the</span> <span class="n">LED</span> <span class="n">on</span>
+    <span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin2</span><span class="p">,</span> <span class="n">HIGH</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="o">//</span> <span class="k">if</span> <span class="n">it</span><span class="s1">&#39;s lower than the threshold</span>
+<span class="k">else</span> <span class="p">{</span>
+    <span class="o">//</span> <span class="n">turn</span> <span class="n">the</span> <span class="n">LED</span> <span class="n">off</span>
+    <span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin2</span><span class="p">,</span> <span class="n">LOW</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">pitch</span> <span class="o">=</span> <span class="n">NOTE_C2</span><span class="p">;</span> 
+<span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold2</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">pitch</span> <span class="o">=</span> <span class="n">NOTE_AS7</span><span class="p">;</span>
+<span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold3</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">pitch</span> <span class="o">=</span> <span class="n">NOTE_A7</span><span class="p">;</span>
+<span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold4</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">pitch</span> <span class="o">=</span> <span class="n">NOTE_GS7</span><span class="p">;</span>
+<span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold5</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">pitch</span> <span class="o">=</span> <span class="n">NOTE_D8</span><span class="p">;</span>
+<span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+    <span class="n">pitch</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+
+<span class="p">}</span>
+<span class="k">if</span><span class="p">(</span><span class="n">pitch</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">noTone</span><span class="p">(</span><span class="n">buzzer</span><span class="p">);</span>
+<span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+    <span class="n">tone</span><span class="p">(</span><span class="n">buzzer</span><span class="p">,</span> <span class="n">pitch</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="k">if</span> <span class="p">(</span><span class="n">pitch</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+    <span class="n">noTone</span><span class="p">(</span><span class="n">buzzer</span><span class="p">);</span>
+<span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+    <span class="n">tone</span><span class="p">(</span><span class="n">buzzer</span><span class="p">,</span> <span class="n">pitch</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="n">delay</span><span class="p">(</span><span class="mi">10</span><span class="p">);</span>
+<span class="p">}</span>
+</code></pre></div>
 </details>
 <h2 id="13-results">1.3 Results<a class="headerlink" href="#13-results" title="Permanent link">&para;</a></h2>
 <h2 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h2>
-<p><a href="https://www.youtube.com/watch?v=pTSBXSCFBPs">Arduino Capacitive Touch Sensing!</a>
+<p><a href="https://www.youtube.com/watch?v=pTSBXSCFBPs">Arduino Capacitive Touch Sensing!</a><br>
 Freud, S. (1946). Why war. Free World, 11, 18.</p>
                 
                   
@@ -850,7 +860,7 @@ Freud, S. (1946). Why war. Free World, 11, 18.</p>
       <script>
         app = initialize({
           base: "../..",
-          features: ["instant", "navigation.expand", "navigation.indexes", "navigation.instant", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking"],
+          features: ["instant", "navigation.expand", "navigation.indexes", "navigation.instant", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.tracking", "content.code.copy"],
           search: Object.assign({
             worker: "../../assets/javascripts/worker/search.5eca75d3.min.js"
           }, typeof search !== "undefined" && search)
