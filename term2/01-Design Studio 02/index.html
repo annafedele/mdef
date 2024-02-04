@@ -540,6 +540,18 @@
   </li>
 
         
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../05-Designing%20with%20Collective%20Intelligence/" title="Designing with Collective Intelligence" class="md-nav__link">
+      Designing with Collective Intelligence
+    </a>
+  </li>
+
+        
       </ul>
     </nav>
   </li>
@@ -609,6 +621,97 @@ I wondered how artificial intelligence could see terrible concepts such as viole
 <p>Summarily my research brought to the design dialogues brought positive feedback and stimulated interesting dialogues both with my colleagues and as outsiders; solprendently the focus was more on the design part of the images realised in AI, also because I had arranged the images interactively so that everyone could &lsquo;unveil&rsquo; them by pretending a dark room with black ink. On the exhibition level, I realised that I want to stay with this type of arrangement.
 Moreover, the most relevant comments were on the one hand to investigate and research how to make a biomaterial, (or a tissue) as responsive as if it were a human tissue, also to introduce a still very controversial reflection: when two bodies interact, touch each other, where is the line that defines the behaviour as innocent to the point of violence? it is so thin&hellip; 
 In addition, thoughts have arisen on the filters contained in AI from an ethical point of view, whether we need them, they protect us or are an obstacle that will increasingly limit us. </p>
+<h1 id="i-intervention-when-u-touch-m">I INTERVENTION: when u touch m<a class="headerlink" href="#i-intervention-when-u-touch-m" title="Permanent link">&para;</a></h1>
+<h2 id="11-process">1.1 process<a class="headerlink" href="#11-process" title="Permanent link">&para;</a></h2>
+<p>For my first intervention of the term, I decided to develop some of the thoughts I had gained during the Design Dialogues.
+I focused on the perception of our skin when we are touched:
+it is clear that to the detriment of the person and the context our reaction and the feedback the skin gives are different, but when we are in a context of abuse or violence the situation changes; it is all confused, mixed up, right but not right at the same time, &ldquo;he didn&rsquo;t do it on purpose&rdquo; or &ldquo;maybe it&rsquo;s my fault&rdquo;. And so you think back, you go back to analyse every part of what happened and you ask yourself, <em>so how did it happen?</em></p>
+<p>I reflected on how fine the line really was between love and violence, from passionate touching to abuse.</p>
+<p>The love drive and the death drive were also defined by Freud as <em>libido</em> and <em>destrudo</em>, a concept I have always been fascinated by: if libido conceals sexual, almost animalistic instincts, destrudo is more <mark>incitement to self-destruction, but which, driven by other organs, Freud says, can be poured outwards towards others.</mark>
+Freud wrote this reasoning in response to a letter from Einstein who, with the Second World War still in progress, asked for a psychological explanation of the human being&rsquo;s tendency towards destruction and violence.</p>
+<p><strong>Well, when does libido turn into destrudo?</strong></p>
+<h2 id="12-ideation">1.2 ideation<a class="headerlink" href="#12-ideation" title="Permanent link">&para;</a></h2>
+<p>To further my research, I decided to continue experimenting with biomaterials.
+For the <a href="https://annafedele.github.io/mdef/term2/03-Digital%20Prototyping%20For%20Design/">Digital Prototyping for Design</a> seminar Flora and I had begun research into a wearable sensor that would release a pressure-modulated LED as feedback when touched.</p>
+<p>I therefore focused on two fundamental points: the search for a biomaterial that conducts electricity (see Digital Prototyping page) and what kind of feedback I wanted to obtain. In fact, I wanted to recreate an artefact that was more speculative than and therefore showed how touch pressure has a visual and audible repercussion, so I inserted two LED lights and a speacker that would dramatically highlight the moment when the DIY touch sensor recognised a more pronounced pressure.</p>
+<p><img alt="Alt text" src="../../images/DS02.gif" /></p>
+<details class="danger">
+<summary>code</summary>
+<h1 id="include-pitchesh">include &ldquo;pitches.h&rdquo;;<a class="headerlink" href="#include-pitchesh" title="Permanent link">&para;</a></h1>
+<h1 id="define-touchpin-t2">define touchPin T2<a class="headerlink" href="#define-touchpin-t2" title="Permanent link">&para;</a></h1>
+<p>const int threshold = 50000;
+const int threshold2 = 80000;
+const int threshold3 = 100000;
+const int threshold4 = 120000;
+const int threshold5 = 140000;
+const int ledPin = 13;
+const int ledPin2= 11;
+const int buzzer = 10;
+int touchValue;
+int pitch = 0;
+void setup()</p>
+<p>{
+Serial.begin(115200);
+delay(10); // give me time to bring up serial monitor
+Serial.println(&ldquo;ESP32 Touch Test&rdquo;);
+pinMode(ledPin, OUTPUT);
+pinMode(ledPin2, OUTPUT);
+pinMode(buzzer, OUTPUT);
+}</p>
+<p>void loop()
+{
+touchValue = touchRead (touchPin);
+Serial.println(touchRead(T2));  // get value using T1
+delay(10);
+if (touchValue &gt; threshold) {
+    // turn the LED on
+    digitalWrite(ledPin, HIGH);
+}
+// if it&rsquo;s lower than the threshold
+else {
+    // turn the LED off
+    digitalWrite(ledPin, LOW);
+}</p>
+<p>// if the value is greater than the threshold
+if (touchValue &gt; threshold5) {
+    // turn the LED on
+    digitalWrite(ledPin2, HIGH);
+}
+// if it&rsquo;s lower than the threshold
+else {
+    // turn the LED off
+    digitalWrite(ledPin2, LOW);
+}
+if (touchValue &gt; threshold) {
+    pitch = NOTE_C2; 
+} else if (touchValue &gt; threshold2) {
+    pitch = NOTE_AS7;
+} else if (touchValue &gt; threshold3) {
+    pitch = NOTE_A7;
+} else if (touchValue &gt; threshold4) {
+    pitch = NOTE_GS7;
+} else if (touchValue &gt; threshold5) {
+    pitch = NOTE_D8;
+} else {
+    pitch = 0;</p>
+<p>}
+if(pitch == 0) {
+    noTone(buzzer);
+} else {
+    tone(buzzer, pitch);
+}</p>
+<p>if (pitch == 0) {
+    noTone(buzzer);
+} else {
+    tone(buzzer, pitch);
+}
+delay(10);
+}</p>
+</details>
+<h2 id="13-results">1.3 Results<a class="headerlink" href="#13-results" title="Permanent link">&para;</a></h2>
+<h2 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h2>
+<p><a href="https://www.youtube.com/watch?v=pTSBXSCFBPs">Arduino Capacitive Touch Sensing!</a>
+Freud, S. (1946). Why war. Free World, 11, 18.</p>
                 
                   
                     
@@ -617,7 +720,7 @@ In addition, thoughts have arisen on the filters contained in AI from an ethical
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">January 31, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">February 4, 2024</span>
     
   </small>
 </div>
