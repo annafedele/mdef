@@ -17,9 +17,12 @@ Summarily my research brought to the design dialogues brought positive feedback 
 Moreover, the most relevant comments were on the one hand to investigate and research how to make a biomaterial, (or a tissue) as responsive as if it were a human tissue, also to introduce a still very controversial reflection: when two bodies interact, touch each other, where is the line that defines the behaviour as innocent to the point of violence? it is so thin... 
 In addition, thoughts have arisen on the filters contained in AI from an ethical point of view, whether we need them, they protect us or are an obstacle that will increasingly limit us. 
 
+# Collocating my project
 
 
-# I INTERVENTION: when u touch m
+![Alt text](<../images/Risorsa 2DS02.png>)
+
+## I INTERVENTION: when u touch m
 
 ## 1.1 process
 
