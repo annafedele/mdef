@@ -1,6 +1,6 @@
 *23.01-26.01*
 
-## FAIR FUTURES
+## *FAIR FUTURES*
 
 In this seminar we learned about how to manage with non tangible technologies, i.e. some methods that can be used by artists and creators to disseminate their works in the digital world but at the same time preserve their originality and make fair sales.
 
@@ -29,4 +29,29 @@ Some terminologies we explored:
 |  | 6. Conflict resolution mechanisms |
 |  | 7. Recognition by higher authorities |
 |  | 8. Multiple layers of nested enterprises |
+
+## Dafne+
+→ decentralized platforms for fair creative content distribution which empowers creators and communities through new digital distribution models based on digital tokens (NFTs).  ​
+![alt text](<../images/collective_intelligences/Immagine WhatsApp 2024-01-25 ore 15.18.09_7722f367.jpg>)
+
+Our project was based on the loss of biodiversity, a topic that is really complicated to address without with no more regard for human beings than for other living beings. Probably, it is the anthropocentric view on the subject of biodiversity that leads it to be so complicated to satisfy. That is why, after much brainstorming, we focused on plants and how they have no say when it comes to using them
+## *The Honorable Harvest*
+    1_Ask for permission <br> 
+    2_Listen for di answer <br>
+    3_Tale only what you need and no more <br>
+    4_Minimize harm <br>
+    5_Use everything that you take <br>
+    6_Be grateful <br>
+    7_Reciprocate the gift
+
+![alt text](../images/collective_intelligences/CI01.png)
+
+<br>
+<br>
+![alt text](../images/collective_intelligences/tollboxfinal.png){: .image-45-size-left}
+![alt text](../images/collective_intelligences/toolkitpresentacion.png){: .image-45-size-right}
+
+
+
+
 
