@@ -34,6 +34,8 @@ Some terminologies we explored:
 → decentralized platforms for fair creative content distribution which empowers creators and communities through new digital distribution models based on digital tokens (NFTs).  ​
 ![alt text](<../images/collective_intelligences/Immagine WhatsApp 2024-01-25 ore 15.18.09_7722f367.jpg>)
 
+## Dodo project
+
 Our project was based on the loss of biodiversity, a topic that is really complicated to address without with no more regard for human beings than for other living beings. Probably, it is the anthropocentric view on the subject of biodiversity that leads it to be so complicated to satisfy. That is why, after much brainstorming, we focused on plants and how they have no say when it comes to using them
 ## *The Honorable Harvest*
     1_Ask for permission <br> 
