@@ -36,7 +36,7 @@ Some terminologies we explored:
 
 ## Dodo project
 
-Our project was based on the loss of biodiversity, a topic that is really complicated to address without with no more regard for human beings than for other living beings. Probably, it is the anthropocentric view on the subject of biodiversity that leads it to be so complicated to satisfy. That is why, after much brainstorming, we focused on plants and how they have no say when it comes to using them
+Our project was based on the loss of biodiversity, a topic that is really complicated to address without with no more regard for human beings than for other living beings. Probably, it is the anthropocentric view on the subject of biodiversity that leads it to be so complicated to satisfy. That is why, after much brainstorming, we focused on plants and how they have no say when it comes to using them. We based our LLM on 'The Honorable Harvest', i.e. a list of  honoring the indigenous legacies that teach us how to commune with our planet. 
 ## *The Honorable Harvest*
     1_Ask for permission <br> 
     2_Listen for di answer <br>
@@ -47,6 +47,8 @@ Our project was based on the loss of biodiversity, a topic that is really compli
     7_Reciprocate the gift
 
 ![alt text](../images/collective_intelligences/CI01.png)
+<br>
+To make the contact between people and the honourable harvest more tangible, we devised a kit that step by step metaphorically but at the same time concretely follows the THH rules.
 
 <br>
 <br>
