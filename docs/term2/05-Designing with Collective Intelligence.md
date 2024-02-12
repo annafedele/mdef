@@ -52,8 +52,8 @@ To make the contact between people and the honourable harvest more tangible, we 
 
 <br>
 <br>
-![alt text](../images/collective_intelligences/tollboxfinal.png){: .image-45-size-left}
-![alt text](../images/collective_intelligences/toolkitpresentacion.png){: .image-45-size-right}
+![alt text](../images/collective_intelligences/tollboxfinal.png)
+![alt text](../images/collective_intelligences/toolkitpresentacion.png)
 
 
 
