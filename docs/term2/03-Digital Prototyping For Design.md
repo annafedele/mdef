@@ -70,3 +70,12 @@ We both agreed that given the timeframe, it is not easy to build a small sensor 
 ![Alt text](../images/DPGIF.gif){: .image-45-size-right}
 In addition, the arrangement of the objects inside is crucial to realise a functioning circuit, which, however, must be isolated from another material to allow the intermittent on/off function of the LED. 
 We also made another mould of conductive material which we thought of engraving with laser cutting in order to be able to position the batteriers for not wasting volume, but we realised that in long contact with the material, they oxidise.
+
+
+
+# Task 2
+*Creating an artifact by printing it using biomaterials*
+
+## coaster from generative grasshopper file
+
+![alt text](../images/digital_protyping/task2dp.gif)
