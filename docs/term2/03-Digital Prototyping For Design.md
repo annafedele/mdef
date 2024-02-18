@@ -74,7 +74,7 @@ We also made another mould of conductive material which we thought of engraving 
 
 
 # Task 2
-*Creating an artifact by printing it using biomaterials*
+*Creating an artifact by printing it using biomaterials with Marius*
 
 ## coaster from generative grasshopper file
 
