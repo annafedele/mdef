@@ -740,10 +740,165 @@ I therefore focused on two fundamental points: the search for a biomaterial that
 <p><a href="https://www.youtube.com/watch?v=pTSBXSCFBPs">Arduino Capacitive Touch Sensing!</a><br>
 Freud, S. (1946). Why war. Free World, 11, 18.</p>
 <h2 id="ii-intervention-what-do-y-see">II Intervention: what do y see?<a class="headerlink" href="#ii-intervention-what-do-y-see" title="Permanent link">&para;</a></h2>
+<h2 id="21-ideation">2.1 Ideation<a class="headerlink" href="#21-ideation" title="Permanent link">&para;</a></h2>
 <p>For this intervention I went deep in my reaearch about sensors with Annna.
 We took the opportunity to collaborate as we had some common themes but above all we both wanted to experiment with new software and approaches.
 <br>
 <img alt="alt text" src="../../images/design_studio/Risorsa%204interv2.png" /></p>
+<p><strong>Statement</strong>: <em>Series of investigation on electronic wearables that detect the surroundings and the interations with them, and that translate it in a digital visualization</em></p>
+<p>Our first main idea was to <mark>create a outfit, composed by a belt and a skin wearable that allow to collect data</mark> while the person who is wearing them is constantly reacting with the surroundings, ad then, translating then in a digial identity made of the data.</p>
+<h2 id="22-process">2.2 Process<a class="headerlink" href="#22-process" title="Permanent link">&para;</a></h2>
+<h3 id="tools-used">**Tools used **<a class="headerlink" href="#tools-used" title="Permanent link">&para;</a></h3>
+<p><em>Touch Sensor</em>: Conducive Biomaterial:
+We started cooking the conductive biomaterial for creating a touch sensor that works even with pressure
+<br></p>
+<div class="admonition danger">
+<p class="admonition-title">Recipe</p>
+<ul>
+<li>alginato de Sodio + CMC Celulosa</li>
+<li>Agua 200ml</li>
+<li>Alginato de sodio 8g</li>
+<li>CMC Celulosa 12,5g</li>
+<li>Glicerina 10g</li>
+<li>Harina 100 g</li>
+<li>Carbon</li>
+</ul>
+</div>
+<p><br></p>
+<p><em>Touch Sensor</em>: Conductive textile
+We also tried to make a touch sensor with textiles and the <strong>velostat</strong>:
+<em>Carbon impregnated black polyethylene film.</em> 
+- Conductivity is not affected by humidity or aging
+- Pressure and bend sensor
+- Resistance decreases across distance and changes under pressure.
+- &lt;500 Ohms/cm v
+- Carbon impregnated black polyethylene film. Conductivity is not affected by humidity or aging.</p>
+<p>For creating the touch sensor we use also the conductive tape, that we stick on the fabric of both sides, for indicating the positive and negative pole and then a layer of foam for isolating the two poles.</p>
+<p><em>TTGO Camera</em></p>
+<p>We use a TTGO Camera to detect, view, and analyze the things around us. We found it interesting to use as it provides us with a different perspective on ourselves that we cannot achieve from our first-person view.</p>
+<p>The original idea was to connect the camera to a 3D program in order to visualize and play. We wanted to connect the camera live to TouchDesigner.</p>
+<p><img alt="alt text" src="../images/design_studio/cameravidchallenge.gif" /></p>
+<p><em>Proximity sensor</em></p>
+<p>??? danger &ldquo;proximity sensor code&rdquo;
+ ``` py
+int TRIG = 2;
+int ECHO = 4;
+int DURATION;
+int DISTANCE;</p>
+<p>void setup() {  </p>
+<p>// ULTRASONIC SENSOR
+  pinMode(TRIG, OUTPUT);
+  pinMode(ECHO, INPUT);</p>
+<p>// SERIAL
+  Serial.begin(9600);</p>
+<p>}</p>
+<p>void loop() {</p>
+<p>digitalWrite(TRIG,HIGH);
+  delay(1);
+  digitalWrite(TRIG,LOW);
+  DURATION = pulseIn(ECHO,HIGH);
+  DISTANCE = DURATION / 58.2;</p>
+<p>if(DISTANCE &gt; 0 &amp;&amp; DISTANCE &lt; 50 ){
+    Serial.println(DISTANCE);
+    delay(100);
+  }</p>
+<p>}
+<div class="highlight"><pre><span></span><code>??? danger &quot;proximity sensor code&quot;
+ ``` py
+ #include &quot;pitches.h&quot;;
+#define touchPin T2
+const int threshold = 80000;
+const int threshold2 = 80000;
+const int threshold3 = 100000;
+const int threshold4 = 120000;
+const int threshold5 = 140000;
+const int ledPin = 13;
+const int ledPin2= 11;
+const int buzzer = 10;
+int touchValue;
+int pitch = 0;
+void setup()
+
+{
+Serial.begin(115200);
+delay(10); // give me time to bring up serial monitor
+Serial.println(&quot;ESP32 Touch Test&quot;);
+pinMode(ledPin, OUTPUT);
+pinMode(ledPin2, OUTPUT);
+pinMode(buzzer, OUTPUT);
+}
+
+void loop()
+{
+touchValue = touchRead (touchPin);
+Serial.println(touchRead(T2));  // get value using T1
+delay(10);
+if (touchValue &gt; threshold) {
+    // turn the LED on
+    digitalWrite(ledPin, HIGH);
+}
+// if it&#39;s lower than the threshold
+else {
+    // turn the LED off
+    digitalWrite(ledPin, LOW);
+}
+
+// if the value is greater than the threshold
+if (touchValue &gt; threshold5) {
+    // turn the LED on
+    digitalWrite(ledPin2, HIGH);
+}
+// if it&#39;s lower than the threshold
+else {
+    // turn the LED off
+    digitalWrite(ledPin2, LOW);
+}
+if (touchValue &gt; threshold) {
+    pitch = NOTE_C2; 
+} else if (touchValue &gt; threshold2) {
+    pitch = NOTE_AS7;
+} else if (touchValue &gt; threshold3) {
+    pitch = NOTE_A7;
+} else if (touchValue &gt; threshold4) {
+    pitch = NOTE_GS7;
+} else if (touchValue &gt; threshold5) {
+    pitch = NOTE_D8;
+} else {
+    pitch = 0;
+
+}
+if(pitch == 0) {
+    noTone(buzzer);
+} else {
+    tone(buzzer, pitch);
+}
+
+if (pitch == 0) {
+    noTone(buzzer);
+} else {
+    tone(buzzer, pitch);
+}
+delay(10);
+}
+</code></pre></div>
+<br></p>
+<h2 id="23-results">2.3 Results<a class="headerlink" href="#23-results" title="Permanent link">&para;</a></h2>
+<p><img alt="touch sensor data" src="../images/design_studio/touchdesigner1.gif" /></p>
+<h2 id="references-resources">References + Resources:<a class="headerlink" href="#references-resources" title="Permanent link">&para;</a></h2>
+<p><a href="https://youtube.com/watch?v=xesuhh_ZPpY&amp;list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&amp;index=21&amp;t=539s">https://youtube.com/watch?v=xesuhh_ZPpY&amp;list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&amp;index=21&amp;t=539s</a> detection the surrounding<br>
+<a href="https://www.youtube.com/watch?v=NnrWjQ_zO-s&amp;t=1178smorphing">https://www.youtube.com/watch?v=NnrWjQ_zO-s&amp;t=1178smorphing</a> the surrounding <br>
+<a href="https://github.com/LilyGO/ESP32-Camera">https://github.com/LilyGO/ESP32-Camera</a> <br>
+<a href="https://youtu.be/-ldPPhnGDVE">https://youtu.be/-ldPPhnGDVE</a> <br>
+<a href="https://www.does-work.com/projects/mira-does-unnoticed-identities">https://www.does-work.com/projects/mira-does-unnoticed-identities</a> Does Work Studio- Unnotices Identities Project. <br>
+<a href="https://naylampmechatronics.com/blog/10_tutorial-de-arduino-y-sensor-ultrasonico-hc-sr04.html">https://naylampmechatronics.com/blog/10_tutorial-de-arduino-y-sensor-ultrasonico-hc-sr04.html</a> ultrasonic sensor arduino documentation <br>
+<a href="https://youtube.com/watch?v=xesuhh_ZPpY&amp;list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&amp;index=21&amp;t=539s">https://youtube.com/watch?v=xesuhh_ZPpY&amp;list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&amp;index=21&amp;t=539s</a> touch designer tutorial: detecting the surrounding <br>
+<a href="https://frontiernerds.com/brain-hack">https://frontiernerds.com/brain-hack</a> project <br>
+<a href="https://projecthub.arduino.cc/adithyalokesh17/lets-make-arduino-sing-with-a-buzzer-26d11b">https://projecthub.arduino.cc/adithyalokesh17/lets-make-arduino-sing-with-a-buzzer-26d11b</a> let&rsquo;s make arduino sing tutorial. <br>
+<a href="https://snapdrop.net/">https://snapdrop.net/</a> <br>
+<a href="https://github.com/LilyGO/esp32-camera-bme280">https://github.com/LilyGO/esp32-camera-bme280</a> TTGO Camera Documentation. <br>
+<a href="https://cults3d.com/es/modelo-3d/variado/agisis-ultimate-alien-face-hugger-detailed">https://cults3d.com/es/modelo-3d/variado/agisis-ultimate-alien-face-hugger-detailed</a> resin model <br>
+<a href="https://www.youtube.com/watch?v=LtBzbDm66wU&amp;list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&amp;index=44">https://www.youtube.com/watch?v=LtBzbDm66wU&amp;list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&amp;index=44</a> Video Example of Camera RT with Touch Designer. <br>
+<a href="https://class.textile-academy.org/2024/julija-karas/assignments/week05/">https://class.textile-academy.org/2024/julija-karas/assignments/week05/</a> <br></p>
                 
                   
                     
