@@ -817,86 +817,74 @@ We also tried to make a touch sensor with textiles and the <strong>velostat</str
 </details>
 <details class="danger">
 <summary>touch sensor code</summary>
-</details>
-<p>``` py
- #include &ldquo;pitches.h&rdquo;;
-    #define touchPin T2
-    const int threshold = 80000;
-    const int threshold2 = 80000;
-    const int threshold3 = 100000;
-    const int threshold4 = 120000;
-    const int threshold5 = 140000;
-    const int ledPin = 13;
-    const int ledPin2= 11;
-    const int buzzer = 10;
-    int touchValue;
-    int pitch = 0;
-    void setup()</p>
-<div class="codehilite"><pre><span></span><code>{
-Serial.begin(115200);
-delay(10); // give me time to bring up serial monitor
-Serial.println(&quot;ESP32 Touch Test&quot;);
-pinMode(ledPin, OUTPUT);
-pinMode(ledPin2, OUTPUT);
-pinMode(buzzer, OUTPUT);
-}
+<div class="highlight"><pre><span></span><code><span class="c1">#include &quot;pitches.h&quot;;</span>
+<span class="c1">#define touchPin T2</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">threshold</span> <span class="o">=</span> <span class="mi">80000</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">threshold2</span> <span class="o">=</span> <span class="mi">80000</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">threshold3</span> <span class="o">=</span> <span class="mi">100000</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">threshold4</span> <span class="o">=</span> <span class="mi">120000</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">threshold5</span> <span class="o">=</span> <span class="mi">140000</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">ledPin</span> <span class="o">=</span> <span class="mi">13</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">ledPin2</span><span class="o">=</span> <span class="mi">11</span><span class="p">;</span>
+<span class="n">const</span> <span class="nb">int</span> <span class="n">buzzer</span> <span class="o">=</span> <span class="mi">10</span><span class="p">;</span>
+<span class="nb">int</span> <span class="n">touchValue</span><span class="p">;</span>
+<span class="nb">int</span> <span class="n">pitch</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
 
-void loop()
-{
-touchValue = touchRead (touchPin);
-Serial.println(touchRead(T2));  // get value using T1
-delay(10);
-if (touchValue &gt; threshold) {
-    // turn the LED on
-    digitalWrite(ledPin, HIGH);
-}
-// if it&#39;s lower than the threshold
-else {
-    // turn the LED off
-    digitalWrite(ledPin, LOW);
-}
+<span class="n">void</span> <span class="n">setup</span><span class="p">()</span> <span class="p">{</span>
+    <span class="n">Serial</span><span class="o">.</span><span class="n">begin</span><span class="p">(</span><span class="mi">115200</span><span class="p">);</span>
+    <span class="n">delay</span><span class="p">(</span><span class="mi">10</span><span class="p">);</span> <span class="o">//</span> <span class="n">give</span> <span class="n">me</span> <span class="n">time</span> <span class="n">to</span> <span class="n">bring</span> <span class="n">up</span> <span class="n">serial</span> <span class="n">monitor</span>
+    <span class="n">Serial</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="s2">&quot;ESP32 Touch Test&quot;</span><span class="p">);</span>
+    <span class="n">pinMode</span><span class="p">(</span><span class="n">ledPin</span><span class="p">,</span> <span class="n">OUTPUT</span><span class="p">);</span>
+    <span class="n">pinMode</span><span class="p">(</span><span class="n">ledPin2</span><span class="p">,</span> <span class="n">OUTPUT</span><span class="p">);</span>
+    <span class="n">pinMode</span><span class="p">(</span><span class="n">buzzer</span><span class="p">,</span> <span class="n">OUTPUT</span><span class="p">);</span>
+<span class="p">}</span>
 
-// if the value is greater than the threshold
-if (touchValue &gt; threshold5) {
-    // turn the LED on
-    digitalWrite(ledPin2, HIGH);
-}
-// if it&#39;s lower than the threshold
-else {
-    // turn the LED off
-    digitalWrite(ledPin2, LOW);
-}
-if (touchValue &gt; threshold) {
-    pitch = NOTE_C2; 
-} else if (touchValue &gt; threshold2) {
-    pitch = NOTE_AS7;
-} else if (touchValue &gt; threshold3) {
-    pitch = NOTE_A7;
-} else if (touchValue &gt; threshold4) {
-    pitch = NOTE_GS7;
-} else if (touchValue &gt; threshold5) {
-    pitch = NOTE_D8;
-} else {
-    pitch = 0;
+<span class="n">void</span> <span class="n">loop</span><span class="p">()</span> <span class="p">{</span>
+    <span class="n">touchValue</span> <span class="o">=</span> <span class="n">touchRead</span><span class="p">(</span><span class="n">touchPin</span><span class="p">);</span>
+    <span class="n">Serial</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="n">touchRead</span><span class="p">(</span><span class="n">T2</span><span class="p">));</span>  <span class="o">//</span> <span class="n">get</span> <span class="n">value</span> <span class="n">using</span> <span class="n">T1</span>
+    <span class="n">delay</span><span class="p">(</span><span class="mi">10</span><span class="p">);</span>
 
-}
-if(pitch == 0) {
-    noTone(buzzer);
-} else {
-    tone(buzzer, pitch);
-}
+    <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold</span><span class="p">)</span> <span class="p">{</span>
+        <span class="o">//</span> <span class="n">turn</span> <span class="n">the</span> <span class="n">LED</span> <span class="n">on</span>
+        <span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin</span><span class="p">,</span> <span class="n">HIGH</span><span class="p">);</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+        <span class="o">//</span> <span class="n">turn</span> <span class="n">the</span> <span class="n">LED</span> <span class="n">off</span>
+        <span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin</span><span class="p">,</span> <span class="n">LOW</span><span class="p">);</span>
+    <span class="p">}</span>
 
-if (pitch == 0) {
-    noTone(buzzer);
-} else {
-    tone(buzzer, pitch);
-}
-delay(10);
-}
+    <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold5</span><span class="p">)</span> <span class="p">{</span>
+        <span class="o">//</span> <span class="n">turn</span> <span class="n">the</span> <span class="n">LED</span> <span class="n">on</span>
+        <span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin2</span><span class="p">,</span> <span class="n">HIGH</span><span class="p">);</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+        <span class="o">//</span> <span class="n">turn</span> <span class="n">the</span> <span class="n">LED</span> <span class="n">off</span>
+        <span class="n">digitalWrite</span><span class="p">(</span><span class="n">ledPin2</span><span class="p">,</span> <span class="n">LOW</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">pitch</span> <span class="o">=</span> <span class="n">NOTE_C2</span><span class="p">;</span> 
+    <span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold2</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">pitch</span> <span class="o">=</span> <span class="n">NOTE_AS7</span><span class="p">;</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold3</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">pitch</span> <span class="o">=</span> <span class="n">NOTE_A7</span><span class="p">;</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold4</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">pitch</span> <span class="o">=</span> <span class="n">NOTE_GS7</span><span class="p">;</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="k">if</span> <span class="p">(</span><span class="n">touchValue</span> <span class="o">&gt;</span> <span class="n">threshold5</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">pitch</span> <span class="o">=</span> <span class="n">NOTE_D8</span><span class="p">;</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+        <span class="n">pitch</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="k">if</span> <span class="p">(</span><span class="n">pitch</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span> <span class="p">{</span>
+        <span class="n">noTone</span><span class="p">(</span><span class="n">buzzer</span><span class="p">);</span>
+    <span class="p">}</span> <span class="k">else</span> <span class="p">{</span>
+        <span class="n">tone</span><span class="p">(</span><span class="n">buzzer</span><span class="p">,</span> <span class="n">pitch</span><span class="p">);</span>
+    <span class="p">}</span>
+
+    <span class="n">delay</span><span class="p">(</span><span class="mi">10</span><span class="p">);</span>
+<span class="p">}</span>
 </code></pre></div>
-
-<p>```
-<br></p>
+</details>
+<p><br></p>
 <p><em>Proximity sensor</em> <br>
 We use the proximity sensor to detect the distance of objects and people.</p>
 <p><img alt="alt text" src="../../images/design_studio/upload_b59b2b38939a2d36f9789984eace3f0d.png" />
@@ -908,8 +896,8 @@ We printed objects in resin and PLA that give the idea to those around them not 
 <img alt="alt text" class="image-45-size-right" src="../../images/design_studio/DS03.png" />
 <br></p>
 <h2 id="23-results">2.3 Results<a class="headerlink" href="#23-results" title="Permanent link">&para;</a></h2>
-<p><img alt="alt text" class="image-50-size-left" src="../../images/design_studio/DS04.png" />
-<img alt="alt text" class="image-50-size-right" src="../../images/design_studio/DS01.png" />
+<p><img alt="alt text" class="image-45-size-left" src="../../images/design_studio/DS04.png" />
+<img alt="alt text" class="image-45-size-right" src="../../images/design_studio/DS01.png" />
 <br>
 <img alt="touch sensor data" src="../../images/design_studio/touchdesigner1.gif" /></p>
 <h2 id="references-resources">References + Resources:<a class="headerlink" href="#references-resources" title="Permanent link">&para;</a></h2>
