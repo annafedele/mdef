@@ -139,7 +139,191 @@ Freud, S. (1946). Why war. Free World, 11, 18.
 
 ## II Intervention: what do y see?
 
+## 2.1 Ideation 
 For this intervention I went deep in my reaearch about sensors with Annna.
 We took the opportunity to collaborate as we had some common themes but above all we both wanted to experiment with new software and approaches.
 <br>
 ![alt text](<../images/design_studio/Risorsa 4interv2.png>)
+
+**Statement**: *Series of investigation on electronic wearables that detect the surroundings and the interations with them, and that translate it in a digital visualization*
+
+Our first main idea was to ==create a outfit, composed by a belt and a skin wearable that allow to collect data== while the person who is wearing them is constantly reacting with the surroundings, ad then, translating then in a digial identity made of the data.
+
+
+## 2.2 Process
+
+### **Tools used **
+
+*Touch Sensor*: Conducive Biomaterial:
+We started cooking the conductive biomaterial for creating a touch sensor that works even with pressure
+<br>
+
+!!! danger "Recipe"
+    - alginato de Sodio + CMC Celulosa
+    - Agua 200ml
+    - Alginato de sodio 8g
+    - CMC Celulosa 12,5g
+    - Glicerina 10g
+    - Harina 100 g
+    - Carbon
+<br>
+
+*Touch Sensor*: Conductive textile
+We also tried to make a touch sensor with textiles and the **velostat**:
+*Carbon impregnated black polyethylene film.* 
+- Conductivity is not affected by humidity or aging
+- Pressure and bend sensor
+- Resistance decreases across distance and changes under pressure.
+- <500 Ohms/cm v
+- Carbon impregnated black polyethylene film. Conductivity is not affected by humidity or aging.
+
+For creating the touch sensor we use also the conductive tape, that we stick on the fabric of both sides, for indicating the positive and negative pole and then a layer of foam for isolating the two poles.
+
+
+*TTGO Camera*
+
+We use a TTGO Camera to detect, view, and analyze the things around us. We found it interesting to use as it provides us with a different perspective on ourselves that we cannot achieve from our first-person view.
+
+The original idea was to connect the camera to a 3D program in order to visualize and play. We wanted to connect the camera live to TouchDesigner.
+
+![alt text](../images/design_studio/cameravidchallenge.gif)
+
+*Proximity sensor*
+
+
+ ??? danger "proximity sensor code"
+ ``` py
+int TRIG = 2;
+int ECHO = 4;
+int DURATION;
+int DISTANCE;
+ 
+ 
+ 
+void setup() {  
+ 
+  // ULTRASONIC SENSOR
+  pinMode(TRIG, OUTPUT);
+  pinMode(ECHO, INPUT);
+ 
+  // SERIAL
+  Serial.begin(9600);
+  
+}
+ 
+ 
+void loop() {
+ 
+  digitalWrite(TRIG,HIGH);
+  delay(1);
+  digitalWrite(TRIG,LOW);
+  DURATION = pulseIn(ECHO,HIGH);
+  DISTANCE = DURATION / 58.2;
+ 
+  if(DISTANCE > 0 && DISTANCE < 50 ){
+    Serial.println(DISTANCE);
+    delay(100);
+  }
+ 
+}
+```
+
+??? danger "proximity sensor code"
+ ``` py
+ #include "pitches.h";
+#define touchPin T2
+const int threshold = 80000;
+const int threshold2 = 80000;
+const int threshold3 = 100000;
+const int threshold4 = 120000;
+const int threshold5 = 140000;
+const int ledPin = 13;
+const int ledPin2= 11;
+const int buzzer = 10;
+int touchValue;
+int pitch = 0;
+void setup()
+
+{
+Serial.begin(115200);
+delay(10); // give me time to bring up serial monitor
+Serial.println("ESP32 Touch Test");
+pinMode(ledPin, OUTPUT);
+pinMode(ledPin2, OUTPUT);
+pinMode(buzzer, OUTPUT);
+}
+
+void loop()
+{
+touchValue = touchRead (touchPin);
+Serial.println(touchRead(T2));  // get value using T1
+delay(10);
+if (touchValue > threshold) {
+    // turn the LED on
+    digitalWrite(ledPin, HIGH);
+}
+// if it's lower than the threshold
+else {
+    // turn the LED off
+    digitalWrite(ledPin, LOW);
+}
+
+// if the value is greater than the threshold
+if (touchValue > threshold5) {
+    // turn the LED on
+    digitalWrite(ledPin2, HIGH);
+}
+// if it's lower than the threshold
+else {
+    // turn the LED off
+    digitalWrite(ledPin2, LOW);
+}
+if (touchValue > threshold) {
+    pitch = NOTE_C2; 
+} else if (touchValue > threshold2) {
+    pitch = NOTE_AS7;
+} else if (touchValue > threshold3) {
+    pitch = NOTE_A7;
+} else if (touchValue > threshold4) {
+    pitch = NOTE_GS7;
+} else if (touchValue > threshold5) {
+    pitch = NOTE_D8;
+} else {
+    pitch = 0;
+
+}
+if(pitch == 0) {
+    noTone(buzzer);
+} else {
+    tone(buzzer, pitch);
+}
+
+if (pitch == 0) {
+    noTone(buzzer);
+} else {
+    tone(buzzer, pitch);
+}
+delay(10);
+}
+```
+<br>
+
+## 2.3 Results
+
+![touch sensor data](../images/design_studio/touchdesigner1.gif)
+
+## References + Resources:
+https://youtube.com/watch?v=xesuhh_ZPpY&list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&index=21&t=539s detection the surrounding<br>
+https://www.youtube.com/watch?v=NnrWjQ_zO-s&t=1178smorphing the surrounding <br>
+https://github.com/LilyGO/ESP32-Camera <br>
+https://youtu.be/-ldPPhnGDVE <br>
+https://www.does-work.com/projects/mira-does-unnoticed-identities Does Work Studio- Unnotices Identities Project. <br>
+https://naylampmechatronics.com/blog/10_tutorial-de-arduino-y-sensor-ultrasonico-hc-sr04.html ultrasonic sensor arduino documentation <br>
+https://youtube.com/watch?v=xesuhh_ZPpY&list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&index=21&t=539s touch designer tutorial: detecting the surrounding <br>
+https://frontiernerds.com/brain-hack project <br>
+https://projecthub.arduino.cc/adithyalokesh17/lets-make-arduino-sing-with-a-buzzer-26d11b let's make arduino sing tutorial. <br>
+https://snapdrop.net/ <br>
+https://github.com/LilyGO/esp32-camera-bme280 TTGO Camera Documentation. <br>
+https://cults3d.com/es/modelo-3d/variado/agisis-ultimate-alien-face-hugger-detailed resin model <br>
+https://www.youtube.com/watch?v=LtBzbDm66wU&list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&index=44 Video Example of Camera RT with Touch Designer. <br>
+https://class.textile-academy.org/2024/julija-karas/assignments/week05/ <br>
