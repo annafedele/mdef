@@ -168,17 +168,17 @@ We started cooking the conductive biomaterial for creating a touch sensor that w
     - Carbon
 <br>
 
-*Touch Sensor*: Conductive textile
-We also tried to make a touch sensor with textiles and the **velostat**:
-*Carbon impregnated black polyethylene film.* 
-- Conductivity is not affected by humidity or aging
-- Pressure and bend sensor
-- Resistance decreases across distance and changes under pressure.
-- <500 Ohms/cm v
-- Carbon impregnated black polyethylene film. Conductivity is not affected by humidity or aging.
+*Touch Sensor*: Conductive textile <br>
+We also tried to make a touch sensor with textiles and the **velostat**: <br> 
+*Carbon impregnated black polyethylene film.* <br>
+- Conductivity is not affected by humidity or aging <br>
+- Pressure and bend sensor <br>
+- Resistance decreases across distance and changes under pressure. <br>
+- <500 Ohms/cm <br>
+- Carbon impregnated black polyethylene film. Conductivity is not affected by humidity or aging.<br>
 
 For creating the touch sensor we use also the conductive tape, that we stick on the fabric of both sides, for indicating the positive and negative pole and then a layer of foam for isolating the two poles.
-
+<br>
 
 *TTGO Camera*
 
@@ -188,47 +188,47 @@ The original idea was to connect the camera to a 3D program in order to visualiz
 
 ![alt text](../images/design_studio/cameravidchallenge.gif)
 
-*Proximity sensor*
-
-
- ??? danger "proximity sensor code"
- ``` py
-int TRIG = 2;
-int ECHO = 4;
-int DURATION;
-int DISTANCE;
- 
- 
- 
-void setup() {  
- 
-  // ULTRASONIC SENSOR
-  pinMode(TRIG, OUTPUT);
-  pinMode(ECHO, INPUT);
- 
-  // SERIAL
-  Serial.begin(9600);
-  
-}
- 
- 
-void loop() {
- 
-  digitalWrite(TRIG,HIGH);
-  delay(1);
-  digitalWrite(TRIG,LOW);
-  DURATION = pulseIn(ECHO,HIGH);
-  DISTANCE = DURATION / 58.2;
- 
-  if(DISTANCE > 0 && DISTANCE < 50 ){
-    Serial.println(DISTANCE);
-    delay(100);
-  }
- 
-}
-```
-
 ??? danger "proximity sensor code"
+
+    ``` py
+    int TRIG = 2;
+    int ECHO = 4;
+    int DURATION;
+    int DISTANCE;
+    
+    
+    
+    void setup() {  
+    
+    // ULTRASONIC SENSOR
+    pinMode(TRIG, OUTPUT);
+    pinMode(ECHO, INPUT);
+    
+    // SERIAL
+    Serial.begin(9600);
+    
+    }
+    
+    
+    void loop() {
+    
+    digitalWrite(TRIG,HIGH);
+    delay(1);
+    digitalWrite(TRIG,LOW);
+    DURATION = pulseIn(ECHO,HIGH);
+    DISTANCE = DURATION / 58.2;
+    
+    if(DISTANCE > 0 && DISTANCE < 50 ){
+        Serial.println(DISTANCE);
+        delay(100);
+    }
+    
+    }
+    
+    ```
+
+
+??? danger "touch sensor code"
  ``` py
  #include "pitches.h";
 #define touchPin T2
