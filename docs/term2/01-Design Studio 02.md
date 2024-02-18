@@ -136,3 +136,10 @@ I therefore focused on two fundamental points: the search for a biomaterial that
 
 [Arduino Capacitive Touch Sensing!](https://www.youtube.com/watch?v=pTSBXSCFBPs)<br>
 Freud, S. (1946). Why war. Free World, 11, 18.
+
+## II Intervention: what do y see?
+
+For this intervention I went deep in my reaearch about sensors with Annna.
+We took the opportunity to collaborate as we had some common themes but above all we both wanted to experiment with new software and approaches.
+<br>
+![alt text](<../images/design_studio/Risorsa 4interv2.png>)
