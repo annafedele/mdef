@@ -1,4 +1,4 @@
-## Collecting data project Let's get physical! 
+## Collecting data project: Let's get physical! 
 *Carmen Robres, Sophie Maradon, Vania Bisbal, Francisca Herrera, Anna Fedele*
 
 
@@ -39,10 +39,13 @@ Each person who responded placed a sticker on the billboard next to their answer
 
 [[our journal](https://hackmd.io/@5Xw3T7P2Q4mDSSXn1KG2XA/SyZ8j0ljT/edit)]
 
-## Conclusion of the Results
+## Conclusion and Results
 - We successfully altered people's mood by adjusting the music in a video.
 While we observed mood variation, we couldn't control the emotions people felt. This discrepancy could be attributed to individual and cultural backgrounds; participants may have had differing moods at the outset of the video, influencing their responses. Incorporating background tracking could have provided deeper insights.
 - There might be a bias due to the loss of surprise from video 1 to 2. Participants can anticipate the dynamics, potentially yielding different results if the order of the videos is changed.
 - Using neutral background music makes it easier to evoke the intended emotion. However, when a recognized song is used, the mood change might reflect individuals' feelings about the song rather than the intended emotion.
 - The sad/happy video yielded inconclusive results, possibly due to the song choice.
 We managed to prove our hypothesis wrong. Music can change your emotions but the mood change depends on the individual's background.
+
+
+[Our presentation][(https://www.canva.com/design/DAF8SojQySw/FwO3hOtByobo4-F1C2cG3g/view?utm_content=DAF8SojQySw&utm_campaign=designshare&utm_medium=link&utm_source=viewer)] 
