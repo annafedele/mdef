@@ -765,49 +765,64 @@ We started cooking the conductive biomaterial for creating a touch sensor that w
 </ul>
 </div>
 <p><br></p>
-<p><em>Touch Sensor</em>: Conductive textile
-We also tried to make a touch sensor with textiles and the <strong>velostat</strong>:
-<em>Carbon impregnated black polyethylene film.</em> 
-- Conductivity is not affected by humidity or aging
-- Pressure and bend sensor
-- Resistance decreases across distance and changes under pressure.
-- &lt;500 Ohms/cm v
-- Carbon impregnated black polyethylene film. Conductivity is not affected by humidity or aging.</p>
-<p>For creating the touch sensor we use also the conductive tape, that we stick on the fabric of both sides, for indicating the positive and negative pole and then a layer of foam for isolating the two poles.</p>
+<p><em>Touch Sensor</em>: Conductive textile <br>
+We also tried to make a touch sensor with textiles and the <strong>velostat</strong>: <br> 
+<em>Carbon impregnated black polyethylene film.</em> <br>
+- Conductivity is not affected by humidity or aging <br>
+- Pressure and bend sensor <br>
+- Resistance decreases across distance and changes under pressure. <br>
+- &lt;500 Ohms/cm <br>
+- Carbon impregnated black polyethylene film. Conductivity is not affected by humidity or aging.<br></p>
+<p>For creating the touch sensor we use also the conductive tape, that we stick on the fabric of both sides, for indicating the positive and negative pole and then a layer of foam for isolating the two poles.
+<br></p>
 <p><em>TTGO Camera</em></p>
 <p>We use a TTGO Camera to detect, view, and analyze the things around us. We found it interesting to use as it provides us with a different perspective on ourselves that we cannot achieve from our first-person view.</p>
 <p>The original idea was to connect the camera to a 3D program in order to visualize and play. We wanted to connect the camera live to TouchDesigner.</p>
 <p><img alt="alt text" src="../images/design_studio/cameravidchallenge.gif" /></p>
-<p><em>Proximity sensor</em></p>
-<p>??? danger &ldquo;proximity sensor code&rdquo;
- ``` py
-int TRIG = 2;
-int ECHO = 4;
-int DURATION;
-int DISTANCE;</p>
-<p>void setup() {  </p>
-<p>// ULTRASONIC SENSOR
-  pinMode(TRIG, OUTPUT);
-  pinMode(ECHO, INPUT);</p>
-<p>// SERIAL
-  Serial.begin(9600);</p>
-<p>}</p>
-<p>void loop() {</p>
-<p>digitalWrite(TRIG,HIGH);
-  delay(1);
-  digitalWrite(TRIG,LOW);
-  DURATION = pulseIn(ECHO,HIGH);
-  DISTANCE = DURATION / 58.2;</p>
-<p>if(DISTANCE &gt; 0 &amp;&amp; DISTANCE &lt; 50 ){
-    Serial.println(DISTANCE);
-    delay(100);
-  }</p>
-<p>}
-<div class="highlight"><pre><span></span><code>??? danger &quot;proximity sensor code&quot;
- ``` py
- #include &quot;pitches.h&quot;;
-#define touchPin T2
-const int threshold = 80000;
+<details class="danger">
+<summary>proximity sensor code</summary>
+<div class="highlight"><pre><span></span><code><span class="nb">int</span> <span class="n">TRIG</span> <span class="o">=</span> <span class="mi">2</span><span class="p">;</span>
+<span class="nb">int</span> <span class="n">ECHO</span> <span class="o">=</span> <span class="mi">4</span><span class="p">;</span>
+<span class="nb">int</span> <span class="n">DURATION</span><span class="p">;</span>
+<span class="nb">int</span> <span class="n">DISTANCE</span><span class="p">;</span>
+
+
+
+<span class="n">void</span> <span class="n">setup</span><span class="p">()</span> <span class="p">{</span>  
+
+<span class="o">//</span> <span class="n">ULTRASONIC</span> <span class="n">SENSOR</span>
+<span class="n">pinMode</span><span class="p">(</span><span class="n">TRIG</span><span class="p">,</span> <span class="n">OUTPUT</span><span class="p">);</span>
+<span class="n">pinMode</span><span class="p">(</span><span class="n">ECHO</span><span class="p">,</span> <span class="n">INPUT</span><span class="p">);</span>
+
+<span class="o">//</span> <span class="n">SERIAL</span>
+<span class="n">Serial</span><span class="o">.</span><span class="n">begin</span><span class="p">(</span><span class="mi">9600</span><span class="p">);</span>
+
+<span class="p">}</span>
+
+
+<span class="n">void</span> <span class="n">loop</span><span class="p">()</span> <span class="p">{</span>
+
+<span class="n">digitalWrite</span><span class="p">(</span><span class="n">TRIG</span><span class="p">,</span><span class="n">HIGH</span><span class="p">);</span>
+<span class="n">delay</span><span class="p">(</span><span class="mi">1</span><span class="p">);</span>
+<span class="n">digitalWrite</span><span class="p">(</span><span class="n">TRIG</span><span class="p">,</span><span class="n">LOW</span><span class="p">);</span>
+<span class="n">DURATION</span> <span class="o">=</span> <span class="n">pulseIn</span><span class="p">(</span><span class="n">ECHO</span><span class="p">,</span><span class="n">HIGH</span><span class="p">);</span>
+<span class="n">DISTANCE</span> <span class="o">=</span> <span class="n">DURATION</span> <span class="o">/</span> <span class="mf">58.2</span><span class="p">;</span>
+
+<span class="k">if</span><span class="p">(</span><span class="n">DISTANCE</span> <span class="o">&gt;</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="n">DISTANCE</span> <span class="o">&lt;</span> <span class="mi">50</span> <span class="p">){</span>
+    <span class="n">Serial</span><span class="o">.</span><span class="n">println</span><span class="p">(</span><span class="n">DISTANCE</span><span class="p">);</span>
+    <span class="n">delay</span><span class="p">(</span><span class="mi">100</span><span class="p">);</span>
+<span class="p">}</span>
+
+<span class="p">}</span>
+</code></pre></div>
+</details>
+<details class="danger">
+<summary>touch sensor code</summary>
+</details>
+<p>``` py
+ #include &ldquo;pitches.h&rdquo;;</p>
+<h1 id="define-touchpin-t2">define touchPin T2<a class="headerlink" href="#define-touchpin-t2" title="Permanent link">&para;</a></h1>
+<p>const int threshold = 80000;
 const int threshold2 = 80000;
 const int threshold3 = 100000;
 const int threshold4 = 120000;
@@ -817,18 +832,16 @@ const int ledPin2= 11;
 const int buzzer = 10;
 int touchValue;
 int pitch = 0;
-void setup()
-
-{
+void setup()</p>
+<p>{
 Serial.begin(115200);
 delay(10); // give me time to bring up serial monitor
-Serial.println(&quot;ESP32 Touch Test&quot;);
+Serial.println(&ldquo;ESP32 Touch Test&rdquo;);
 pinMode(ledPin, OUTPUT);
 pinMode(ledPin2, OUTPUT);
 pinMode(buzzer, OUTPUT);
-}
-
-void loop()
+}</p>
+<p>void loop()
 {
 touchValue = touchRead (touchPin);
 Serial.println(touchRead(T2));  // get value using T1
@@ -837,18 +850,17 @@ if (touchValue &gt; threshold) {
     // turn the LED on
     digitalWrite(ledPin, HIGH);
 }
-// if it&#39;s lower than the threshold
+// if it&rsquo;s lower than the threshold
 else {
     // turn the LED off
     digitalWrite(ledPin, LOW);
-}
-
-// if the value is greater than the threshold
+}</p>
+<p>// if the value is greater than the threshold
 if (touchValue &gt; threshold5) {
     // turn the LED on
     digitalWrite(ledPin2, HIGH);
 }
-// if it&#39;s lower than the threshold
+// if it&rsquo;s lower than the threshold
 else {
     // turn the LED off
     digitalWrite(ledPin2, LOW);
@@ -864,26 +876,24 @@ if (touchValue &gt; threshold) {
 } else if (touchValue &gt; threshold5) {
     pitch = NOTE_D8;
 } else {
-    pitch = 0;
-
-}
+    pitch = 0;</p>
+<p>}
 if(pitch == 0) {
     noTone(buzzer);
 } else {
     tone(buzzer, pitch);
-}
-
-if (pitch == 0) {
+}</p>
+<p>if (pitch == 0) {
     noTone(buzzer);
 } else {
     tone(buzzer, pitch);
 }
 delay(10);
 }
-</code></pre></div>
+```
 <br></p>
 <h2 id="23-results">2.3 Results<a class="headerlink" href="#23-results" title="Permanent link">&para;</a></h2>
-<p><img alt="touch sensor data" src="../images/design_studio/touchdesigner1.gif" /></p>
+<p><img alt="touch sensor data" src="../../images/design_studio/touchdesigner1.gif" /></p>
 <h2 id="references-resources">References + Resources:<a class="headerlink" href="#references-resources" title="Permanent link">&para;</a></h2>
 <p><a href="https://youtube.com/watch?v=xesuhh_ZPpY&amp;list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&amp;index=21&amp;t=539s">https://youtube.com/watch?v=xesuhh_ZPpY&amp;list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&amp;index=21&amp;t=539s</a> detection the surrounding<br>
 <a href="https://www.youtube.com/watch?v=NnrWjQ_zO-s&amp;t=1178smorphing">https://www.youtube.com/watch?v=NnrWjQ_zO-s&amp;t=1178smorphing</a> the surrounding <br>
