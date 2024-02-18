@@ -17,9 +17,12 @@ Question: Can music change your emotions?
 
 ## Ideation process
 The tool we used involves ==physical interaction==. Initially, our intention was to utilize the camera with the Raspberry Pi to connect to an AI capable of recognizing emotions, thereby allowing us to observe changes through facial expressions.
+<br>
+![alt text](../images/measuring_the_world/MTW01.png)
 
 For the physical interaction tool, what we did was edit two videos: ==one with a sad context and the other with a relaxed context. In both videos, we used different songs.== In the sad video, we started with a sad music track and then transitioned to a happy one. In the relaxed video, we began with a relaxed song and then switched to an anxious one.
-
+<br>
+![alt text](../images/measuring_the_world/MTW02.png)
 [[video 1](https://youtu.be/vgvYHuiI424)]
 
 [[video 2](https://youtu.be/WweWlX8CcDY)]
