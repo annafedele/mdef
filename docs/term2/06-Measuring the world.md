@@ -49,9 +49,10 @@ We managed to prove our hypothesis wrong. Music can change your emotions but the
 
 
 [Our presentation][(https://www.canva.com/design/DAF8SojQySw/FwO3hOtByobo4-F1C2cG3g/view?utm_content=DAF8SojQySw&utm_campaign=designshare&utm_medium=link&utm_source=viewer)] 
+
 !!! danger ""
 
-## Reflection
+    #### Reflection
     What really amazed me about this seminar was the physical duality of data: it is invisible, it lives in the digital world but at the same time it is so important that it can even determine the fate of a country if it falls into the wrong hands. We are covered by thousands of satellites picking up and receiving billions of data and we are so unaware and accustomed to it that we don't care but at the same time data knows everything and has everything on us. If you think about it you feel violated, but nowadays we are used to sharing but are sentimentally attached to objects. So, the consideration of ourselves is less than the condration we have toward objects, where is the limit?we are used to sharing but are sentimentally attached to objects. So, the consideration of ourselves is less than the condration we have toward objects, where is the limit?
 
     The project was a very good example and test for me in collecting data in the most traditional way I know, because precisely the ways were already known it was interesting for me to be physically present and watch people's eyes change expression from one video to the next and try to associate with their face where they might have put the sticker on the billboard.
