@@ -23,14 +23,17 @@ The tool we used involves ==physical interaction==. Initially, our intention was
 For the physical interaction tool, what we did was edit two videos: ==one with a sad context and the other with a relaxed context. In both videos, we used different songs.== In the sad video, we started with a sad music track and then transitioned to a happy one. In the relaxed video, we began with a relaxed song and then switched to an anxious one.
 <br>
 ![alt text](../images/measuring_the_world/MTW02.png)
-[[video 1](https://youtu.be/vgvYHuiI424)]
 
-[[video 2](https://youtu.be/WweWlX8CcDY)]
+[[video 1!!](https://youtu.be/vgvYHuiI424)]
+
+[[video 2!!](https://youtu.be/WweWlX8CcDY)]
 
 In order to make it interactive as a physical intervention, we created billboards containing the questions:
 
 *"How did you feeling in the first part of the video?"*
 *"How did you feel in the second part of the video?"*
+
+![alt text](../images/measuring_the_world/MTW03.png){: .image-45-size-right}
 
 Each person who responded placed a sticker on the billboard next to their answer. We kept track of each person by assigning numbers to them and their stickers
 

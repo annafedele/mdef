@@ -186,7 +186,6 @@ We use a TTGO Camera to detect, view, and analyze the things around us. We found
 
 The original idea was to connect the camera to a 3D program in order to visualize and play. We wanted to connect the camera live to TouchDesigner.
 
-![alt text](../images/design_studio/cameravidchallenge.gif)
 
 ??? danger "proximity sensor code"
 
@@ -320,8 +319,13 @@ We printed objects in resin and PLA that give the idea to those around them not 
 
 ![alt text](../images/design_studio/DS02.png){: .image-45-size-left}
 ![alt text](../images/design_studio/DS03.png){: .image-45-size-right}
+<br>
+
 ## 2.3 Results
 
+![alt text](../images/design_studio/DS04.png){: .image-50-size-left}
+![alt text](../images/design_studio/DS01.png){: .image-50-size-right}
+<br>
 ![touch sensor data](../images/design_studio/touchdesigner1.gif)
 
 ## References + Resources:
