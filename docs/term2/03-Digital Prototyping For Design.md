@@ -76,6 +76,16 @@ We also made another mould of conductive material which we thought of engraving 
 # Task 2
 *Creating an artifact by printing it using biomaterials with Marius*
 
-## coaster from generative grasshopper file
+## Coaster from generative grasshopper file
+
+For this delivery Marius and I decided to make a biomaterial to print it, and we decided to use coffee to achieve a grainy texture.
+We went at Itnig to get the waste of the coffee used during the day, and, we thought we could relive something for them since we were using their waste coffee,
+so, we thought of making a coaster that the café could use to store customers' orders.
 
 ![alt text](../images/digital_protyping/task2dp.gif)
+
+![alt text](<../images/digital_protyping/Immagine WhatsApp 2024-02-20 ore 18.02.51_fcef39dc.jpg>){: .image-45-size-left}
+![alt text](<../images/digital_protyping/Immagine WhatsApp 2024-02-20 ore 18.02.51_a0b12411.jpg>){: .image-45-size-right}
+![alt text](<../images/digital_protyping/Immagine WhatsApp 2024-02-20 ore 18.02.51_6764917b.jpg>){: .image-45-size-left}
+![alt text](<../images/digital_protyping/Immagine WhatsApp 2024-02-20 ore 18.03.48_948e8a46.jpg>){: .image-45-size-right}
+

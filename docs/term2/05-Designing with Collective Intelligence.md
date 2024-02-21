@@ -55,6 +55,11 @@ To make the contact between people and the honourable harvest more tangible, we 
 ![alt text](../images/collective_intelligences/tollboxfinal.png)
 ![alt text](../images/collective_intelligences/toolkitpresentacion.png)
 
+!!! danger ""
+
+    #### Reflection
+    Certainly during the seminar I had the opportunity to learn about some terminologies that I had not explored so thoroughly before such as NTFs, a term and concept that I was already familiar with, however, for example, I learned how to better define DAOs and smart contracts. Unfortunately, in my opinion, the understanding of these terms was a bit confusing given the dynamics of the seminar.
+    I honestly think I don't feel ready yet to apply my work to the world of digitization and NFTs, I feel that I prefer to keep a genuine and tangible relationship in the moment where even if things are shown digitally you still have a physical relationship in dealing with them. However, I would be interested in deepening and maybe applying the concept of smart contract.
 
 
 
