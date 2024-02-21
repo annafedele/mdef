@@ -89,3 +89,8 @@ so, we thought of making a coaster that the café could use to store customers' 
 ![alt text](<../images/digital_protyping/Immagine WhatsApp 2024-02-20 ore 18.02.51_6764917b.jpg>){: .image-45-size-left}
 ![alt text](<../images/digital_protyping/Immagine WhatsApp 2024-02-20 ore 18.03.48_948e8a46.jpg>){: .image-45-size-right}
 
+
+## Results
+![alt text](<../images/digital_protyping/Immagine WhatsApp 2024-02-21 ore 10.33.43_2412aa4b.jpg>){: .image-45-size-left}
+![alt text](<../images/digital_protyping/Immagine WhatsApp 2024-02-21 ore 10.33.43_664760f3.jpg>){: .image-45-size-right}
+
