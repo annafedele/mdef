@@ -4,7 +4,7 @@ Contributors: Anna and Annna
 ## Areas of interests:
 
 In our discussions, we found some areas of common interest such as an interest in sensors and a digital alter ego that could represent feedback from surroundings.
-![Screenshot 2024-02-16 012247](https://github.com/annafedele/microchallenge/assets/147055673/076530db-5d08-4d14-9ed0-afd52bb2289e)
+![alt text](<../images/design_studio/Risorsa 4interv2.png>)
 ## Research
 By intersecting our research, we found a common point in looking for wearables that collect data in certain social contexts, from events to everyday life, also related to the concept of protection. Certain types of sensors can detect changes in our surroundings that affect our bodies and our attitude under the circumstances.
 
