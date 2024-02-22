@@ -20,7 +20,7 @@ Series of investigation on electronic wearables that detect the surroundings and
 
 ## Sketches
 
-![Immagine WhatsApp 2024-02-16 ore 15.11.08_62eae79c](https://hackmd.io/_uploads/r1VHTkaoT.jpg)
+![alt text](../images/digital_protyping/Opera_senza_titolo.png)
 
 
 ## Materials and technologies needed
