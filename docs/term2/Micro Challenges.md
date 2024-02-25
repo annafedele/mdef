@@ -23,6 +23,7 @@ Series of investigation on electronic wearables that detect the surroundings and
 ![alt text](../images/digital_protyping/Opera_senza_titolo.png)
 
 
+
 ## Materials and technologies needed
 
 - **Touch Sensor: Conductive textile**
