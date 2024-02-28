@@ -309,6 +309,7 @@ We use the proximity sensor to detect the distance of objects and people.
 ![alt text](../images/design_studio/DS02.png){: .image-45-size-left}
 ![alt text](../images/design_studio/DS03.png){: .image-45-size-right}
 <br>
+<br>
 ==**Concept of safety**==: the parameters we have researched and displayed are part of a data set that can detect the relationship a body has with its surroundings.
 We therefore decided to make wearable artefacts relative and subversive objects to the topic of security. 
 We printed objects in resin and PLA that give the idea to those around them not to approach them because they are aggressive or that show privacy and intimacy.
