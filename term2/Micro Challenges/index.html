@@ -925,6 +925,188 @@ In addition, the technological factor of understanding and interacting with sens
 <p><a href="https://cults3d.com/es/modelo-3d/variado/agisis-ultimate-alien-face-hugger-detailed">https://cults3d.com/es/modelo-3d/variado/agisis-ultimate-alien-face-hugger-detailed</a> resin model</p>
 <p><a href="https://www.youtube.com/watch?v=LtBzbDm66wU&amp;list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&amp;index=44">https://www.youtube.com/watch?v=LtBzbDm66wU&amp;list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&amp;index=44</a> Video Example of Camera RT with Touch Designer. </p>
 <p><a href="https://class.textile-academy.org/2024/julija-karas/assignments/week05/">https://class.textile-academy.org/2024/julija-karas/assignments/week05/</a></p>
+<h1 id="microchallenge-ii">Microchallenge II<a class="headerlink" href="#microchallenge-ii" title="Permanent link">&para;</a></h1>
+<p>contributors: Carmen and Anna</p>
+<h2 id="areas-of-interest">Areas of interest<a class="headerlink" href="#areas-of-interest" title="Permanent link">&para;</a></h2>
+<p>We began our project by converging our areas of interest, which respectively focused on collecting mental and physical health data in order to represent them artistically to help people.</p>
+<p><img alt="Risorsa 1img1" src="https://hackmd.io/_uploads/By1lSFdp6.png" /></p>
+<p>Carmen&rsquo;s project is based on detecting periods of anxiety between two communicating necklace devices and making the users go through a breathing exercise (actived through touch), while on the other hand, Anna&rsquo;s project is based on using sensors pr detecting body language in a view of abuse and violence.</p>
+<p><img alt="PRODUCTS" src="https://hackmd.io/_uploads/S1sV3cOp6.jpg" /></p>
+<p>We wanted to collectively represent this data in order to generate a reflection on people. How do we show others that they are invading our personal space without explicitly telling them? How do we communicate anxiety? This was a cool way to represent the non-visual aspects of our health.</p>
+<h2 id="research_1">Research<a class="headerlink" href="#research_1" title="Permanent link">&para;</a></h2>
+<p>Our research on understanding and making devices that could collect data and reprocess it in order to create an artistic artifact that is a mapping of these.</p>
+<h3 id="initial-idea-concept-of-the-project">Initial idea / Concept of the Project<a class="headerlink" href="#initial-idea-concept-of-the-project" title="Permanent link">&para;</a></h3>
+<p>The initial idea is to converge data that are collected by sensors in order to map stress or abuse situations, so that they can communicate with each other and create a data set that is mapped as vector figures and not as numbers. Our idea is to make people see the unseen, to represent a thing that people can have difficulty putting into words.</p>
+<h3 id="definition-of-intellingence">Definition of intellingence<a class="headerlink" href="#definition-of-intellingence" title="Permanent link">&para;</a></h3>
+<p>A system that processes, interprets and converts diverse data types into visual representations or drawings. It incorporates the ability to comprehend a range of data inputs, including numerical values and textual information, and subsequently generate coherent visual outputs. </p>
+<p>The ultimate goal is to produce visualizations that effectively communicate insights, patterns, and relationships inherent in the underlying data.</p>
+<h3 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h3>
+<p><img alt="refe" src="https://hackmd.io/_uploads/BJPPR5dpa.jpg" /></p>
+<h3 id="purpose">Purpose<a class="headerlink" href="#purpose" title="Permanent link">&para;</a></h3>
+<p>The project began with two unconnected devices. The aim of this microchallenge is to establish a connection to a Broker via MQTT (we opted for this platform as the anxiety necklaces already utilize MQTT for communication). To ensure continuous communication and data collection, we also intended to program a Raspberry Pi. This Raspberry Pi serves as the central component of our project, tasked with receiving data from each device (utilizing the Mosquitto Broker). Upon receiving the data, the Raspberry Pi must then translate it into a vector or image format that can be printed in 2D. Our goal is to create this process and automate it as much as possible and enhance the aesthetic appeal and wearability of our projects.</p>
+<h3 id="project-planning_1">Project planning<a class="headerlink" href="#project-planning_1" title="Permanent link">&para;</a></h3>
+<p><img alt="Screenshot 2024-03-08 134553" src="https://hackmd.io/_uploads/SkGh_FuaT.png" /></p>
+<p>Our planning was successful because we approached the project incrementally, avoiding overly ambitious goals at the outset. Our primary focus was to achieve our objectives and then gradually enhance them over time. By Wednesday, we had completed a drawing, without any automated processes. Our goal for Thursday was to delve into materials, shapes, and the wearable aspect of the electronics. However, unfortunately, we encountered a minor setback that prevented us from progressing further :(. Nevertheless, we were able to adhere to our schedule.</p>
+<h3 id="integrated-design">Integrated Design<a class="headerlink" href="#integrated-design" title="Permanent link">&para;</a></h3>
+<p>The relationship between the elements is quite straightforward. Initially, we had two devices transmitting different types of outputs via MQTT. Anna&rsquo;s device sent distance data every 5 seconds, while the necklaces sent a signal whenever they were turned on or off (signifying the start and end of a breathing exercise for anxiety).</p>
+<p>Following the programming of the Raspberry Pi and MQTT, we developed various Python scripts to process our data and generate the final output.</p>
+<p>Firstly, we created loggermqtt.py, which reads the data from the IP generated by the Raspberry Pi by subscribing to every device (#). After reading the data, it creates a CSV file to log when the data was received, who sent it, and the actual data.</p>
+<p>Additionally, we developed separation.py, which reads the CSV file and separates the data into different time intervals. This ensures that there are no significant time gaps in our drawings.</p>
+<p>Finally, we designed language.py + (the desired CSV file format), which reads the data from the csv selected and generates a drawing. The drawing will be printed using a Silhouette 2D printer. 
+The drawing is intended to represent the distance measured by Anna&rsquo;s device as lines, with the length of each line inversely proportional to the distance measured (i.e., the larger the distance, the smaller the line). Additionally, the drawing should be able to detect when an anxiety necklace initiates a breathing exercise and depict this event with a circle, the size of which represents the duration of the breathing exercise.</p>
+<p><img alt="system" src="https://hackmd.io/_uploads/B1O8gsOT6.jpg" /></p>
+<h3 id="honest-design">Honest Design<a class="headerlink" href="#honest-design" title="Permanent link">&para;</a></h3>
+<p>Even though we are developing different projects, we have in common the health of the person, both physical and mental: in fact, we have carried out several interventions exploring the latter, with different approaches such as dialogue, surveys or the use of technology to measure specific parameters.
+For the microchallenge, we reflected on how we could make visible and understandable a set of data that are factual but at the same time subjective, reflecting a person&rsquo;s health in relation to themselves and others. The aim in fact was to make these data, apparently not visibly perceptible, visible for a question of self-consciousness and how some kind of sutuations can affect a person in terms of stress, and at the same time, the same situation cuold affect different peolple in different ways.</p>
+<h3 id="design-boundaries">Design Boundaries<a class="headerlink" href="#design-boundaries" title="Permanent link">&para;</a></h3>
+<p>We both come from a similar background related to industrial design, so it was a major challenge for us to try to create intelligence through coding as neither of us had the necessary experience to go it alone. </p>
+<h2 id="process">Process<a class="headerlink" href="#process" title="Permanent link">&para;</a></h2>
+<ol>
+<li>Connecting to MQTT &amp; Raspberry
+<img alt="Immagine WhatsApp 2024-03-08 ore 14.16.34_0e104cc6" src="https://hackmd.io/_uploads/ryATx5Opp.jpg" /></li>
+</ol>
+<p>We began the first phase of the project by connecting our devices to raspberrypi and mosquitto so that we could connect them to wifi and be able to allow joint data collection in real time.
+Using mosquitto we were able to be the brokers, so we could position ourselves in the middle of the communication between the devices and read and send messages.</p>
+<p><img alt="Immagine WhatsApp 2024-03-08 ore 14.16.34_34cacae5" src="https://hackmd.io/_uploads/B106lqOTa.jpg" /></p>
+<p>Using mosquitto spy we were able to store the data and read it.
+After that, we create a series of codes that where able to store the data we recollect in a csv file, in oder to have in the same tabloe the data (number od distance and yes/no) and the time/date when they where stored.
+With this csv file we generate another python code that can generate a g-code from the csv in order to transfomr the data in the table in &ldquo;visible coordinates&rdquo;
+<img alt="Immagine WhatsApp 2024-03-08 ore 14.16.34_45a5225d" src="https://hackmd.io/_uploads/ByfLJ8wAT.jpg" /></p>
+<p>*Next, with another code, we translated the csv row into an image based on our data. We used AI to realize the appropriate code.</p>
+<p>First prompt used:*</p>
+<p><em>i have this csv file that recollects data from to persons: lab/mdef/anna and lab/mdef/carmen. THe csv file recollects time (first column), who send the message (second column) and two types of messages Distance or ON/OFF comand (third column). Can you generate a python code that translates this csv file into a gcode.</em></p>
+<p><em>It should translate the lab/mdef/anna messages into lines, the bigger the number the lenght of the line is shorter. THe lines should start from the middle. Also change the thickness of the line according to the distance measured. The y postion marks the time.</em></p>
+<p><em>It should translate the lab/mdef/carmen messages into circles, It needs to calculate the time elapsed between an on and an off and generate a circle. THe diameter of the circle depens on the time elapsed (the more time, the bigger the circle). THe circles will be separated according to the time elapsed between off and on. The more time it passes off the further the circles are.
+The circles will be printed in order. The first one detected is the closest to the left and the last one is the closest to the right. I don&rsquo;t care about the y postion.</em> </p>
+<p><em>I want to read and draw all of the data recollected in the csv file. THe measurements of the canvas is 200x200mm.</em></p>
+<p><em>I needs to be able to see the time elapsed from the first time it recolected the data to the last. Just print in the bottom the number of minutes elapsed.</em> </p>
+<p><em>I need a gcode for a silhouette cameo printer, can you make the code so it gives it writes another svg file with just a gcode</em></p>
+<p><em>my csv file is called log.csv</em></p>
+<p>Example of the csv
+2024-03-05 18:36:16,lab/mdef/anna,1006
+2024-03-05 18:36:17,lab/mdef/anna,1006
+2024-03-05 18:36:18,lab/mdef/anna,163
+2024-03-05 18:36:20,lab/mdef/anna,317
+2024-03-05 18:36:21,lab/mdef/anna,316
+2024-03-05 18:36:21,lab/mdef/carmen,on
+2024-03-05 18:36:22,lab/mdef/anna,1006
+2024-03-05 18:36:23,lab/mdef/anna,315
+2024-03-05 18:36:24,lab/mdef/anna,1006
+2024-03-05 18:36:25,lab/mdef/anna,7
+2024-03-05 18:36:26,lab/mdef/anna,1006
+2024-03-05 18:36:27,lab/mdef/anna,89
+2024-03-05 18:36:28,lab/mdef/anna,3
+2024-03-05 18:36:29,lab/mdef/anna,5
+2024-03-05 18:36:30,lab/mdef/anna,6
+2024-03-05 18:36:31,lab/mdef/anna,318
+2024-03-05 18:36:32,lab/mdef/anna,1007
+2024-03-05 18:39:02,lab/mdef/anna,317
+2024-03-05 18:39:03,lab/mdef/anna,1007
+2024-03-05 18:39:09,lab/mdef/anna,1008
+2024-03-05 18:39:09,lab/mdef/carmen,off</p>
+<p><img alt="Immagine WhatsApp 2024-03-08 ore 14.16.34_76196727" src="https://hackmd.io/_uploads/ryl06l9upT.jpg" /></p>
+<p><img alt="Immagine WhatsApp 2024-03-08 ore 14.16.34_e24c31f0" src="https://hackmd.io/_uploads/Syl0axcOap.jpg" /></p>
+<p><img alt="Immagine WhatsApp 2024-03-08 ore 14.16.35_3f2524b7" src="https://hackmd.io/_uploads/SJRpxcdaa.jpg" /></p>
+<p><img alt="Screenshot 2024-03-08 154141" src="https://hackmd.io/_uploads/S1l6pXs_p6.png" /></p>
+<p>As a final step we used artificial intelligence to simulate stressful situations where our sensors could detect data ,we then asked the AI to generate the csv file with the actual data simulated.</p>
+<p>and the final output:</p>
+<p><img alt="Immagine WhatsApp 2024-03-08 ore 14.16.35_5d2bc97b" src="https://hackmd.io/_uploads/H10Tg5OaT.jpg" /></p>
+<p>In addition, to test the veracity and functioning of our process, we simulated stressful situations, such as coming home alone at night to an unfamiliar place and being in a very crowded place with strangers for a long time. We then asked the AI to create code that corresponded to these situations based on its perception of stress and anxiety.</p>
+<h3 id="materials-and-technologies-needed-bom">Materials and technologies needed (BOM)<a class="headerlink" href="#materials-and-technologies-needed-bom" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Rasperry pi</li>
+<li>MQTT</li>
+<li>Barduino and ESP32 Xiao S3</li>
+<li>Touch sensor</li>
+<li>LED Flora</li>
+<li>Vibration Motor</li>
+<li>Proximity sensor</li>
+<li>Paper and pen</li>
+<li>Siluette Cameo 3 machine</li>
+</ul>
+<h3 id="fabrication-process_1">Fabrication process<a class="headerlink" href="#fabrication-process_1" title="Permanent link">&para;</a></h3>
+<p>We attempted to print various boxes to create a wearable for the necklace, but encountered printing issues due to rushing the process. We made the mistake of using a pre-existing design without verifying if it was suitable for our project.</p>
+<h3 id="code">Code<a class="headerlink" href="#code" title="Permanent link">&para;</a></h3>
+<p><strong>LoggerMqtt</strong></p>
+<ul>
+<li>The Python script is designed to subscribe to MQTT topics using the Paho MQTT library.</li>
+<li>It connects to an MQTT broker running on the localhost (IP address changes with every eifi) with the default port 1883.</li>
+<li>The script listens for messages on the subscribed topics and writes them to a CSV file named &ldquo;log.csv&rdquo; located at &ldquo;/home/carme/shared/&rdquo;.</li>
+<li>When a message is received on an MQTT topic, the on_message() callback function is triggered. This function extracts the timestamp, topic, and message from the MQTT message and writes this data to the CSV file.</li>
+<li>The script continuously runs in a loop, keeping the MQTT connection and processing messages indefinitely.</li>
+</ul>
+<p>Overall, the script serves as an MQTT subscriber that logs received messages to a CSV file for further analysis or processing.</p>
+<p><strong>Output</strong>
+<div class="highlight"><pre><span></span><code>2024-03-06 18:28:22,lab/mdef/carmen,on
+2024-03-06 18:28:49,lab/mdef/anna,267
+2024-03-06 18:28:54,lab/mdef/anna,8
+2024-03-06 18:28:58,lab/mdef/carmen,off
+2024-03-06 18:28:59,lab/mdef/anna,1005
+2024-03-06 18:29:04,lab/mdef/anna,1005
+2024-03-06 18:29:09,lab/mdef/anna,8
+2024-03-06 18:29:14,lab/mdef/anna,1005
+2024-03-06 18:29:19,lab/mdef/anna,1005
+2024-03-06 18:29:24,lab/mdef/anna,1005
+</code></pre></div></p>
+<p><strong>Separation</strong></p>
+<ul>
+<li>The main function of the script reads data from a CSV file named &ldquo;log.csv&rdquo; (input_file).</li>
+<li>It then processes the data to split it into separate CSV files based on time gaps between consecutive records.</li>
+<li>The data processing functions include:<ul>
+<li>parse_date(): Takes date strings in the CSV data to datetime objects.</li>
+<li>time_diff_minutes(): Calculates the time difference in minutes between two datetime objects.</li>
+<li>split_data_by_time_gaps(): Splits the data into separate CSV files based on time gaps exceeding 60 minutes.</li>
+<li>write_data_to_csv(): Writes the separated data into new CSV files.</li>
+<li>The script runs the split_data_by_time_gaps() function on the input CSV file, creating multiple output CSV files, each containing a subset of the original data with time gaps exceeding 60 minutes.</li>
+</ul>
+</li>
+</ul>
+<p><strong>Language</strong>
+- The main function of the script is responsible for processing a CSV file and generating an image.
+- It takes the data from the input CSV file.
+- The script performs the following tasks:
+    - Analyzes the CSV file to extract timestamp, sender, and message information.
+    - Processes the messages to generate lines and circles based on the data.
+    - Draws lines and circles on a new image using the PIL library.
+    - Saves the generated image as &lsquo;output.png&rsquo;.
+- The script utilizes various functions to handle CSV file parsing, message processing, and image generation.</p>
+<p><strong>Output</strong></p>
+<p>Check our Folder in the repo to see all the images.
+<em>Images of the data recollection</em>
+<img alt="Risorsa 3img3" src="https://hackmd.io/_uploads/rJN8pqdTp.png" /></p>
+<h2 id="learning-outcomes_1">Learning outcomes<a class="headerlink" href="#learning-outcomes_1" title="Permanent link">&para;</a></h2>
+<h3 id="results-problems-ecountered">Results &amp; Problems Ecountered<a class="headerlink" href="#results-problems-ecountered" title="Permanent link">&para;</a></h3>
+<p>We were able to make the electronic parts work completely and as we wanted, from connecting the sensors to raspberrypi, collecting of data and translating it into an artistic visual language.</p>
+<p>We wanted to make the process much more automatic:
+- Connect to mosquitto once the raspberry pi is on.
+- Data recollection after being connected to mosquitto.</p>
+<p><em>We did not succeed</em>. That was due to small problems with executing files in the setup of the raspberry and also, one of them could not be achieved without the other one.</p>
+<p>We also wanted to make it that it will be able to connect to different wifis and always have the same IP address. 
+<em>We did not succeed</em> We managed to make the raspberry to have always the same name, but the arduino code did not accept this name as IP.</p>
+<p>Experiment with how to make it wearable and cute.<em>We did not succeed</em> Due to the time limit and the fact that we lost a lot of time trying to play with wifis, mqtt, learning how to code and working with the raspberry, we did not manage to make it into a wearable. </p>
+<p>What we did succed on was making the drawings and actually managing to get an output from this input. </p>
+<h3 id="reflection_1">Reflection<a class="headerlink" href="#reflection_1" title="Permanent link">&para;</a></h3>
+<p>It was a challenging microchallenge. Ultimately, we struggled with both Python and Raspberry Pi. We wasted time focusing on small details, like trying to automate processes before fully understanding them. Although we faced unexpected setbacks, we still managed to achieve some tangible results. However, creating a simple drawing was just the beginning; we could have explored more impactful options like designing t-shirts or engaging with classmates to better understand and represent data. Despite its potential, our project needs refinement and addressing many time-consuming details. Nonetheless, we have a solid foundation to build upon, and despite the tight deadline, we&rsquo;re determined to improve and expand our project. Our thesis revolves around representing what others struggle to see, making this experience a valuable stepping stone to further explore and develop our ideas.</p>
+<h3 id="future-outcomes_1">Future outcomes<a class="headerlink" href="#future-outcomes_1" title="Permanent link">&para;</a></h3>
+<p>For the future, we still want to work on the project to optimize the automatic part of connecting and saving data in different folders in order to store the data. In addition, we would like to make the wearable sensor system to be able to create the dynamics of realistic collection of data between people and to enable the two necklaces to communicate with each other.
+We would also love to do interventions so we can use it to make people reflect on our topics.</p>
+<p>We could do an intervention that generates a drawing every 30 minuts so people see the representation of health in that place and situation. </p>
+<p>For the project, we would like to make it into a wearable.</p>
+<h3 id="what-we-could-improve_1">What we could improve<a class="headerlink" href="#what-we-could-improve_1" title="Permanent link">&para;</a></h3>
+<ul>
+<li>Make it automatic</li>
+<li>Generate different drawings at the same time</li>
+<li>Make it so it prints in different colors. Every color is a different device.</li>
+<li>Make it wearable</li>
+</ul>
+<h3 id="references-and-resources">References and Resources<a class="headerlink" href="#references-and-resources" title="Permanent link">&para;</a></h3>
+<p>Will write them on sunday 24/03
+<em>Setting up Raspberry Pi</em></p>
+<p><em>MQTT + Mosquitto</em></p>
+<p><em>How to automate the process</em></p>
+<p><em>Python code</em></p>
+<h4 id="photograph">Photograph<a class="headerlink" href="#photograph" title="Permanent link">&para;</a></h4>
+<p><img alt="Immagine WhatsApp 2024-03-19 ore 18.07.58_8215d074" src="https://hackmd.io/_uploads/B1m9DUwAT.jpg" /></p>
                 
                   
                     
@@ -933,7 +1115,7 @@ In addition, the technological factor of understanding and interacting with sens
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 10, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 19, 2024</span>
     
   </small>
 </div>
