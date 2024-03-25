@@ -19,7 +19,7 @@ Many of these quotes are related to concepts from the street, and because of thi
 !!! danger ""
 
     #### Reflection
-   I must say that this seminar helped me to clarify my ideas on how to use AI to develop projects and ideas, and I think it is great! And I see clearly that AI is not a stand-alone tool but needs the human considerations to work perfectly and get the results you want, and at the same time it needs training from both the human and the machine to create collaboration.
+    I must say that this seminar helped me to clarify my ideas on how to use AI to develop projects and ideas, and I think it is great! And I see clearly that AI is not a stand-alone tool but needs the human considerations to work perfectly and get the results you want, and at the same time it needs training from both the human and the machine to create collaboration.
     The issue that I found most interesting that still raises questions for me is the ethical role of artificial intelligence: that is, it on dataset bases, shows only one side of the output gereration, what I would like to call the "safe side" and leaves everything else, which is part of our reality, out. Already pra we live in a buffer reality where the internet blocks inappropriate content and insidious topics, and now AI is based on prompts that are politically correct, a conception of reality that is perhaps a bit hypocritical considering what is going on in the world.
     I'm just a little bit worried that society doesn't notice the gap because they don't want to look up from the screen anymore where the safe and happy place that is the net is.
 

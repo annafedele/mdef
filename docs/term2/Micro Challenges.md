@@ -351,10 +351,10 @@ We wanted to collectively represent this data in order to generate a reflection 
 ## Research
 Our research on understanding and making devices that could collect data and reprocess it in order to create an artistic artifact that is a mapping of these.
 
-### Initial idea / Concept of the Project
+## Initial idea / Concept of the Project
 The initial idea is to converge data that are collected by sensors in order to map stress or abuse situations, so that they can communicate with each other and create a data set that is mapped as vector figures and not as numbers. Our idea is to make people see the unseen, to represent a thing that people can have difficulty putting into words.
 
-### Definition of intellingence
+## Definition of intellingence
 
 A system that processes, interprets and converts diverse data types into visual representations or drawings. It incorporates the ability to comprehend a range of data inputs, including numerical values and textual information, and subsequently generate coherent visual outputs. 
 
@@ -364,17 +364,17 @@ The ultimate goal is to produce visualizations that effectively communicate insi
 ![refe](https://hackmd.io/_uploads/BJPPR5dpa.jpg)
 
 
-### Purpose
+## Purpose
 The project began with two unconnected devices. The aim of this microchallenge is to establish a connection to a Broker via MQTT (we opted for this platform as the anxiety necklaces already utilize MQTT for communication). To ensure continuous communication and data collection, we also intended to program a Raspberry Pi. This Raspberry Pi serves as the central component of our project, tasked with receiving data from each device (utilizing the Mosquitto Broker). Upon receiving the data, the Raspberry Pi must then translate it into a vector or image format that can be printed in 2D. Our goal is to create this process and automate it as much as possible and enhance the aesthetic appeal and wearability of our projects.
 
 
-### Project planning
+## Project planning
 ![Screenshot 2024-03-08 134553](https://hackmd.io/_uploads/SkGh_FuaT.png)
 
 Our planning was successful because we approached the project incrementally, avoiding overly ambitious goals at the outset. Our primary focus was to achieve our objectives and then gradually enhance them over time. By Wednesday, we had completed a drawing, without any automated processes. Our goal for Thursday was to delve into materials, shapes, and the wearable aspect of the electronics. However, unfortunately, we encountered a minor setback that prevented us from progressing further :(. Nevertheless, we were able to adhere to our schedule.
 
 
-### Integrated Design
+## Integrated Design
 
 The relationship between the elements is quite straightforward. Initially, we had two devices transmitting different types of outputs via MQTT. Anna's device sent distance data every 5 seconds, while the necklaces sent a signal whenever they were turned on or off (signifying the start and end of a breathing exercise for anxiety).
 
@@ -390,12 +390,12 @@ The drawing is intended to represent the distance measured by Anna's device as l
 ![system](https://hackmd.io/_uploads/B1O8gsOT6.jpg)
 
 
-### Honest Design
+## Honest Design
 Even though we are developing different projects, we have in common the health of the person, both physical and mental: in fact, we have carried out several interventions exploring the latter, with different approaches such as dialogue, surveys or the use of technology to measure specific parameters.
 For the microchallenge, we reflected on how we could make visible and understandable a set of data that are factual but at the same time subjective, reflecting a person's health in relation to themselves and others. The aim in fact was to make these data, apparently not visibly perceptible, visible for a question of self-consciousness and how some kind of sutuations can affect a person in terms of stress, and at the same time, the same situation cuold affect different peolple in different ways.
 
 
-### Design Boundaries
+## Design Boundaries
 We both come from a similar background related to industrial design, so it was a major challenge for us to try to create intelligence through coding as neither of us had the necessary experience to go it alone. 
 
 ## Process
@@ -481,7 +481,7 @@ and the final output:
 In addition, to test the veracity and functioning of our process, we simulated stressful situations, such as coming home alone at night to an unfamiliar place and being in a very crowded place with strangers for a long time. We then asked the AI to create code that corresponded to these situations based on its perception of stress and anxiety.
 
 
-### Materials and technologies needed (BOM)
+## Materials and technologies needed (BOM)
 
 - Rasperry pi
 - MQTT
@@ -494,7 +494,7 @@ In addition, to test the veracity and functioning of our process, we simulated s
 - Siluette Cameo 3 machine
 
 
-### Fabrication process
+## Fabrication process
 We attempted to print various boxes to create a wearable for the necklace, but encountered printing issues due to rushing the process. We made the mistake of using a pre-existing design without verifying if it was suitable for our project.
 
 
@@ -558,7 +558,7 @@ Check our Folder in the repo to see all the images.
 
 ## Learning outcomes
 
-### Results & Problems Ecountered
+## Results & Problems Ecountered
 We were able to make the electronic parts work completely and as we wanted, from connecting the sensors to raspberrypi, collecting of data and translating it into an artistic visual language.
 
 We wanted to make the process much more automatic:
@@ -576,11 +576,11 @@ Experiment with how to make it wearable and cute.*We did not succeed* Due to the
 What we did succed on was making the drawings and actually managing to get an output from this input. 
 
 
-### Reflection
+## Reflection
 It was a challenging microchallenge. Ultimately, we struggled with both Python and Raspberry Pi. We wasted time focusing on small details, like trying to automate processes before fully understanding them. Although we faced unexpected setbacks, we still managed to achieve some tangible results. However, creating a simple drawing was just the beginning; we could have explored more impactful options like designing t-shirts or engaging with classmates to better understand and represent data. Despite its potential, our project needs refinement and addressing many time-consuming details. Nonetheless, we have a solid foundation to build upon, and despite the tight deadline, we're determined to improve and expand our project. Our thesis revolves around representing what others struggle to see, making this experience a valuable stepping stone to further explore and develop our ideas.
 
 
-### Future outcomes
+## Future outcomes
 For the future, we still want to work on the project to optimize the automatic part of connecting and saving data in different folders in order to store the data. In addition, we would like to make the wearable sensor system to be able to create the dynamics of realistic collection of data between people and to enable the two necklaces to communicate with each other.
 We would also love to do interventions so we can use it to make people reflect on our topics.
 
@@ -588,14 +588,14 @@ We could do an intervention that generates a drawing every 30 minuts so people s
 
 For the project, we would like to make it into a wearable.
 
-### What we could improve
+## What we could improve
 
 - Make it automatic
 - Generate different drawings at the same time
 - Make it so it prints in different colors. Every color is a different device.
 - Make it wearable
 
-### References and Resources
+## References and Resources
 
 Will write them on sunday 24/03
 *Setting up Raspberry Pi*
@@ -608,6 +608,6 @@ Will write them on sunday 24/03
 
 
 
-#### Photograph
+### Photograph
 
 ![Immagine WhatsApp 2024-03-19 ore 18.07.58_8215d074](https://hackmd.io/_uploads/B1m9DUwAT.jpg)
