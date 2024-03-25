@@ -935,19 +935,19 @@ In addition, the technological factor of understanding and interacting with sens
 <p>We wanted to collectively represent this data in order to generate a reflection on people. How do we show others that they are invading our personal space without explicitly telling them? How do we communicate anxiety? This was a cool way to represent the non-visual aspects of our health.</p>
 <h2 id="research_1">Research<a class="headerlink" href="#research_1" title="Permanent link">&para;</a></h2>
 <p>Our research on understanding and making devices that could collect data and reprocess it in order to create an artistic artifact that is a mapping of these.</p>
-<h3 id="initial-idea-concept-of-the-project">Initial idea / Concept of the Project<a class="headerlink" href="#initial-idea-concept-of-the-project" title="Permanent link">&para;</a></h3>
+<h2 id="initial-idea-concept-of-the-project">Initial idea / Concept of the Project<a class="headerlink" href="#initial-idea-concept-of-the-project" title="Permanent link">&para;</a></h2>
 <p>The initial idea is to converge data that are collected by sensors in order to map stress or abuse situations, so that they can communicate with each other and create a data set that is mapped as vector figures and not as numbers. Our idea is to make people see the unseen, to represent a thing that people can have difficulty putting into words.</p>
-<h3 id="definition-of-intellingence">Definition of intellingence<a class="headerlink" href="#definition-of-intellingence" title="Permanent link">&para;</a></h3>
+<h2 id="definition-of-intellingence">Definition of intellingence<a class="headerlink" href="#definition-of-intellingence" title="Permanent link">&para;</a></h2>
 <p>A system that processes, interprets and converts diverse data types into visual representations or drawings. It incorporates the ability to comprehend a range of data inputs, including numerical values and textual information, and subsequently generate coherent visual outputs. </p>
 <p>The ultimate goal is to produce visualizations that effectively communicate insights, patterns, and relationships inherent in the underlying data.</p>
 <h3 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h3>
 <p><img alt="refe" src="https://hackmd.io/_uploads/BJPPR5dpa.jpg" /></p>
-<h3 id="purpose">Purpose<a class="headerlink" href="#purpose" title="Permanent link">&para;</a></h3>
+<h2 id="purpose">Purpose<a class="headerlink" href="#purpose" title="Permanent link">&para;</a></h2>
 <p>The project began with two unconnected devices. The aim of this microchallenge is to establish a connection to a Broker via MQTT (we opted for this platform as the anxiety necklaces already utilize MQTT for communication). To ensure continuous communication and data collection, we also intended to program a Raspberry Pi. This Raspberry Pi serves as the central component of our project, tasked with receiving data from each device (utilizing the Mosquitto Broker). Upon receiving the data, the Raspberry Pi must then translate it into a vector or image format that can be printed in 2D. Our goal is to create this process and automate it as much as possible and enhance the aesthetic appeal and wearability of our projects.</p>
-<h3 id="project-planning_1">Project planning<a class="headerlink" href="#project-planning_1" title="Permanent link">&para;</a></h3>
+<h2 id="project-planning_1">Project planning<a class="headerlink" href="#project-planning_1" title="Permanent link">&para;</a></h2>
 <p><img alt="Screenshot 2024-03-08 134553" src="https://hackmd.io/_uploads/SkGh_FuaT.png" /></p>
 <p>Our planning was successful because we approached the project incrementally, avoiding overly ambitious goals at the outset. Our primary focus was to achieve our objectives and then gradually enhance them over time. By Wednesday, we had completed a drawing, without any automated processes. Our goal for Thursday was to delve into materials, shapes, and the wearable aspect of the electronics. However, unfortunately, we encountered a minor setback that prevented us from progressing further :(. Nevertheless, we were able to adhere to our schedule.</p>
-<h3 id="integrated-design">Integrated Design<a class="headerlink" href="#integrated-design" title="Permanent link">&para;</a></h3>
+<h2 id="integrated-design">Integrated Design<a class="headerlink" href="#integrated-design" title="Permanent link">&para;</a></h2>
 <p>The relationship between the elements is quite straightforward. Initially, we had two devices transmitting different types of outputs via MQTT. Anna&rsquo;s device sent distance data every 5 seconds, while the necklaces sent a signal whenever they were turned on or off (signifying the start and end of a breathing exercise for anxiety).</p>
 <p>Following the programming of the Raspberry Pi and MQTT, we developed various Python scripts to process our data and generate the final output.</p>
 <p>Firstly, we created loggermqtt.py, which reads the data from the IP generated by the Raspberry Pi by subscribing to every device (#). After reading the data, it creates a CSV file to log when the data was received, who sent it, and the actual data.</p>
@@ -955,10 +955,10 @@ In addition, the technological factor of understanding and interacting with sens
 <p>Finally, we designed language.py + (the desired CSV file format), which reads the data from the csv selected and generates a drawing. The drawing will be printed using a Silhouette 2D printer. 
 The drawing is intended to represent the distance measured by Anna&rsquo;s device as lines, with the length of each line inversely proportional to the distance measured (i.e., the larger the distance, the smaller the line). Additionally, the drawing should be able to detect when an anxiety necklace initiates a breathing exercise and depict this event with a circle, the size of which represents the duration of the breathing exercise.</p>
 <p><img alt="system" src="https://hackmd.io/_uploads/B1O8gsOT6.jpg" /></p>
-<h3 id="honest-design">Honest Design<a class="headerlink" href="#honest-design" title="Permanent link">&para;</a></h3>
+<h2 id="honest-design">Honest Design<a class="headerlink" href="#honest-design" title="Permanent link">&para;</a></h2>
 <p>Even though we are developing different projects, we have in common the health of the person, both physical and mental: in fact, we have carried out several interventions exploring the latter, with different approaches such as dialogue, surveys or the use of technology to measure specific parameters.
 For the microchallenge, we reflected on how we could make visible and understandable a set of data that are factual but at the same time subjective, reflecting a person&rsquo;s health in relation to themselves and others. The aim in fact was to make these data, apparently not visibly perceptible, visible for a question of self-consciousness and how some kind of sutuations can affect a person in terms of stress, and at the same time, the same situation cuold affect different peolple in different ways.</p>
-<h3 id="design-boundaries">Design Boundaries<a class="headerlink" href="#design-boundaries" title="Permanent link">&para;</a></h3>
+<h2 id="design-boundaries">Design Boundaries<a class="headerlink" href="#design-boundaries" title="Permanent link">&para;</a></h2>
 <p>We both come from a similar background related to industrial design, so it was a major challenge for us to try to create intelligence through coding as neither of us had the necessary experience to go it alone. </p>
 <h2 id="process">Process<a class="headerlink" href="#process" title="Permanent link">&para;</a></h2>
 <ol>
@@ -1012,7 +1012,7 @@ The circles will be printed in order. The first one detected is the closest to t
 <p>and the final output:</p>
 <p><img alt="Immagine WhatsApp 2024-03-08 ore 14.16.35_5d2bc97b" src="https://hackmd.io/_uploads/H10Tg5OaT.jpg" /></p>
 <p>In addition, to test the veracity and functioning of our process, we simulated stressful situations, such as coming home alone at night to an unfamiliar place and being in a very crowded place with strangers for a long time. We then asked the AI to create code that corresponded to these situations based on its perception of stress and anxiety.</p>
-<h3 id="materials-and-technologies-needed-bom">Materials and technologies needed (BOM)<a class="headerlink" href="#materials-and-technologies-needed-bom" title="Permanent link">&para;</a></h3>
+<h2 id="materials-and-technologies-needed-bom">Materials and technologies needed (BOM)<a class="headerlink" href="#materials-and-technologies-needed-bom" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Rasperry pi</li>
 <li>MQTT</li>
@@ -1024,7 +1024,7 @@ The circles will be printed in order. The first one detected is the closest to t
 <li>Paper and pen</li>
 <li>Siluette Cameo 3 machine</li>
 </ul>
-<h3 id="fabrication-process_1">Fabrication process<a class="headerlink" href="#fabrication-process_1" title="Permanent link">&para;</a></h3>
+<h2 id="fabrication-process_1">Fabrication process<a class="headerlink" href="#fabrication-process_1" title="Permanent link">&para;</a></h2>
 <p>We attempted to print various boxes to create a wearable for the necklace, but encountered printing issues due to rushing the process. We made the mistake of using a pre-existing design without verifying if it was suitable for our project.</p>
 <h3 id="code">Code<a class="headerlink" href="#code" title="Permanent link">&para;</a></h3>
 <p><strong>LoggerMqtt</strong></p>
@@ -1075,7 +1075,7 @@ The circles will be printed in order. The first one detected is the closest to t
 <em>Images of the data recollection</em>
 <img alt="Risorsa 3img3" src="https://hackmd.io/_uploads/rJN8pqdTp.png" /></p>
 <h2 id="learning-outcomes_1">Learning outcomes<a class="headerlink" href="#learning-outcomes_1" title="Permanent link">&para;</a></h2>
-<h3 id="results-problems-ecountered">Results &amp; Problems Ecountered<a class="headerlink" href="#results-problems-ecountered" title="Permanent link">&para;</a></h3>
+<h2 id="results-problems-ecountered">Results &amp; Problems Ecountered<a class="headerlink" href="#results-problems-ecountered" title="Permanent link">&para;</a></h2>
 <p>We were able to make the electronic parts work completely and as we wanted, from connecting the sensors to raspberrypi, collecting of data and translating it into an artistic visual language.</p>
 <p>We wanted to make the process much more automatic:
 - Connect to mosquitto once the raspberry pi is on.
@@ -1085,27 +1085,27 @@ The circles will be printed in order. The first one detected is the closest to t
 <em>We did not succeed</em> We managed to make the raspberry to have always the same name, but the arduino code did not accept this name as IP.</p>
 <p>Experiment with how to make it wearable and cute.<em>We did not succeed</em> Due to the time limit and the fact that we lost a lot of time trying to play with wifis, mqtt, learning how to code and working with the raspberry, we did not manage to make it into a wearable. </p>
 <p>What we did succed on was making the drawings and actually managing to get an output from this input. </p>
-<h3 id="reflection_1">Reflection<a class="headerlink" href="#reflection_1" title="Permanent link">&para;</a></h3>
+<h2 id="reflection_1">Reflection<a class="headerlink" href="#reflection_1" title="Permanent link">&para;</a></h2>
 <p>It was a challenging microchallenge. Ultimately, we struggled with both Python and Raspberry Pi. We wasted time focusing on small details, like trying to automate processes before fully understanding them. Although we faced unexpected setbacks, we still managed to achieve some tangible results. However, creating a simple drawing was just the beginning; we could have explored more impactful options like designing t-shirts or engaging with classmates to better understand and represent data. Despite its potential, our project needs refinement and addressing many time-consuming details. Nonetheless, we have a solid foundation to build upon, and despite the tight deadline, we&rsquo;re determined to improve and expand our project. Our thesis revolves around representing what others struggle to see, making this experience a valuable stepping stone to further explore and develop our ideas.</p>
-<h3 id="future-outcomes_1">Future outcomes<a class="headerlink" href="#future-outcomes_1" title="Permanent link">&para;</a></h3>
+<h2 id="future-outcomes_1">Future outcomes<a class="headerlink" href="#future-outcomes_1" title="Permanent link">&para;</a></h2>
 <p>For the future, we still want to work on the project to optimize the automatic part of connecting and saving data in different folders in order to store the data. In addition, we would like to make the wearable sensor system to be able to create the dynamics of realistic collection of data between people and to enable the two necklaces to communicate with each other.
 We would also love to do interventions so we can use it to make people reflect on our topics.</p>
 <p>We could do an intervention that generates a drawing every 30 minuts so people see the representation of health in that place and situation. </p>
 <p>For the project, we would like to make it into a wearable.</p>
-<h3 id="what-we-could-improve_1">What we could improve<a class="headerlink" href="#what-we-could-improve_1" title="Permanent link">&para;</a></h3>
+<h2 id="what-we-could-improve_1">What we could improve<a class="headerlink" href="#what-we-could-improve_1" title="Permanent link">&para;</a></h2>
 <ul>
 <li>Make it automatic</li>
 <li>Generate different drawings at the same time</li>
 <li>Make it so it prints in different colors. Every color is a different device.</li>
 <li>Make it wearable</li>
 </ul>
-<h3 id="references-and-resources">References and Resources<a class="headerlink" href="#references-and-resources" title="Permanent link">&para;</a></h3>
+<h2 id="references-and-resources">References and Resources<a class="headerlink" href="#references-and-resources" title="Permanent link">&para;</a></h2>
 <p>Will write them on sunday 24/03
 <em>Setting up Raspberry Pi</em></p>
 <p><em>MQTT + Mosquitto</em></p>
 <p><em>How to automate the process</em></p>
 <p><em>Python code</em></p>
-<h4 id="photograph">Photograph<a class="headerlink" href="#photograph" title="Permanent link">&para;</a></h4>
+<h3 id="photograph">Photograph<a class="headerlink" href="#photograph" title="Permanent link">&para;</a></h3>
 <p><img alt="Immagine WhatsApp 2024-03-19 ore 18.07.58_8215d074" src="https://hackmd.io/_uploads/B1m9DUwAT.jpg" /></p>
                 
                   
@@ -1115,7 +1115,7 @@ We would also love to do interventions so we can use it to make people reflect o
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 19, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">March 25, 2024</span>
     
   </small>
 </div>
