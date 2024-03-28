@@ -341,3 +341,9 @@ https://class.textile-academy.org/2024/julija-karas/assignments/week05/ <br>
 ## Developing the project
 
 <iframe src="Elevatorpitch.pdf" width="100%" height="600px"></iframe>
+
+"<body>" as body syntax
+
+*Syntax, or syntactics (from the Greek σύνταξις, sýntaxis, "association, organisation"), is the branch of grammar and linguistics that studies the different ways in which the codes of languages join together to form a proposition.*
+
+the project is a speculation on the actual translation of proximity interactions between two or more bodies into literal texts. It defines a dynamic such as body language as a veritable semantic language and deals with highlighting how the perception of proximity between two bodies is subjective but also fleeting and aims to emphasize through the legitimacy of the written text and the precision of the data the dynamics that are not always visible and perceptible in the moment they occur.
