@@ -337,3 +337,7 @@ https://github.com/LilyGO/esp32-camera-bme280 TTGO Camera Documentation. <br>
 https://cults3d.com/es/modelo-3d/variado/agisis-ultimate-alien-face-hugger-detailed resin model <br>
 https://www.youtube.com/watch?v=LtBzbDm66wU&list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I342&index=44 Video Example of Camera RT with Touch Designer. <br>
 https://class.textile-academy.org/2024/julija-karas/assignments/week05/ <br>
+
+## Developing the project
+
+<iframe src="Elevatorpitch.pdf" width="100%" height="600px"></iframe>
