@@ -67,6 +67,27 @@ The method is defined by experimenting with new techniques and materials in both
 **WHY?**
 What I would like to dedicate myself to are topics that are very close to my heart and where I feel very empathetic about them, it is a goal that stems from external stimuli that I have reworked within myself, but at the same time I want to present them externally, for others, in a new light and possibly also do something about it, changing things is definitely my goal, even if at the moment it seems very far away and ambitious
 
+### Stakeholders radar
+
+During the seminar,we were asked to define the possible stakeholders of our project, i.e. the entities or persons we consider thematically related to our project with whom we would like to interact and collaborate. 
+<br>
+I have therefore mapped out on this radar those for me who are suitable interlocutors for my project and with whom I would like to collaborate both to advance with my research but also for personal growth and to enter their world.
+I have summarised my mapping into three broad categories: academic institutions, arts and cultural organisations and studios.
+All three categories give shape to a different slant, I would like to give to the communicative strategy of my project; that is, in addition to progressing with the research and development of the project (within collectives and studios) I would like to promote my project at an academic level then within institutions and schools in order to raise awareness and normalise the issue of gender-based violence for the new generations, as far as schools are concerned, but also to involve students and new minds in collaborating with new ideas to the project. the dynamic that seems to me to be most suitable for this type of stakeholders is the workshops dynamic.
+
+![alt text](<../images/communicating_ideas/Risorsa 5stakehold.png>){: .image-40-size-right}
+<br>
+With regard to arts organisations and events, I think it is important to disseminate the more speculative subject matter (through small projects or performances) to be shown in these kinds of venues to stimulate dialogue and conversation, as I believe that gender-based violence is an issue that most people often forget about or prefer not to talk about because it is very personal. I, in fact, respect the delicacy and privacy of this kind of thing, which is why I believe that depersonalising a project to make it everyone's but nobody's at the same time is the right key to nurturing a collective awareness.
+<br>
+I have selected within the radar some transfeminist studios that deal with biohacking or that use a scientific approach to projects or event communication. i also believe that dissemination on social media is important and fundamental to reach everyone, but i personally prefer sharing in trade magazines with articles and interviews as i believe that writers and magazines have a knowledge of the words to use and graphic interludes that suit the tone i want to set for my project; so something important and sensitive, but also appealing.
+
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVN59zC4M=/?moveToViewport=6773,-4435,3014,10716&embedId=921166687720" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+### My project personality
+
+
+
 
 ## Tandem project, *with annna*
 

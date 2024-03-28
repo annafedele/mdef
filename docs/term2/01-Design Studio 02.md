@@ -341,5 +341,3 @@ https://class.textile-academy.org/2024/julija-karas/assignments/week05/ <br>
 ## Developing the project
 
 <iframe src="Elevatorpitch.pdf" width="100%" height="600px"></iframe>
-
-[text](../images/design_studio/Elevatorpitch.pdf) 
