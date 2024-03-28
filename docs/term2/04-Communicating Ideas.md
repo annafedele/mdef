@@ -77,7 +77,7 @@ All three categories give shape to a different slant, I would like to give to th
 
 ![alt text](<../images/communicating_ideas/Risorsa 5stakehold.png>)
 <br>
-With regard to arts organisations and events, I think it is important to disseminate the more speculative subject matter (through small projects or performances) to be shown in these kinds of venues to stimulate dialogue and conversation, as I believe that gender-based violence is an issue that most people often forget about or prefer not to talk about because it is very personal. I, in fact, respect the delicacy and privacy of this kind of thing, which is why I believe that depersonalising a project to make it everyone's but nobody's at the same time is the right key to nurturing a collective awareness.
+Regarding art organisations and events, I think it is important to disseminate the more speculative subject matter (through small projects or performances) to be shown in these kinds of venues to stimulate dialogue and conversation, as I believe that gender-based violence is an issue that most people often forget about or prefer not to talk about because it is very personal. I, in fact, respect the delicacy and privacy of this kind of thing, which is why I believe that depersonalising a project to make it everyone's but nobody's at the same time is the right key to nurturing a collective awareness.
 <br>
 I have selected within the radar some transfeminist studios that deal with biohacking or that use a scientific approach to projects or event communication. i also believe that dissemination on social media is important and fundamental to reach everyone, but i personally prefer sharing in trade magazines with articles and interviews as i believe that writers and magazines have a knowledge of the words to use and graphic interludes that suit the tone i want to set for my project; so something important and sensitive, but also appealing.
 
@@ -87,7 +87,7 @@ I have selected within the radar some transfeminist studios that deal with bioha
 ### My project personality
 
 
-[text](<../images/communicating_ideas/Communicating ideas presentation.pptx>) 
+<iframe width="100%" height="600" src="<https://docs.google.com/presentation/d/1--9167FHDeqzny8ElNUHDK3Bnj-Y_RZwaL5SzaytGsg/edit?usp=sharing>" frameborder="0" allowfullscreen></iframe>
 
 ## Tandem project, *with annna*
 
