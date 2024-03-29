@@ -87,7 +87,7 @@ I have selected within the radar some transfeminist studios that deal with bioha
 ### My project personality
 
 
-<iframe width="100%" height="600" src="https://docs.google.com/presentation/d/1--9167FHDeqzny8ElNUHDK3Bnj-Y_RZwaL5SzaytGsg/edit?usp=sharing"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTygalWlJuiP3a9-nJdxYGpGpXvKtjLBB480Axf_vIbrTodxynYOyEG5iJPBECRXk2UtoSyHquf2Tec/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Tandem project, *with annna*
 
