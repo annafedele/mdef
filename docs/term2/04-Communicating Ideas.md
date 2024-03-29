@@ -67,6 +67,8 @@ The method is defined by experimenting with new techniques and materials in both
 **WHY?**
 What I would like to dedicate myself to are topics that are very close to my heart and where I feel very empathetic about them, it is a goal that stems from external stimuli that I have reworked within myself, but at the same time I want to present them externally, for others, in a new light and possibly also do something about it, changing things is definitely my goal, even if at the moment it seems very far away and ambitious
 
+![alt text](<../images/communicating_ideas/Screenshot 2024-03-29 123014.png>)
+
 ### Stakeholders radar
 
 During the seminar,we were asked to define the possible stakeholders of our project, i.e. the entities or persons we consider thematically related to our project with whom we would like to interact and collaborate. 
@@ -86,6 +88,16 @@ I have selected within the radar some transfeminist studios that deal with bioha
 
 ### My project personality
 
+![alt text](<../images/communicating_ideas/Screenshot 2024-03-29 123413.png>){: .image-40-size-right}
+During the seminar, we were also asked to 'personify' our project in order to find a personality that could define the communication strategy. at first it was not easy for me because I still did not have a clear idea of my project and so thinking about a future strategy confused me even more.
+To help us, a Miro board was created with the various steps to identify the communicative characteristics of a project and I must say that I found it easier to define a few adjectives that I found present in my concept idea, so I was able to imagine a personality and a tone:
+
+I found that I want my design to combine graphic delicacy with audacity of content, to be sensitive and empathetic but at the same time strong and progressive. The project needs to depersonalise in order to represent everyone and no one, it needs anonymity but at the same time a strong personality.
+
+![alt text](<../images/communicating_ideas/Screenshot 2024-03-29 123518.png>){: .image-40-size-left}
+![alt text](<../images/communicating_ideas/Screenshot 2024-03-29 123602.png>){: .image-40-size-right}
+
+I have summarised my communication journey during the seminar in a presentation that shows how far I have come.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTygalWlJuiP3a9-nJdxYGpGpXvKtjLBB480Axf_vIbrTodxynYOyEG5iJPBECRXk2UtoSyHquf2Tec/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -100,5 +112,10 @@ We recorded this video together to explain some points that I thought were inter
 !!! danger ""
 
     #### Reflection
-    These lessons helped me to place my project on a communicative level: I realised, by examining certain parts of the brand strategy 
+    These lessons helped me to place my project on a communicative level: I realised, by examining certain parts of the brand strategy how my project uses **dichotomies** to define itself, and I have to say that I am still thinking hard about how to display them graphically or on a strategic level. It helped me a lot to create the stakeholders radar because it made me really realise what the connections are between my research and external communities and where I can go for next steps. In fact, I reflected on the fact that I would like to project the project initially by a more expositional and performative route 
+    At the moment, the project is still in the development stages of a real shape and perhaps I still have a lot of work to do to make it usable for outsiders but thanks to the seminar I know which channels I can use to make myself known, in fact I have created a related instagram profile where I am applying the personality trets and tone I chose in Miro's visual space! 
+    here it is: 
+    https://www.instagram.com/_whatisannadoing/ 
+    So I think this seminar encourages you to define and find the words to talk about something that, in my case, was still research and exploration, but it was very useful for me to begin to summarise in a cohesive statement what were the results of my interventions.
+
 
