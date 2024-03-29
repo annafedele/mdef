@@ -340,8 +340,8 @@ https://class.textile-academy.org/2024/julija-karas/assignments/week05/ <br>
 
 ## Developing the project
 
-<iframe width="100%" height="600" src="Elevatorpitch.pdf"></iframe>
-"<body>" as body syntax
+<iframe width="100%" height="800" src="../images/design_studio/Elevatorpitch.pdf"></iframe>
+"< body >" as body syntax
 
 *Syntax, or syntactics (from the Greek σύνταξις, sýntaxis, "association, organisation"), is the branch of grammar and linguistics that studies the different ways in which the codes of languages join together to form a proposition.*
 
