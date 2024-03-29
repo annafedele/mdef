@@ -93,10 +93,12 @@ During the seminar, we were also asked to 'personify' our project in order to fi
 To help us, a Miro board was created with the various steps to identify the communicative characteristics of a project and I must say that I found it easier to define a few adjectives that I found present in my concept idea, so I was able to imagine a personality and a tone:
 
 I found that I want my design to combine graphic delicacy with audacity of content, to be sensitive and empathetic but at the same time strong and progressive. The project needs to depersonalise in order to represent everyone and no one, it needs anonymity but at the same time a strong personality.
-
-![alt text](<../images/communicating_ideas/Screenshot 2024-03-29 123518.png>){: .image-40-size-left}
-![alt text](<../images/communicating_ideas/Screenshot 2024-03-29 123602.png>){: .image-40-size-right}
-
+<br>
+<br>
+![alt text](<../images/communicating_ideas/Screenshot 2024-03-29 123518.png>){: .image-45-size-left}
+![alt text](<../images/communicating_ideas/Screenshot 2024-03-29 123602.png>){: .image-45-size-right}
+<br>
+<br>
 I have summarised my communication journey during the seminar in a presentation that shows how far I have come.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTygalWlJuiP3a9-nJdxYGpGpXvKtjLBB480Axf_vIbrTodxynYOyEG5iJPBECRXk2UtoSyHquf2Tec/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
