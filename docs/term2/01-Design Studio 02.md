@@ -340,9 +340,25 @@ https://class.textile-academy.org/2024/julija-karas/assignments/week05/ <br>
 
 ## Developing the project
 
-<iframe width="100%" height="800" src="../images/design_studio/Elevatorpitch.pdf"></iframe>
-"< body >" as body syntax
+### Interacting with communities
+
+After my second intervention, I tried to expand my research outside the university not only to make external people interact with what I was designing, but also to involve them as an integral and effective part of the research. <br>
+I can say that it was not easy to approach other communities considering the subject matter I deal with, because we generally tend to sweep it under the carpet because we feel vulnerable and exposed. <br>
+I have interacted, but unfortunately only passively, with different realities, ranging from actual communities that preserve and support women victims of violence, to exhibition spaces. However, the dynamic that most aroused and amazed me at the same time was the dialogue: I was able to get to know people who trust me very personal dynamics. This made me realise that collaborating with outsiders is not easy because you have to gain and establish a relationship of trust by putting them at ease.
+
+![alt text](<../images/design_studio/Risorsa 7comm.png>)
+
+So it was the **conversations** I had that clarified the path I want to take at the design level. they made me think about the concept of *dynamics* and *body language*.
+The dynamics of the interaction between two bodies are not always clear, especially when it leads to abuse or violence. people who suffer this kind of thing tend not to realise what is going on, or tend to associate parts of the body, given past experiences, with something extremely ugly or purely sexual. the perception of our body varies from person to person and it is always very complex to interpret because it always relates to personality and mind, parts that are even more complex because they are not tangible.
+
+## Design Dialogues II
+
+### < body > *as body syntax*
 
 *Syntax, or syntactics (from the Greek σύνταξις, sýntaxis, "association, organisation"), is the branch of grammar and linguistics that studies the different ways in which the codes of languages join together to form a proposition.*
 
-the project is a speculation on the actual translation of proximity interactions between two or more bodies into literal texts. It defines a dynamic such as body language as a veritable semantic language and deals with highlighting how the perception of proximity between two bodies is subjective but also fleeting and aims to emphasize through the legitimacy of the written text and the precision of the data the dynamics that are not always visible and perceptible in the moment they occur.
+The project is a speculation on the actual translation of proximity interactions between two or more bodies into literal texts. It defines a dynamic such as body language as a veritable semantic language and deals with highlighting how the perception of proximity between two bodies is subjective but also fleeting and aims to emphasize through the legitimacy of the written text and the precision of the data the dynamics that are not always visible and perceptible in the moment they occur.
+
+![alt text](../images/design_studio/DSC02719.JPG)
+
+## Reflection, what now?
