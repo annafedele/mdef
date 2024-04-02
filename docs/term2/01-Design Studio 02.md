@@ -12,7 +12,7 @@ The body, and more specifically the skin,has the incredible property of healing 
 *Pain=Prompt*
 I wondered how artificial intelligence could see terrible concepts such as violence and abuse, being based on datasets created in turn by human beings. I found it interesting to relate stories of fear and abuse to the generation of images and find, surprisingly, an extreme gap between what I imagined and what the AI generated.
 
-# Feedback
+## Feedback
 Summarily my research brought to the design dialogues brought positive feedback and stimulated interesting dialogues both with my colleagues and as outsiders; solprendently the focus was more on the design part of the images realised in AI, also because I had arranged the images interactively so that everyone could 'unveil' them by pretending a dark room with black ink. On the exhibition level, I realised that I want to stay with this type of arrangement.
 Moreover, the most relevant comments were on the one hand to investigate and research how to make a biomaterial, (or a tissue) as responsive as if it were a human tissue, also to introduce a still very controversial reflection: when two bodies interact, touch each other, where is the line that defines the behaviour as innocent to the point of violence? it is so thin... 
 In addition, thoughts have arisen on the filters contained in AI from an ethical point of view, whether we need them, they protect us or are an obstacle that will increasingly limit us. 
@@ -357,8 +357,8 @@ For these design dialogues I wondered for all the research I did what role techn
 
 I thought that through this method was a neutral way to make both sides realise dynamics that would be invisible and confusing.
 
-[text](../images/design_studio/IMG_0501.HEIC){: .image-45-size-left}
-[text](../images/design_studio/IMG_0503.HEIC){: .image-45-size-right}
+![alt text](../images/design_studio/IMG_0501.HEIC){: .image-45-size-left}
+![alt text](../images/design_studio/IMG_0503.HEIC){: .image-45-size-right}
 
 
 ### < body > *as body syntax*
