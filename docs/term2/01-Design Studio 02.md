@@ -357,8 +357,8 @@ For these design dialogues I wondered for all the research I did what role techn
 
 I thought that through this method was a neutral way to make both sides realise dynamics that would be invisible and confusing.
 
-![alt text](../images/design_studio/IMG_0501.HEIC){: .image-45-size-left}
-![alt text](../images/design_studio/IMG_0503.HEIC){: .image-45-size-right}
+![alt text](../images/design_studio/IMG_0503.jpg){: .image-45-size-left}
+![alt text](../images/design_studio/IMG_0501_(1).jpg){: .image-45-size-right}
 
 
 ### < body > *as body syntax*
