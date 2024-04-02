@@ -349,9 +349,17 @@ I have interacted, but unfortunately only passively, with different realities, r
 ![alt text](<../images/design_studio/Risorsa 7comm.png>)
 
 So it was the **conversations** I had that clarified the path I want to take at the design level. they made me think about the concept of *dynamics* and *body language*.
-The dynamics of the interaction between two bodies are not always clear, especially when it leads to abuse or violence. people who suffer this kind of thing tend not to realise what is going on, or tend to associate parts of the body, given past experiences, with something extremely ugly or purely sexual. the perception of our body varies from person to person and it is always very complex to interpret because it always relates to personality and mind, parts that are even more complex because they are not tangible.
+The dynamics of the interaction between two bodies are not always clear, especially when it leads to abuse or violence. people who suffer this kind of thing tend not to realise what is going on, or tend to associate parts of the body, given past experiences, with something extremely ugly or purely sexual. The perception of our body varies from person to person and it is always very complex to interpret because it always relates to personality and mind, parts that are even more complex because they are not tangible.
 
 ## Design Dialogues II
+
+For these design dialogues I wondered for all the research I did what role technology played in the collective self-awareness of these issues. I focused on the term body language and how this is really complex in certain situations (which I have already described) so I decided to give actual semantic meaning to body language by tracing the interactions between two or more bodies, defined by the distance detected by proximity sensors, into actual letters and signs, which form a written text containing the interaction in code.
+
+I thought that through this method was a neutral way to make both sides realise dynamics that would be invisible and confusing.
+
+[text](../images/design_studio/IMG_0501.HEIC){: .image-45-size-left}
+[text](../images/design_studio/IMG_0503.HEIC){: .image-45-size-right}
+
 
 ### < body > *as body syntax*
 
@@ -361,4 +369,4 @@ The project is a speculation on the actual translation of proximity interactions
 
 ![alt text](../images/design_studio/DSC02719.JPG)
 
-## Reflection, what now?
+
