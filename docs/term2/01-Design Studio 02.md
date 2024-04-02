@@ -359,8 +359,8 @@ I thought that through this method was a neutral way to make both sides realise 
 
 ![alt text](../images/design_studio/IMG_0503.jpg){: .image-45-size-left}
 ![alt text](../images/design_studio/IMG_0501_(1).jpg){: .image-45-size-right}
-
-
+<br>
+<br>
 ### < body > *as body syntax*
 
 *Syntax, or syntactics (from the Greek σύνταξις, sýntaxis, "association, organisation"), is the branch of grammar and linguistics that studies the different ways in which the codes of languages join together to form a proposition.*
