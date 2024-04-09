@@ -1,6 +1,6 @@
 # MicroChallenge: detecting the surroundings 
 Contributors: Anna and Annna
-
+Repo: https://github.com/annafedele/microchallenge_I
 ## Areas of interests:
 
 In our discussions, we found some areas of common interest such as an interest in sensors and a digital alter ego that could represent feedback from surroundings.
@@ -334,7 +334,7 @@ https://class.textile-academy.org/2024/julija-karas/assignments/week05/
 
 # Microchallenge II
 contributors: Carmen and Anna
-
+Repo: https://github.com/annafedele/microchallenge-II
 ## Areas of interest
 We began our project by converging our areas of interest, which respectively focused on collecting mental and physical health data in order to represent them artistically to help people.
 
