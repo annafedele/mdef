@@ -22,5 +22,5 @@ They touch on issues at the behavioural, linguistic, ethical and practical level
 !!! danger ""
 
     #### Reflection
-    I have to say that it was not easy to work on these activities alone as a group dynamic for reflection and brainstorming is much better to get different points of view, but in my case it is only my own related to the thesis project I am developing here. However, I really enjoyed creating the cards that contain the reflections I made and I hope they can really be useful for creating dialogues between people and maybe new ideas and dynamics pder e
+    I have to say that it was not easy to work on these activities alone as a group dynamic for reflection and brainstorming is much better to get different points of view, but in my case it is only my own related to the thesis project I am developing here. However, I really enjoyed creating cards containing the reflections I made and I hope they can really be useful in creating dialogues between people and maybe new ideas and dynamics to curb the lack of empathy.
 
