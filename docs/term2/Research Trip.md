@@ -19,6 +19,15 @@ Thus, edgy shapes and spines resemble hairs and bones, the purpose merges for th
 ![alt text](<../images/research_trip/Risorsa 17RT1.png>)
 
 I then handcrafted clay bones with hostile netural elements that I collected from the landscape surrounding the cottage, recreating a small natural setting that intimates not to approach or touch it.
+
+!!! danger ""
+
+    #### Reflection
+    Overall it was a very nice and interesting experience because I had the opportunity to explore another point of view of my project and to work with materials that I don't have available to me on a daily basis. The time factor was also important for me: for a week, time slowed down and I feel I had the chance to enjoy the activities we did more.
+    
+    I must say, however, that I want to make a special point about food: in a week together we organised our meals in such a way that everyone cooked, and the majority tried their hand at recipes and dishes from their home countries. For me, food is what can bind people who come from different places, and it was very nice to see my companions cooking, learning from them, and helping each other.
+
+
 ![alt text](../images/research_trip/IMG_0640.jpg){: .image-45-size-left}
 ![alt text](../images/research_trip/IMG_0641.jpg){: .image-45-size-right}
 <br>
@@ -31,9 +40,3 @@ I then handcrafted clay bones with hostile netural elements that I collected fro
 <br>
 <br>
 <br>
-!!! danger ""
-
-    #### Reflection
-    Overall it was a very nice and interesting experience because I had the opportunity to explore another point of view of my project and to work with materials that I don't have available to me on a daily basis. The time factor was also important for me: for a week, time slowed down and I feel I had the chance to enjoy the activities we did more.
-    
-    I must say, however, that I want to make a special point about food: in a week together we organised our meals in such a way that everyone cooked, and the majority tried their hand at recipes and dishes from their home countries. For me, food is what can bind people who come from different places, and it was very nice to see my companions cooking, learning from them, and helping each other.
