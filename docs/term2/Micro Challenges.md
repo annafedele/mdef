@@ -330,6 +330,13 @@ https://www.youtube.com/watch?v=LtBzbDm66wU&list=PLg4I7mDs8xeGnVRUS_2si_TmjoE82I
 
 https://class.textile-academy.org/2024/julija-karas/assignments/week05/
 
+!!! danger ""
+
+    #### Personal Reflection
+    I found the dynamics of the microchallege a bit complex to deal with because there are so many things to do in so little time, and this goes against how I am used to designing: I prefer to take my time and think about the steps of the project. So it was difficult for me to adapt to a faster pace but at the same time really useful because it made me more versatile.
+    In addition, I can be satisfied with the investigations I did, where I certainly didn't come up with a unanimous artefact, but I immersed myself completely in electronics, trying to achieve results step by step and solving the problems I encountered along the way myself. I believe that when it comes to programming it is important to have the basics in order to be able to start a project but above all to be able to correct it when you find a mistake or get stuck. 
+
+
 
 
 # Microchallenge II
@@ -635,3 +642,11 @@ https://nodered.org/
 ### Photograph
 
 ![Immagine WhatsApp 2024-03-19 ore 18.07.58_8215d074](https://hackmd.io/_uploads/B1m9DUwAT.jpg)
+
+
+!!! danger ""
+
+    #### Personal Reflection
+    As in the previous microchallenge, I think I explored fields I was previously unaware of and thus immersed myself in the process of obtaining a physical output from an intelligence.
+    In fact, Carmen and I explored one of the possible declinations of data collection by sensors, which is the basis of my research for my thesis project. in addition, we linked data recollection with human health factors, both physical and mental. i found it very interesting to use artificial intelligence to simulate situations in which these factors come into play, creating anxiety and concern. In doing so, we made the artificial intelligence an integral part of the process of creating the designs and left it free to interpret different situations as well to see how it would interpret them.
+
