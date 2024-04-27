@@ -1,6 +1,7 @@
 The seminar went into more detail about the ethical dimanics of technology in relation to man and made us reflect on how design is intrinsic to these interactions.
 
 ???? danger "notes"
+
     Technosphere→ 
     *Not just as a collection of tools or machines, but a complex system involving techniques, processes, and organizational structures. Technology also encompasses the ways in which humans interact with and were shaped by these artifacts.*
     Jaques Ellul, The Technological Society
@@ -106,4 +107,3 @@ The seminar went into more detail about the ethical dimanics of technology in re
 !!! danger ""
 
     #### Reflection
-    
