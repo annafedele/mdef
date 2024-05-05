@@ -1,9 +1,9 @@
 The seminar went into more detail about the ethical dimanics of technology in relation to man and made us reflect on how design is intrinsic to these interactions.
 
-???? danger "notes"
+??? danger "notes"
 
     Technosphere→ 
-    *Not just as a collection of tools or machines, but a complex system involving techniques, processes, and organizational structures. Technology also encompasses the ways in which humans interact with and were shaped by these artifacts.*
+    *Not just as a collection of tools or machines, but a complex system involving techniques, processes, and organizational structures. Technology also encompasses the ways in which humans interact with and were shaped by these artifacts*
     Jaques Ellul, The Technological Society
 
     ### two ways of conceptualizing technology:
@@ -102,8 +102,12 @@ The seminar went into more detail about the ethical dimanics of technology in re
 ### Choosing a technological artifact: HEALTH APPLE APP
 *with Carmen and Drishya*
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vS3TQBf-LSyo7K1Ivtx4QqZjpwh8-GcOlIB_scBGPNkiTL77zh14JZ09dS5EvZ2LW0VMCALJNlrLuW8/pub?embedded=true"></iframe>
+<iframe width="768" height="432" src="https://docs.google.com/document/d/e/2PACX-1vS3TQBf-LSyo7K1Ivtx4QqZjpwh8-GcOlIB_scBGPNkiTL77zh14JZ09dS5EvZ2LW0VMCALJNlrLuW8/pub?embedded=true"></iframe>
 
 !!! danger ""
 
     #### Reflection
+    This seminar was of great interest to me as many of my projects, even in my previous studies, are related to care. My vision of design and planning is never detached from the ethics and adventures surrounding this historical period; that is, for me, designing means taking into consideration the context in which one finds oneself and designing for it (or in the case of the master's degree, designing for an emerging future).
+    In fact, I think the project I am doing for the master's degree is intrinsic to ethical issues related to technology as I am literally questioning the role of technology in the issue of gender violence and the dynamics of encounters between bodies. I am exploring, in a transhumanist dynamic what are the possibilities of wearing technologies such as sensors that can read and evaluate body language
+
+Translated with www.DeepL.com/Translator (free version)
