@@ -8,7 +8,7 @@ hide:
 ## Where to start?
 
 *I began my journey on this master's degree somewhat confused as to what my project interests really were, what I really liked to investigate until on 11 November 2023, 22-year-old Giulia Cecchettin was stabbed to death by her boyfriend of the same age and dumped in a ravine.* <br>
-*The news, which started in northern Italy, has gone around the world, and has in fact also arrived in my notifications.* <br>
+*The news, which happened in northern Italy, has gone around the world, and has in fact also arrived in my notifications.* <br>
 *Although physically far away, I felt so immensely close and angry; then I understood:* <br>
 *what you like must move something inside you.*
 
