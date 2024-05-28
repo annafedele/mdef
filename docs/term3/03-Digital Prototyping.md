@@ -16,10 +16,21 @@ The reference was to create a kind of online phone call where, based on the emot
 The inputs should be: Soft sensor, phone and face.
 
 ![alt text](<../images/digital_protyping/Risorsa 19RT1.png>){: .image-55-size-left}
-![alt text](<../images/digital_protyping/Risorsa 20RT1.png>)
+
 
 ### Soft sensor
 we started by developing these first sensors created with fabrics and the velostat, i.e. this marial that allows the resistance between two charges to vary and thus be able to measure the pressure applied at a given point. We first created a single sensor and then a matrix that, connected to processing, could map the area of the sensor and detect the position of where the change in pressure is applied to the touch
+
+(gif here)
+
+### Second step, translating emotions into data
+Our goal was to train a model to recognize emotions through different types of movements: anger, indicated by aggressive movements; happiness, shown by fluid movements; and confusion, characterized by minimal movement. The third input is a soft sensor that can pause all subsequent inputs. Essentially, face and phone tracking are similar as they both aim to recognize feelings and emotions, while the soft sensor acts as a switch, modifying how Wekinator and Max8 process inputs and outputs.
+![alt text](<../images/digital_protyping/Risorsa 20RT1.png>)
+
+## Final considerations
+We were therefore able to train a model such as Wekinator by combining facial expressions with body language using both a camera and sensors. it was very interesting for me to implement a more 'emotional' connotation to my body language reading research (part of my thesis project) rather than a broadly physical one. 
+Of course, it is not so direct and simple to create an intelligence that can accurately recognise human emotions as they are influenced by many factors 
+
 
 ## Final video
 
