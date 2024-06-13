@@ -6,6 +6,7 @@
 
 ![alt text](<../images/digital_protyping/Risorsa 18RT1.png>)
 
+[Fabrication files](https://drive.google.com/file/d/1NvgUB4E_gS0oH-8jtitPROeM8MrmTSxr/view?usp=drive_link)
 
 ## Task 4, Prototyping for interaction design
 
