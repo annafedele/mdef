@@ -11,18 +11,18 @@ We initially wondered about the shape of the table and since another group had m
 For the rotation system, we thought of making the structure rotate around a threaded bar in the centre; but that's not all: we added two small wheels on opposite sides to make the rotation more stable
 ![alt text](../images/digital_protyping/cnc1.png)
 
-## Second step, building the spinning table!
+### Second step, building the spinning table!
 After making the pattern (and making sure that the shapes and minures are suitable for the cnc) we made the necessary gcode to make the machine understand how to cut the material according to the design.
 ![alt text](../images/digital_protyping/GIFMaker_me.gif)
 ![alt text](../images/digital_protyping/IMG_1616.JPG){: .image-45-size-right}
 ![alt text](../images/digital_protyping/IMG_1620.JPG){: .image-45-size-left}
-## Final considerations
+### Final considerations
 I think the CNC is a great fabrication tool that I would like to learn to use more because it allows so many different types of design, however I have found it even more complex than other machines because there are so many more aspects to take into account for the model and for cutting that I have yet to learn better. <br>
 For example, even the type of wood if not combined with the right tool can cut in the wrong way (as in our case where the wood got more damaged than expected).<br>
 I honestly enjoyed assembling on the table because I noticed during this master's course that I focused a lot on electronics, data and so on, ignoring manufacturing, which is also something I have to work on and want to work on as a designer and in which you never stop learning!
 
 
-## Result
+### Result
 ![alt text](../images/digital_protyping/IMG_1629.JPG)
 [Fabrication files!](https://drive.google.com/file/d/1NvgUB4E_gS0oH-8jtitPROeM8MrmTSxr/view?usp=drive_link)
 ## Task 4, Prototyping for interaction design
@@ -45,7 +45,7 @@ we started by developing these first sensors created with fabrics and the velost
 Our goal was to train a model to recognize emotions through different types of movements: anger, indicated by aggressive movements; happiness, shown by fluid movements; and confusion, characterized by minimal movement. The third input is a soft sensor that can pause all subsequent inputs. Essentially, face and phone tracking are similar as they both aim to recognize feelings and emotions, while the soft sensor acts as a switch, modifying how Wekinator and Max8 process inputs and outputs.
 ![alt text](<../images/digital_protyping/Risorsa 20RT1.png>)
 
-## Final considerations
+### Final considerations
 We were therefore able to train a model such as Wekinator by combining facial expressions with body language using both a camera and sensors. it was very interesting for me to implement a more 'emotional' connotation to my body language reading research (part of my thesis project) rather than a broadly physical one. 
 Of course, it is not so direct and simple to create an intelligence that can accurately recognise human emotions as they are influenced by many factors 
 
@@ -62,13 +62,13 @@ Of course, it is not so direct and simple to create an intelligence that can acc
 Starting from the model we had trained, Carmen and I simulated a visual and sound output that recognized moods during a video call
 ![alt text](<../images/digital_protyping/Risorsa 25TASK5.png>)
 
-## Ideating the sequence of outputs
+### Ideating the sequence of outputs
 The main objective is to alter the inputs through sound and video, attempting to manipulate the visuals to touch upon various aspects of the video recieved.
 The computer altered the camera feed and audio output based on the movements and emotions we conveyed. The soft sensor was mainly employed to produce a negative or pause effect on the camera feed. Essentially, while the emotions detected prompted changes in the image, the soft sensor allowed us to pause, switch, and create a negative version of the camera feed.
 
 ![alt text](<../images/digital_protyping/Risorsa 24TASK5.png>)
 
-## Final considerations
+### Final considerations
 The purpose, was to simulate a video call between us where I would change moods by interacting with the sensor in the phone, and face tracking, bringing out different colors and sounds in Carmen's screen that could make her understand this mood change. <br>
 As a project, it may seem like a little research end in itself, but I have to say that we learned a lot of how to modify visual and sound effects that I will definitely use in the future-I'm really interested in the world of interactions and how to connect different inputs to each other in order to make them interact with their surroundings and with people.
 ## Final video
