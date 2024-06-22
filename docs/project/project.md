@@ -12,6 +12,9 @@ hide:
 *Although physically far away, I felt so immensely close and angry; then I understood:* <br>
 *what you like must move something inside you.*
 
+## Teaser video
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/948459805?h=e53dbf4272" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 ## First steps
 
 I therefore sought, with the means at my disposal, a way to represent in a raw but aseptic way what gender violence meant to me.
@@ -60,5 +63,11 @@ Establishing conversations and rising collective self-awareness among individual
 To best visualise my narrative, I chose the performing arts to represent the proximity between bodies.
 The fluidity of dance interconnected with sensor technology give rise to a linguistic code that is the inescapable proof of interaction
 
-## Teaser video
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/948459805?h=e53dbf4272" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+## Collaborations: Ester Sole and Giulia del Gobbo
+
+# MDEFFest 2024
+
+![alt text](../images/design_studio/picbody1.png)
+<iframe width="768" height="432" src="[text](../images/design_studio/NEWSPAPER.pdf)"></iframe>
+
+<iframe src="https://player.vimeo.com/video/964291969?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="&lt; body &gt;, as body syntax"></iframe>
