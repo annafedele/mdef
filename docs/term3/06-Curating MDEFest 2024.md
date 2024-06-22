@@ -18,4 +18,7 @@ The exhibit is a reflection on the various forms of unsafety and violation that 
 !!! danger ""
 
     #### Reflection
+    Despite the fact that there were three of us in the group, it was not immediate to find a common narrative between the three of us, also considering that our projects were in development and not fully finalised, so it could mean that something that went well one day might not go well the next. I appreciated the exercises we did to make the class think more deeply about narrative and context: I find that mastery of concepts and words is fundamental to the world of design and especially in this area more research into possible emerging futures, and it is definitely something I want to continue to persevere with and improve!!!
+
+
     
