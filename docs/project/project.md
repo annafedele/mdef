@@ -63,11 +63,14 @@ Establishing conversations and rising collective self-awareness among individual
 To best visualise my narrative, I chose the performing arts to represent the proximity between bodies.
 The fluidity of dance interconnected with sensor technology give rise to a linguistic code that is the inescapable proof of interaction
 
-## Collaborations: Ester Sole and Giulia del Gobbo
+## Collaborations: Giulia Del Gobbo and Ester Sole
+During my journey I had the opportunity to collaborate with people who helped me to develop both conceptually and practically. I collaborated with Giulia del Gobbo, an Italian designer who is currently studying "Critical Inquiry Lab" at the Design Academy in Eindhoven. our collaboration was more of a verbal and brainstorming type, but really useful to find another point of view, as she developed a project around gender violence: This project is about recreating a workshop where products are used to rewind
+[her work!](https://fliphtml5.com/lzbwg/fphh/Book_Del_Gobbo_Giulia/)
+
 
 # MDEFFest 2024
 
 ![alt text](../images/design_studio/picbody1.png)
-<iframe width="768" height="432" src="[text](../images/design_studio/NEWSPAPER.pdf)"></iframe>
+<iframe width="768" height="432" src="(../images/design_studio/NEWSPAPER.pdf)"></iframe>
 
 <iframe src="https://player.vimeo.com/video/964291969?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="&lt; body &gt;, as body syntax"></iframe>
