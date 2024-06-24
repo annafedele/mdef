@@ -64,13 +64,21 @@ To best visualise my narrative, I chose the performing arts to represent the pro
 The fluidity of dance interconnected with sensor technology give rise to a linguistic code that is the inescapable proof of interaction
 
 ## Collaborations: Giulia Del Gobbo and Ester Sole
-During my journey I had the opportunity to collaborate with people who helped me to develop both conceptually and practically. I collaborated with Giulia del Gobbo, an Italian designer who is currently studying "Critical Inquiry Lab" at the Design Academy in Eindhoven. our collaboration was more of a verbal and brainstorming type, but really useful to find another point of view, as she developed a project around gender violence: This project is about recreating a workshop where products are used to rewind
+During my journey I had the opportunity to collaborate with people who helped me to develop both conceptually and practically. I collaborated with Giulia del Gobbo, an Italian designer who is currently studying "Critical Inquiry Lab" at the Design Academy in Eindhoven. our collaboration was more of a verbal and brainstorming type, but really useful to find another point of view, as she developed a project around gender violence: This project is about recreating a workshop where products are used to rewind <br>
 [her work!](https://fliphtml5.com/lzbwg/fphh/Book_Del_Gobbo_Giulia/)
 
+I started collaborating with Ester because I wanted to give the project a more performative slant and I thought that associating body language with dance, with fluid movements, was the best way to show how it works.
+it was really interesting to relate to a dancer and thus find a way together to express concepts related to the project with the body: because it was not only about body language but also about showing the characteristics of an aggressive or otherwise intimidated.
 
-# MDEFFest 2024
 
+# MDEFest 2024
+### *Carmen, Dhrishya and I presented our projects at La Cristaleria Estudio on 11.06.2024 under the name {Un}seen Exposures*
+The exhibit is a reflection on the various forms of unsafety and violation that permeate our society. **Through physical interaction, urban navigation, and digital presence, this retrospective seeks to make visible the often-overlooked threats to our sense of security**. This exhibition unveils the delicate dance of physical closeness, the intuitive mapping of safe spaces, and the silent watch of digital surveillance. By using technology as a medium, we aim to stimulate awareness, provoke thought, and inspire action towards a safer and more transparent world.
+
+[credits to Cristina Bacchini](../images/design_studio/poster_anna_ultimo0.pdf){: .image-40-size-right}
 ![alt text](../images/design_studio/picbody1.png)
-<iframe width="768" height="432" src="(../images/design_studio/NEWSPAPER.pdf)"></iframe>
+![alt text](../images/design_studio/IMG_1566.JPG){: .image-45-size-left}
+![alt text](../images/design_studio/IMG_1570.JPG){: .image-45-size-right}
+<iframe width="768" height="432" src="https://drive.google.com/file/d/1hjSBFNa85024YEGTY_CQBhMOc2U4fRTm/view?usp=drive_link"></iframe>
 
 <iframe src="https://player.vimeo.com/video/964291969?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="&lt; body &gt;, as body syntax"></iframe>
