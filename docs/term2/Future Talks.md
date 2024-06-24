@@ -17,7 +17,21 @@ I would therefore also like to take these aspects into consideration in the futu
 - **Reflection**
 I think that the Reflection Tree is a really good to to use in order to understande how a project is accessible or environmentally generative or inclusive. It  helped me to understand what were pros and cons of my project but especially, made me reflect on what i could improve.
 
-## Future talk- Hellen Torres
+## Saul Baeza, around Hospitalet
+DOES is a design and consultancy practice exploring the potentials of digital and functional identities in different scales and media. Combining design, research, academic, curatorial and editorial activities, our interests lie in developing concepts that involve materials and technologies with body and mind.
+<br>
+With Saul we toured the Hospitalet de LLobergat and he showed us the highlights of the city and where the city's studios and art centres are located. I find L'H to be a great place to start your artistic journey because it is really full of interesting and creative people, the spaces are also original and inclusive!
+
+Also, Saul showed us his work as DOES WORK and for Visions by.
+I really like and am interested in Saul's work because it reflects themes such as digital survaillance, identity, the body, etc. in an aesthetically and design-wise innovative way.
+<br>
+For this reason, Few weeks later, I attended one of his workshops to contribute to his doctoral thesis. It was a speculation on digital camouflage related to facial recognition. Saul has made facial prostheses in the past that would allow facial identity to be unrecognised by FACE ID, even to be used only by FACE ID to allow facial identity to be kept private.
+During the workshop we were asked to think of a concept and make these prostheses:
+I associated this experience with my project and thought about the cases in which being filmed and surveilled is positive, in other words, in cases of violence: it has happened more than several times that the murderer or aggressor could be traced because he was filmed by security cameras. So my prosthesis rather than being made to hide was to show off.
+![alt text](../images/design_studio/IMG_1118.jpg){: .image-45-size-left}
+![alt text](../images/design_studio/IMG_1144.jpg){: .image-45-size-right}
+
+## Hellen Torres, For More Than Human-Centered Worlds
 
 Respons-ability→ 
 
@@ -75,3 +89,11 @@ Humans → holobionts
 Responsibility → response-ability
 
 Task → making oddkin
+
+## Krzysztof Wronski, what about after MDEF
+Krzysztof practically told us about his life before and after MDEF: he told us what he did before and what he specialised in, from product design to IU/UX design, brand identities and working for companies... and then after the master's degree we ask ourselves, what now? 
+MDEF is an 'anything is possible' bubble in which we float for 8 months and convince ourselves that everything we do is OK. <br>
+Which it is, but in what terms?<br>
+This master's degree does not tell you "you are wrong" but makes you realise that everything you produce is useful to yourself and others in a different way and encourages you to challenge yourself and your surroundings all the time.
+Krzysztof explained to us that the post-MDEF crisis is normal because we thought and prototyped and hypothesised so much during the master's course, but coming out of this bubble is not so easy.
+The secret is to take the interdisciplinarity and mental elasticity that the master's course gave us and apply it in the outside world: in my opinion it is important to take the skills acquired and preserve and improve them. This period was also a time to focus on aspects of design (or anything else) that were not closely related to my background and that without this course I would probably never have explored due to lack of time and resources. So MDEF makes you grow in terms of knowledge and methodologies that are fundamental in the world we live in today and hopefully also in the future.

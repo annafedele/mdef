@@ -74,8 +74,7 @@ it was really interesting to relate to a dancer and thus find a way together to 
 # MDEFest 2024
 ### *Carmen, Dhrishya and I presented our projects at La Cristaleria Estudio on 11.06.2024 under the name {Un}seen Exposures*
 The exhibit is a reflection on the various forms of unsafety and violation that permeate our society. **Through physical interaction, urban navigation, and digital presence, this retrospective seeks to make visible the often-overlooked threats to our sense of security**. This exhibition unveils the delicate dance of physical closeness, the intuitive mapping of safe spaces, and the silent watch of digital surveillance. By using technology as a medium, we aim to stimulate awareness, provoke thought, and inspire action towards a safer and more transparent world.
-
-[credits to Cristina Bacchini](../images/design_studio/poster_anna_ultimo0.pdf){: .image-40-size-right}
+![credits to Cristina Bacchini](../images/design_studio/poster_anna_ultimo0.jpg){: .image-40-size-right}
 ![alt text](../images/design_studio/picbody1.png)
 ![alt text](../images/design_studio/IMG_1566.JPG){: .image-45-size-left}
 ![alt text](../images/design_studio/IMG_1570.JPG){: .image-45-size-right}
